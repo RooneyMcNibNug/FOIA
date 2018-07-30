@@ -7,11 +7,11 @@
 
 if [[ ! "$#" = "1" ]]
   then
-      echo "Usage: $0 /path/to/PDFs"
+      echo "Usage: $0 /directory/of/PDFs"
       exit 1
 fi
 
-PDFDIRECTORY="$1"
+PDFDIR="$1"
 RED='\033[0;31m'
 GREEN='\033[0;32m'
 NO_COLOR='\033[0m'
@@ -34,7 +34,7 @@ while IFS= read -r -d $'\0' FILE; do
           echo -e "${GREEN}OCR:${NO_COLOR} $FILE"
     fi
 
-done < <(find "$PDFDIRECTORY" -type f -name '*.pdf' -print0)
+done < <(find "$PDFDIR" -type f -name '*.pdf' -print0)
 
     if [[ "$READ_ERROR" = "1" ]]
       then
