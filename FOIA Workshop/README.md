@@ -1,0 +1,1 @@
+Here are some slides for a "FOIA 101" workshop I've done. I've created these using reveal.js, a nifty HTML Presentation Framework - https://github.com/hakimel/reveal.js
