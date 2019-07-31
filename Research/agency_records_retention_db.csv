@@ -1,6 +1,4 @@
-
-
-,AGENCY,STATE,DOCUMENT NAME,URL,OCR?
+,AGENCY,STATE,DOCUMENT NAME,URL,OCR?,NOTES
 ,Chicago Police Department,IL,FORMS RETENTION SCHEDULE - ,directives.chicagopolice.org/forms/CPD_11.717_Numerical.pdf,Y
 ,Los Angeles Police Department,CA,GENERAL & DEPARTMENTAL 2019 Records Retention Schedules,file.lacounty.gov/SDSInter/bos/supdocs/Records.pdf,?
 ,City of Cleveland Ohio,OH,City Wide Retention Schedule,http://www.city.cleveland.oh.us/sites/default/files/forms_publications/RetentionSchedule.pdf,Y
@@ -44,3 +42,6 @@
 ,City of Fresno,CA,RECORDS MANAGEMENT GUIDELINES,https://www.fresno.gov/cityclerk/wp-content/uploads/sites/9/2016/10/CitywideRecordsRetentionSchedule.pdf,Y
 ,State of Connecticut,CT,General Records Retention Schedules for State Agencies,https://ctstatelibrary.org/publicrecords/general-schedules-state,HTML
 ,State of Nebraska,NE,RECORDS RETENTION AND DISPOSITION SCHEDULES,http://www.sos.ne.gov/records-management/retention_schedules.html,HTML
+,State of Kentucky,KY,Records Retention Schedules,https://kdla.ky.gov/records/recretentionschedules/Pages/default.aspx,HTML
+,U.S. Department of Labor,USA,DOL Records Management,https://www.dol.gov/agencies/oasam/centers-offices/business-operations-center/asset-resource-management/records,HTML
+,State of Deleware,DE,Retention Schedules,https://archives.delaware.gov/government-services/retention/,HTML
