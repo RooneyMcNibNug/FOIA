@@ -65,38 +65,20 @@ GENERAL PROVISIONS
     (c) Requests for inspection or copies shall be made in writing and directed to the public body. Written requests may be submitted to a public body via personal delivery, mail, telefax, or other means available to the public body. A public body may honor oral requests for inspection or copying. A public body may not require that a request be submitted on a standard form or require the requester to specify the purpose for a request, except to determine whether the records are requested for a commercial purpose or whether to grant a request for a fee waiver. All requests for inspection and copying received by a public body shall immediately be forwarded to its Freedom of Information officer or designee.
     (d) Each public body shall, promptly, either comply with or deny a request for public records within 5 business days after its receipt of the request, unless the time for response is properly extended under subsection (e) of this Section. Denial shall be in writing as provided in Section 9 of this Act. Failure to comply with a written request, extend the time for response, or deny a request within 5 business days after its receipt shall be considered a denial of the request. A public body that fails to respond to a request within the requisite periods in this Section but thereafter provides the requester with copies of the requested public records may not impose a fee for such copies. A public body that fails to respond to a request received may not treat the request as unduly burdensome under subsection (g).
     (e) The time for response under this Section may be extended by the public body for not more than 5 business days from the original due date for any of the following reasons:
-        (i) the requested records are stored in whole or in
-    	
-part at other locations than the office having charge of the requested records;
-        (ii) the request requires the collection of a
-    	
-substantial number of specified records;
-        (iii) the request is couched in categorical terms and
-    	
-requires an extensive search for the records responsive to it;
-        (iv) the requested records have not been located in
-    	
-the course of routine search and additional efforts are being made to locate them;
-        (v) the requested records require examination and
-    	
-evaluation by personnel having the necessary competence and discretion to determine if they are exempt from disclosure under Section 7 of this Act or should be revealed only with appropriate deletions;
-        (vi) the request for records cannot be complied with
-    	
-by the public body within the time limits prescribed by subsection (d) of this Section without unduly burdening or interfering with the operations of the public body;
-        (vii) there is a need for consultation, which shall
-    	
-be conducted with all practicable speed, with another public body or among 2 or more components of a public body having a substantial interest in the determination or in the subject matter of the request.
+        (i) the requested records are stored in whole or in part at other locations than the office having charge of the requested records;
+        (ii) the request requires the collection of a substantial number of specified records;
+        (iii) the request is couched in categorical terms and requires an extensive search for the records responsive to it;
+        (iv) the requested records have not been located in the course of routine search and additional efforts are being made to locate them;
+        (v) the requested records require examination and evaluation by personnel having the necessary competence and discretion to determine if they are exempt from disclosure under Section 7 of this Act or should be revealed only with appropriate deletions;
+        (vi) the request for records cannot be complied with by the public body within the time limits prescribed by subsection (d) of this Section without unduly burdening or interfering with the operations of the public body;
+        (vii) there is a need for consultation, which shall be conducted with all practicable speed, with another public body or among 2 or more components of a public body having a substantial interest in the determination or in the subject matter of the request.
     The person making a request and the public body may agree in writing to extend the time for compliance for a period to be determined by the parties. If the requester and the public body agree to extend the period for compliance, a failure by the public body to comply with any previous deadlines shall not be treated as a denial of the request for the records.
     (f) When additional time is required for any of the above reasons, the public body shall, within 5 business days after receipt of the request, notify the person making the request of the reasons for the extension and the date by which the response will be forthcoming. Failure to respond within the time permitted for extension shall be considered a denial of the request. A public body that fails to respond to a request within the time permitted for extension but thereafter provides the requester with copies of the requested public records may not impose a fee for those copies. A public body that requests an extension and subsequently fails to respond to the request may not treat the request as unduly burdensome under subsection (g).
     (g) Requests calling for all records falling within a category shall be complied with unless compliance with the request would be unduly burdensome for the complying public body and there is no way to narrow the request and the burden on the public body outweighs the public interest in the information. Before invoking this exemption, the public body shall extend to the person making the request an opportunity to confer with it in an attempt to reduce the request to manageable proportions. If any public body responds to a categorical request by stating that compliance would unduly burden its operation and the conditions described above are met, it shall do so in writing, specifying the reasons why it would be unduly burdensome and the extent to which compliance will so burden the operations of the public body. Such a response shall be treated as a denial of the request for information.
     Repeated requests from the same person for the same records that are unchanged or identical to records previously provided or properly denied under this Act shall be deemed unduly burdensome under this provision.
     (h) Each public body may promulgate rules and regulations in conformity with the provisions of this Section pertaining to the availability of records and procedures to be followed, including:
-        (i) the times and places where such records will be
-    	
-made available, and
-        (ii) the persons from whom such records may be
-    	
-obtained.
+        (i) the times and places where such records will be made available, and
+        (ii) the persons from whom such records may be obtained.
     (i) The time periods for compliance or denial of a request to inspect or copy records set out in this Section shall not apply to requests for records made for a commercial purpose, requests by a recurrent requester, or voluminous requests. Such requests shall be subject to the provisions of Sections 3.1, 3.2, and 3.6 of this Act, as applicable.
 (Source: P.A. 101-81, eff. 7-12-19.)
 
@@ -122,18 +104,10 @@ obtained.
     Sec. 3.5. Freedom of Information officers.
     (a) Each public body shall designate one or more officials or employees to act as its Freedom of Information officer or officers. Except in instances when records are furnished immediately, Freedom of Information officers, or their designees, shall receive requests submitted to the public body under this Act, ensure that the public body responds to requests in a timely fashion, and issue responses under this Act. Freedom of Information officers shall develop a list of documents or categories of records that the public body shall immediately disclose upon request.
     Upon receiving a request for a public record, the Freedom of Information officer shall:
-        (1) note the date the public body receives the
-    	
-written request;
-        (2) compute the day on which the period for response
-    	
-will expire and make a notation of that date on the written request;
-        (3) maintain an electronic or paper copy of a written
-    	
-request, including all documents submitted with the request until the request has been complied with or denied; and
-        (4) create a file for the retention of the original
-    	
-request, a copy of the response, a record of written communications with the requester, and a copy of other communications.
+        (1) note the date the public body receives the written request;
+        (2) compute the day on which the period for response will expire and make a notation of that date on the written request;
+        (3) maintain an electronic or paper copy of a written request, including all documents submitted with the request until the request has been complied with or denied; and
+        (4) create a file for the retention of the original request, a copy of the response, a record of written communications with the requester, and a copy of other communications.
     (b) All Freedom of Information officers shall, within 6 months after the effective date of this amendatory Act of the 96th General Assembly, successfully complete an electronic training curriculum to be developed by the Public Access Counselor and thereafter successfully complete an annual training program. Thereafter, whenever a new Freedom of Information officer is designated by a public body, that person shall successfully complete the electronic training curriculum within 30 days after assuming the position. Successful completion of the required training curriculum within the periods provided shall be a prerequisite to continue serving as a Freedom of Information officer.
 (Source: P.A. 96-542, eff. 1-1-10.)
 
@@ -149,12 +123,8 @@ request, a copy of the response, a record of written communications with the req
 
     (5 ILCS 140/4) (from Ch. 116, par. 204)
     Sec. 4. Each public body shall prominently display at each of its administrative or regional offices, make available for inspection and copying, and send through the mail if requested, each of the following:
-        (a) A brief description of itself, which will
-    	
-include, but not be limited to, a short summary of its purpose, a block diagram giving its functional subdivisions, the total amount of its operating budget, the number and location of all of its separate offices, the approximate number of full and part-time employees, and the identification and membership of any board, commission, committee, or council which operates in an advisory capacity relative to the operation of the public body, or which exercises control over its policies or procedures, or to which the public body is required to report and be answerable for its operations; and
-        (b) A brief description of the methods whereby the
-    	
-public may request information and public records, a directory designating the Freedom of Information officer or officers, the address where requests for public records should be directed, and any fees allowable under Section 6 of this Act.
+        (a) A brief description of itself, which will include, but not be limited to, a short summary of its purpose, a block diagram giving its functional subdivisions, the total amount of its operating budget, the number and location of all of its separate offices, the approximate number of full and part-time employees, and the identification and membership of any board, commission, committee, or council which operates in an advisory capacity relative to the operation of the public body, or which exercises control over its policies or procedures, or to which the public body is required to report and be answerable for its operations; and
+        (b) A brief description of the methods whereby the public may request information and public records, a directory designating the Freedom of Information officer or officers, the address where requests for public records should be directed, and any fees allowable under Section 6 of this Act.
     A public body that maintains a website shall also post this information on its website.
 (Source: P.A. 96-542, eff. 1-1-10; 96-1000, eff. 7-2-10.)
 
@@ -178,178 +148,66 @@ public may request information and public records, a directory designating the F
     (Text of Section from P.A. 101-434)
     Sec. 7. Exemptions.
     (1) When a request is made to inspect or copy a public record that contains information that is exempt from disclosure under this Section, but also contains information that is not exempt from disclosure, the public body may elect to redact the information that is exempt. The public body shall make the remaining information available for inspection and copying. Subject to this requirement, the following shall be exempt from inspection and copying:
-        (a) Information specifically prohibited from
-    	
-disclosure by federal or State law or rules and regulations implementing federal or State law.
-        (b) Private information, unless disclosure is
-    	
-required by another provision of this Act, a State or federal law or a court order.
-        (b-5) Files, documents, and other data or databases
-    	
-maintained by one or more law enforcement agencies and specifically designed to provide information to one or more law enforcement agencies regarding the physical or mental status of one or more individual subjects.
-        (c) Personal information contained within public
-    	
-records, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy, unless the disclosure is consented to in writing by the individual subjects of the information. "Unwarranted invasion of personal privacy" means the disclosure of information that is highly personal or objectionable to a reasonable person and in which the subject's right to privacy outweighs any legitimate public interest in obtaining the information. The disclosure of information that bears on the public duties of public employees and officials shall not be considered an invasion of personal privacy.
-        (d) Records in the possession of any public body
-    	
-created in the course of administrative enforcement proceedings, and any law enforcement or correctional agency for law enforcement purposes, but only to the extent that disclosure would:
-            (i) interfere with pending or actually and
-        	
-reasonably contemplated law enforcement proceedings conducted by any law enforcement or correctional agency that is the recipient of the request;
-            (ii) interfere with active administrative
-        	
-enforcement proceedings conducted by the public body that is the recipient of the request;
-            (iii) create a substantial likelihood that a
-        	
-person will be deprived of a fair trial or an impartial hearing;
-            (iv) unavoidably disclose the identity of a
-        	
-confidential source, confidential information furnished only by the confidential source, or persons who file complaints with or provide information to administrative, investigative, law enforcement, or penal agencies; except that the identities of witnesses to traffic accidents, traffic accident reports, and rescue reports shall be provided by agencies of local government, except when disclosure would interfere with an active criminal investigation conducted by the agency that is the recipient of the request;
-            (v) disclose unique or specialized investigative
-        	
-techniques other than those generally used and known or disclose internal documents of correctional agencies related to detection, observation or investigation of incidents of crime or misconduct, and disclosure would result in demonstrable harm to the agency or public body that is the recipient of the request;
-            (vi) endanger the life or physical safety of law
-        	
-enforcement personnel or any other person; or
-            (vii) obstruct an ongoing criminal investigation
-        	
-by the agency that is the recipient of the request.
+        (a) Information specifically prohibited from disclosure by federal or State law or rules and regulations implementing federal or State law.
+        (b) Private information, unless disclosure is required by another provision of this Act, a State or federal law or a court order.
+        (b-5) Files, documents, and other data or databases maintained by one or more law enforcement agencies and specifically designed to provide information to one or more law enforcement agencies regarding the physical or mental status of one or more individual subjects.
+        (c) Personal information contained within public records, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy, unless the disclosure is consented to in writing by the individual subjects of the information. "Unwarranted invasion of personal privacy" means the disclosure of information that is highly personal or objectionable to a reasonable person and in which the subject's right to privacy outweighs any legitimate public interest in obtaining the information. The disclosure of information that bears on the public duties of public employees and officials shall not be considered an invasion of personal privacy.
+        (d) Records in the possession of any public body created in the course of administrative enforcement proceedings, and any law enforcement or correctional agency for law enforcement purposes, but only to the extent that disclosure would:
+            (i) interfere with pending or actually and reasonably contemplated law enforcement proceedings conducted by any law enforcement or correctional agency that is the recipient of the request;
+            (ii) interfere with active administrative enforcement proceedings conducted by the public body that is the recipient of the request;
+            (iii) create a substantial likelihood that a person will be deprived of a fair trial or an impartial hearing;
+            (iv) unavoidably disclose the identity of a confidential source, confidential information furnished only by the confidential source, or persons who file complaints with or provide information to administrative, investigative, law enforcement, or penal agencies; except that the identities of witnesses to traffic accidents, traffic accident reports, and rescue reports shall be provided by agencies of local government, except when disclosure would interfere with an active criminal investigation conducted by the agency that is the recipient of the request;
+            (v) disclose unique or specialized investigative techniques other than those generally used and known or disclose internal documents of correctional agencies related to detection, observation or investigation of incidents of crime or misconduct, and disclosure would result in demonstrable harm to the agency or public body that is the recipient of the request;
+            (vi) endanger the life or physical safety of law enforcement personnel or any other person; or
+            (vii) obstruct an ongoing criminal investigation by the agency that is the recipient of the request.
         (d-5) A law enforcement record created for law
     	
 enforcement purposes and contained in a shared electronic record management system if the law enforcement agency that is the recipient of the request did not create the record, did not participate in or have a role in any of the events which are the subject of the record, and only has access to the record through the shared electronic record management system.
-        (e) Records that relate to or affect the security of
-    	
-correctional institutions and detention facilities.
-        (e-5) Records requested by persons committed to the
-    	
-Department of Corrections, Department of Human Services Division of Mental Health, or a county jail if those materials are available in the library of the correctional institution or facility or jail where the inmate is confined.
-        (e-6) Records requested by persons committed to the
-    	
-Department of Corrections, Department of Human Services Division of Mental Health, or a county jail if those materials include records from staff members' personnel files, staff rosters, or other staffing assignment information.
-        (e-7) Records requested by persons committed to the
-    	
-Department of Corrections or Department of Human Services Division of Mental Health if those materials are available through an administrative request to the Department of Corrections or Department of Human Services Division of Mental Health.
-        (e-8) Records requested by a person committed to
-    	
-the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail, the disclosure of which would result in the risk of harm to any person or the risk of an escape from a jail or correctional institution or facility.
-        (e-9) Records requested by a person in a county
-    	
-jail or committed to the Department of Corrections or Department of Human Services Division of Mental Health, containing personal information pertaining to the person's victim or the victim's family, including, but not limited to, a victim's home address, home telephone number, work or school address, work telephone number, social security number, or any other identifying information, except as may be relevant to a requester's current or potential case or claim.
-        (e-10) Law enforcement records of other persons
-    	
-requested by a person committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail, including, but not limited to, arrest and booking records, mug shots, and crime scene photographs, except as these records may be relevant to the requester's current or potential case or claim.
-        (f) Preliminary drafts, notes, recommendations,
-    	
-memoranda and other records in which opinions are expressed, or policies or actions are formulated, except that a specific record or relevant portion of a record shall not be exempt when the record is publicly cited and identified by the head of the public body. The exemption provided in this paragraph (f) extends to all those records of officers and agencies of the General Assembly that pertain to the preparation of legislative documents.
-        (g) Trade secrets and commercial or financial
-    	
-information obtained from a person or business where the trade secrets or commercial or financial information are furnished under a claim that they are proprietary, privileged or confidential, and that disclosure of the trade secrets or commercial or financial information would cause competitive harm to the person or business, and only insofar as the claim directly applies to the records requested.
-        The information included under this exemption
-    	
-includes all trade secrets and commercial or financial information obtained by a public body, including a public pension fund, from a private equity fund or a privately held company within the investment portfolio of a private equity fund as a result of either investing or evaluating a potential investment of public funds in a private equity fund. The exemption contained in this item does not apply to the aggregate financial performance information of a private equity fund, nor to the identity of the fund's managers or general partners. The exemption contained in this item does not apply to the identity of a privately held company within the investment portfolio of a private equity fund, unless the disclosure of the identity of a privately held company may cause competitive harm.
-        Nothing contained in this paragraph (g) shall be
-    	
-construed to prevent a person or business from consenting to disclosure.
-        (h) Proposals and bids for any contract, grant, or
-    	
-agreement, including information which if it were disclosed would frustrate procurement or give an advantage to any person proposing to enter into a contractor agreement with the body, until an award or final selection is made. Information prepared by or for the body in preparation of a bid solicitation shall be exempt until an award or final selection is made.
-        (i) Valuable formulae, computer geographic systems,
-    	
-designs, drawings and research data obtained or produced by any public body when disclosure could reasonably be expected to produce private gain or public loss. The exemption for "computer geographic systems" provided in this paragraph (i) does not extend to requests made by news media as defined in Section 2 of this Act when the requested information is not otherwise exempt and the only purpose of the request is to access and disseminate information regarding the health, safety, welfare, or legal rights of the general public.
-        (j) The following information pertaining to
-    	
-educational matters:
-            (i) test questions, scoring keys and other
-        	
-examination data used to administer an academic examination;
-            (ii) information received by a primary or
-        	
-secondary school, college, or university under its procedures for the evaluation of faculty members by their academic peers;
-            (iii) information concerning a school or
-        	
-university's adjudication of student disciplinary cases, but only to the extent that disclosure would unavoidably reveal the identity of the student; and
-            (iv) course materials or research materials used
-        	
-by faculty members.
-        (k) Architects' plans, engineers' technical
-    	
-submissions, and other construction related technical documents for projects not constructed or developed in whole or in part with public funds and the same for projects constructed or developed with public funds, including but not limited to power generating and distribution stations and other transmission and distribution facilities, water treatment facilities, airport facilities, sport stadiums, convention centers, and all government owned, operated, or occupied buildings, but only to the extent that disclosure would compromise security.
-        (l) Minutes of meetings of public bodies closed to
-    	
-the public as provided in the Open Meetings Act until the public body makes the minutes available to the public under Section 2.06 of the Open Meetings Act.
-        (m) Communications between a public body and an
-    	
-attorney or auditor representing the public body that would not be subject to discovery in litigation, and materials prepared or compiled by or for a public body in anticipation of a criminal, civil or administrative proceeding upon the request of an attorney advising the public body, and materials prepared or compiled with respect to internal audits of public bodies.
-        (n) Records relating to a public body's adjudication
-    	
-of employee grievances or disciplinary cases; however, this exemption shall not extend to the final outcome of cases in which discipline is imposed.
-        (o) Administrative or technical information
-    	
-associated with automated data processing operations, including but not limited to software, operating protocols, computer program abstracts, file layouts, source listings, object modules, load modules, user guides, documentation pertaining to all logical and physical design of computerized systems, employee manuals, and any other information that, if disclosed, would jeopardize the security of the system or its data or the security of materials exempt under this Section.
-        (p) Records relating to collective negotiating
-    	
-matters between public bodies and their employees or representatives, except that any final contract or agreement shall be subject to inspection and copying.
-        (q) Test questions, scoring keys, and other
-    	
-examination data used to determine the qualifications of an applicant for a license or employment.
-        (r) The records, documents, and information relating
-    	
-to real estate purchase negotiations until those negotiations have been completed or otherwise terminated. With regard to a parcel involved in a pending or actually and reasonably contemplated eminent domain proceeding under the Eminent Domain Act, records, documents and information relating to that parcel shall be exempt except as may be allowed under discovery rules adopted by the Illinois Supreme Court. The records, documents and information relating to a real estate sale shall be exempt until a sale is consummated.
-        (s) Any and all proprietary information and records
-    	
-related to the operation of an intergovernmental risk management association or self-insurance pool or jointly self-administered health and accident cooperative or pool. Insurance or self insurance (including any intergovernmental risk management association or self insurance pool) claims, loss or risk management information, records, data, advice or communications.
-        (t) Information contained in or related to
-    	
-examination, operating, or condition reports prepared by, on behalf of, or for the use of a public body responsible for the regulation or supervision of financial institutions or insurance companies, unless disclosure is otherwise required by State law.
-        (u) Information that would disclose or might lead to
-    	
-the disclosure of secret or confidential information, codes, algorithms, programs, or private keys intended to be used to create electronic or digital signatures under the Electronic Commerce Security Act.
-        (v) Vulnerability assessments, security measures, and
-    	
-response policies or plans that are designed to identify, prevent, or respond to potential attacks upon a community's population or systems, facilities, or installations, the destruction or contamination of which would constitute a clear and present danger to the health or safety of the community, but only to the extent that disclosure could reasonably be expected to jeopardize the effectiveness of the measures or the safety of the personnel who implement them or the public. Information exempt under this item may include such things as details pertaining to the mobilization or deployment of personnel or equipment, to the operation of communication systems or protocols, or to tactical operations.
+        (e) Records that relate to or affect the security of correctional institutions and detention facilities.
+        (e-5) Records requested by persons committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail if those materials are available in the library of the correctional institution or facility or jail where the inmate is confined.
+        (e-6) Records requested by persons committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail if those materials include records from staff members' personnel files, staff rosters, or other staffing assignment information.
+        (e-7) Records requested by persons committed to the Department of Corrections or Department of Human Services Division of Mental Health if those materials are available through an administrative request to the Department of Corrections or Department of Human Services Division of Mental Health.
+        (e-8) Records requested by a person committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail, the disclosure of which would result in the risk of harm to any person or the risk of an escape from a jail or correctional institution or facility.
+        (e-9) Records requested by a person in a county jail or committed to the Department of Corrections or Department of Human Services Division of Mental Health, containing personal information pertaining to the person's victim or the victim's family, including, but not limited to, a victim's home address, home telephone number, work or school address, work telephone number, social security number, or any other identifying information, except as may be relevant to a requester's current or potential case or claim.
+        (e-10) Law enforcement records of other persons requested by a person committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail, including, but not limited to, arrest and booking records, mug shots, and crime scene photographs, except as these records may be relevant to the requester's current or potential case or claim.
+        (f) Preliminary drafts, notes, recommendations, memoranda and other records in which opinions are expressed, or policies or actions are formulated, except that a specific record or relevant portion of a record shall not be exempt when the record is publicly cited and identified by the head of the public body. The exemption provided in this paragraph (f) extends to all those records of officers and agencies of the General Assembly that pertain to the preparation of legislative documents.
+        (g) Trade secrets and commercial or financial information obtained from a person or business where the trade secrets or commercial or financial information are furnished under a claim that they are proprietary, privileged or confidential, and that disclosure of the trade secrets or commercial or financial information would cause competitive harm to the person or business, and only insofar as the claim directly applies to the records requested.
+        The information included under this exemption includes all trade secrets and commercial or financial information obtained by a public body, including a public pension fund, from a private equity fund or a privately held company within the investment portfolio of a private equity fund as a result of either investing or evaluating a potential investment of public funds in a private equity fund. The exemption contained in this item does not apply to the aggregate financial performance information of a private equity fund, nor to the identity of the fund's managers or general partners. The exemption contained in this item does not apply to the identity of a privately held company within the investment portfolio of a private equity fund, unless the disclosure of the identity of a privately held company may cause competitive harm.
+        Nothing contained in this paragraph (g) shall be construed to prevent a person or business from consenting to disclosure.
+        (h) Proposals and bids for any contract, grant, or agreement, including information which if it were disclosed would frustrate procurement or give an advantage to any person proposing to enter into a contractor agreement with the body, until an award or final selection is made. Information prepared by or for the body in preparation of a bid solicitation shall be exempt until an award or final selection is made.
+        (i) Valuable formulae, computer geographic systems, designs, drawings and research data obtained or produced by any public body when disclosure could reasonably be expected to produce private gain or public loss. The exemption for "computer geographic systems" provided in this paragraph (i) does not extend to requests made by news media as defined in Section 2 of this Act when the requested information is not otherwise exempt and the only purpose of the request is to access and disseminate information regarding the health, safety, welfare, or legal rights of the general public.
+        (j) The following information pertaining to educational matters:
+            (i) test questions, scoring keys and other examination data used to administer an academic examination;
+            (ii) information received by a primary or secondary school, college, or university under its procedures for the evaluation of faculty members by their academic peers;
+            (iii) information concerning a school or university's adjudication of student disciplinary cases, but only to the extent that disclosure would unavoidably reveal the identity of the student; and
+            (iv) course materials or research materials used by faculty members.
+        (k) Architects' plans, engineers' technical submissions, and other construction related technical documents for projects not constructed or developed in whole or in part with public funds and the same for projects constructed or developed with public funds, including but not limited to power generating and distribution stations and other transmission and distribution facilities, water treatment facilities, airport facilities, sport stadiums, convention centers, and all government owned, operated, or occupied buildings, but only to the extent that disclosure would compromise security.
+        (l) Minutes of meetings of public bodies closed to the public as provided in the Open Meetings Act until the public body makes the minutes available to the public under Section 2.06 of the Open Meetings Act.
+        (m) Communications between a public body and an attorney or auditor representing the public body that would not be subject to discovery in litigation, and materials prepared or compiled by or for a public body in anticipation of a criminal, civil or administrative proceeding upon the request of an attorney advising the public body, and materials prepared or compiled with respect to internal audits of public bodies.
+        (n) Records relating to a public body's adjudication of employee grievances or disciplinary cases; however, this exemption shall not extend to the final outcome of cases in which discipline is imposed.
+        (o) Administrative or technical information associated with automated data processing operations, including but not limited to software, operating protocols, computer program abstracts, file layouts, source listings, object modules, load modules, user guides, documentation pertaining to all logical and physical design of computerized systems, employee manuals, and any other information that, if disclosed, would jeopardize the security of the system or its data or the security of materials exempt under this Section.
+        (p) Records relating to collective negotiating matters between public bodies and their employees or representatives, except that any final contract or agreement shall be subject to inspection and copying.
+        (q) Test questions, scoring keys, and other examination data used to determine the qualifications of an applicant for a license or employment.
+        (r) The records, documents, and information relating to real estate purchase negotiations until those negotiations have been completed or otherwise terminated. With regard to a parcel involved in a pending or actually and reasonably contemplated eminent domain proceeding under the Eminent Domain Act, records, documents and information relating to that parcel shall be exempt except as may be allowed under discovery rules adopted by the Illinois Supreme Court. The records, documents and information relating to a real estate sale shall be exempt until a sale is consummated.
+        (s) Any and all proprietary information and records related to the operation of an intergovernmental risk management association or self-insurance pool or jointly self-administered health and accident cooperative or pool. Insurance or self insurance (including any intergovernmental risk management association or self insurance pool) claims, loss or risk management information, records, data, advice or communications.
+        (t) Information contained in or related to examination, operating, or condition reports prepared by, on behalf of, or for the use of a public body responsible for the regulation or supervision of financial institutions or insurance companies, unless disclosure is otherwise required by State law.
+        (u) Information that would disclose or might lead to the disclosure of secret or confidential information, codes, algorithms, programs, or private keys intended to be used to create electronic or digital signatures under the Electronic Commerce Security Act.
+        (v) Vulnerability assessments, security measures, and response policies or plans that are designed to identify, prevent, or respond to potential attacks upon a community's population or systems, facilities, or installations, the destruction or contamination of which would constitute a clear and present danger to the health or safety of the community, but only to the extent that disclosure could reasonably be expected to jeopardize the effectiveness of the measures or the safety of the personnel who implement them or the public. Information exempt under this item may include such things as details pertaining to the mobilization or deployment of personnel or equipment, to the operation of communication systems or protocols, or to tactical operations.
         (w) (Blank).
-        (x) Maps and other records regarding the location or
-    	
-security of generation, transmission, distribution, storage, gathering, treatment, or switching facilities owned by a utility, by a power generator, or by the Illinois Power Agency.
-        (y) Information contained in or related to proposals,
-    	
-bids, or negotiations related to electric power procurement under Section 1-75 of the Illinois Power Agency Act and Section 16-111.5 of the Public Utilities Act that is determined to be confidential and proprietary by the Illinois Power Agency or by the Illinois Commerce Commission.
-        (z) Information about students exempted from
-    	
-disclosure under Sections 10-20.38 or 34-18.29 of the School Code, and information about undergraduate students enrolled at an institution of higher education exempted from disclosure under Section 25 of the Illinois Credit Card Marketing Act of 2009.
-        (aa) Information the disclosure of which is exempted
-    	
-under the Viatical Settlements Act of 2009.
-        (bb) Records and information provided to a mortality
-    	
-review team and records maintained by a mortality review team appointed under the Department of Juvenile Justice Mortality Review Team Act.
-        (cc) Information regarding interments, entombments,
-    	
-or inurnments of human remains that are submitted to the Cemetery Oversight Database under the Cemetery Care Act or the Cemetery Oversight Act, whichever is applicable.
-        (dd) Correspondence and records (i) that may not be
-    	
-disclosed under Section 11-9 of the Illinois Public Aid Code or (ii) that pertain to appeals under Section 11-8 of the Illinois Public Aid Code.
-        (ee) The names, addresses, or other personal
-    	
-information of persons who are minors and are also participants and registrants in programs of park districts, forest preserve districts, conservation districts, recreation agencies, and special recreation associations.
-        (ff) The names, addresses, or other personal
-    	
-information of participants and registrants in programs of park districts, forest preserve districts, conservation districts, recreation agencies, and special recreation associations where such programs are targeted primarily to minors.
-        (gg) Confidential information described in Section
-    	
-1-100 of the Illinois Independent Tax Tribunal Act of 2012.
-        (hh) The report submitted to the State Board of
-    	
-Education by the School Security and Standards Task Force under item (8) of subsection (d) of Section 2-3.160 of the School Code and any information contained in that report.
-        (ii) Records requested by persons committed to or
-    	
-detained by the Department of Human Services under the Sexually Violent Persons Commitment Act or committed to the Department of Corrections under the Sexually Dangerous Persons Act if those materials: (i) are available in the library of the facility where the individual is confined; (ii) include records from staff members' personnel files, staff rosters, or other staffing assignment information; or (iii) are available through an administrative request to the Department of Human Services or the Department of Corrections.
-        (jj) Confidential information described in Section
-    	
-5-535 of the Civil Administrative Code of Illinois.
-        (kk) The public body's credit card numbers, debit
-    	
-card numbers, bank account numbers, Federal Employer Identification Number, security code numbers, passwords, and similar account information, the disclosure of which could result in identity theft or impression or defrauding of a governmental entity or a person.
+        (x) Maps and other records regarding the location or security of generation, transmission, distribution, storage, gathering, treatment, or switching facilities owned by a utility, by a power generator, or by the Illinois Power Agency.
+        (y) Information contained in or related to proposals, bids, or negotiations related to electric power procurement under Section 1-75 of the Illinois Power Agency Act and Section 16-111.5 of the Public Utilities Act that is determined to be confidential and proprietary by the Illinois Power Agency or by the Illinois Commerce Commission.
+        (z) Information about students exempted from disclosure under Sections 10-20.38 or 34-18.29 of the School Code, and information about undergraduate students enrolled at an institution of higher education exempted from disclosure under Section 25 of the Illinois Credit Card Marketing Act of 2009.
+        (aa) Information the disclosure of which is exempted under the Viatical Settlements Act of 2009.
+        (bb) Records and information provided to a mortality review team and records maintained by a mortality review team appointed under the Department of Juvenile Justice Mortality Review Team Act.
+        (cc) Information regarding interments, entombments, or inurnments of human remains that are submitted to the Cemetery Oversight Database under the Cemetery Care Act or the Cemetery Oversight Act, whichever is applicable.
+        (dd) Correspondence and records (i) that may not be disclosed under Section 11-9 of the Illinois Public Aid Code or (ii) that pertain to appeals under Section 11-8 of the Illinois Public Aid Code.
+        (ee) The names, addresses, or other personal information of persons who are minors and are also participants and registrants in programs of park districts, forest preserve districts, conservation districts, recreation agencies, and special recreation associations.
+        (ff) The names, addresses, or other personal information of participants and registrants in programs of park districts, forest preserve districts, conservation districts, recreation agencies, and special recreation associations where such programs are targeted primarily to minors.
+        (gg) Confidential information described in Section 1-100 of the Illinois Independent Tax Tribunal Act of 2012.
+        (hh) The report submitted to the State Board of Education by the School Security and Standards Task Force under item (8) of subsection (d) of Section 2-3.160 of the School Code and any information contained in that report.
+        (ii) Records requested by persons committed to or detained by the Department of Human Services under the Sexually Violent Persons Commitment Act or committed to the Department of Corrections under the Sexually Dangerous Persons Act if those materials: (i) are available in the library of the facility where the individual is confined; (ii) include records from staff members' personnel files, staff rosters, or other staffing assignment information; or (iii) are available through an administrative request to the Department of Human Services or the Department of Corrections.
+        (jj) Confidential information described in Section 5-535 of the Civil Administrative Code of Illinois.
+        (kk) The public body's credit card numbers, debit card numbers, bank account numbers, Federal Employer Identification Number, security code numbers, passwords, and similar account information, the disclosure of which could result in identity theft or impression or defrauding of a governmental entity or a person.
     (1.5) Any information exempt from disclosure under the Judicial Privacy Act shall be redacted from public records prior to disclosure under this Act.
     (2) A public record that is not in the possession of a public body but is in the possession of a party with whom the agency has contracted to perform a governmental function on behalf of the public body, and that directly relates to the governmental function and is not otherwise exempt under this Act, shall be considered a public record of the public body, for purposes of this Act.
     (3) This Section does not authorize withholding of information or limit the availability of records to the public, except as stated in this Section or otherwise provided in this Act.
@@ -358,172 +216,62 @@ card numbers, bank account numbers, Federal Employer Identification Number, secu
     (Text of Section from P.A. 101-452)
     Sec. 7. Exemptions.
     (1) When a request is made to inspect or copy a public record that contains information that is exempt from disclosure under this Section, but also contains information that is not exempt from disclosure, the public body may elect to redact the information that is exempt. The public body shall make the remaining information available for inspection and copying. Subject to this requirement, the following shall be exempt from inspection and copying:
-        (a) Information specifically prohibited from
-    	
-disclosure by federal or State law or rules and regulations implementing federal or State law.
-        (b) Private information, unless disclosure is
-    	
-required by another provision of this Act, a State or federal law or a court order.
-        (b-5) Files, documents, and other data or databases
-    	
-maintained by one or more law enforcement agencies and specifically designed to provide information to one or more law enforcement agencies regarding the physical or mental status of one or more individual subjects.
-        (c) Personal information contained within public
-    	
-records, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy, unless the disclosure is consented to in writing by the individual subjects of the information. "Unwarranted invasion of personal privacy" means the disclosure of information that is highly personal or objectionable to a reasonable person and in which the subject's right to privacy outweighs any legitimate public interest in obtaining the information. The disclosure of information that bears on the public duties of public employees and officials shall not be considered an invasion of personal privacy.
-        (d) Records in the possession of any public body
-    	
-created in the course of administrative enforcement proceedings, and any law enforcement or correctional agency for law enforcement purposes, but only to the extent that disclosure would:
-            (i) interfere with pending or actually and
-        	
-reasonably contemplated law enforcement proceedings conducted by any law enforcement or correctional agency that is the recipient of the request;
-            (ii) interfere with active administrative
-        	
-enforcement proceedings conducted by the public body that is the recipient of the request;
-            (iii) create a substantial likelihood that a
-        	
-person will be deprived of a fair trial or an impartial hearing;
-            (iv) unavoidably disclose the identity of a
-        	
-confidential source, confidential information furnished only by the confidential source, or persons who file complaints with or provide information to administrative, investigative, law enforcement, or penal agencies; except that the identities of witnesses to traffic accidents, traffic accident reports, and rescue reports shall be provided by agencies of local government, except when disclosure would interfere with an active criminal investigation conducted by the agency that is the recipient of the request;
-            (v) disclose unique or specialized investigative
-        	
-techniques other than those generally used and known or disclose internal documents of correctional agencies related to detection, observation or investigation of incidents of crime or misconduct, and disclosure would result in demonstrable harm to the agency or public body that is the recipient of the request;
-            (vi) endanger the life or physical safety of law
-        	
-enforcement personnel or any other person; or
-            (vii) obstruct an ongoing criminal investigation
-        	
-by the agency that is the recipient of the request.
-        (d-5) A law enforcement record created for law
-    	
-enforcement purposes and contained in a shared electronic record management system if the law enforcement agency that is the recipient of the request did not create the record, did not participate in or have a role in any of the events which are the subject of the record, and only has access to the record through the shared electronic record management system.
-        (e) Records that relate to or affect the security of
-    	
-correctional institutions and detention facilities.
-        (e-5) Records requested by persons committed to the
-    	
-Department of Corrections, Department of Human Services Division of Mental Health, or a county jail if those materials are available in the library of the correctional institution or facility or jail where the inmate is confined.
-        (e-6) Records requested by persons committed to the
-    	
-Department of Corrections, Department of Human Services Division of Mental Health, or a county jail if those materials include records from staff members' personnel files, staff rosters, or other staffing assignment information.
-        (e-7) Records requested by persons committed to the
-    	
-Department of Corrections or Department of Human Services Division of Mental Health if those materials are available through an administrative request to the Department of Corrections or Department of Human Services Division of Mental Health.
-        (e-8) Records requested by a person committed to
-    	
-the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail, the disclosure of which would result in the risk of harm to any person or the risk of an escape from a jail or correctional institution or facility.
-        (e-9) Records requested by a person in a county
-    	
-jail or committed to the Department of Corrections or Department of Human Services Division of Mental Health, containing personal information pertaining to the person's victim or the victim's family, including, but not limited to, a victim's home address, home telephone number, work or school address, work telephone number, social security number, or any other identifying information, except as may be relevant to a requester's current or potential case or claim.
-        (e-10) Law enforcement records of other persons
-    	
-requested by a person committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail, including, but not limited to, arrest and booking records, mug shots, and crime scene photographs, except as these records may be relevant to the requester's current or potential case or claim.
-        (f) Preliminary drafts, notes, recommendations,
-    	
-memoranda and other records in which opinions are expressed, or policies or actions are formulated, except that a specific record or relevant portion of a record shall not be exempt when the record is publicly cited and identified by the head of the public body. The exemption provided in this paragraph (f) extends to all those records of officers and agencies of the General Assembly that pertain to the preparation of legislative documents.
-        (g) Trade secrets and commercial or financial
-    	
-information obtained from a person or business where the trade secrets or commercial or financial information are furnished under a claim that they are proprietary, privileged or confidential, and that disclosure of the trade secrets or commercial or financial information would cause competitive harm to the person or business, and only insofar as the claim directly applies to the records requested.
-        The information included under this exemption
-    	
-includes all trade secrets and commercial or financial information obtained by a public body, including a public pension fund, from a private equity fund or a privately held company within the investment portfolio of a private equity fund as a result of either investing or evaluating a potential investment of public funds in a private equity fund. The exemption contained in this item does not apply to the aggregate financial performance information of a private equity fund, nor to the identity of the fund's managers or general partners. The exemption contained in this item does not apply to the identity of a privately held company within the investment portfolio of a private equity fund, unless the disclosure of the identity of a privately held company may cause competitive harm.
-        Nothing contained in this paragraph (g) shall be
-    	
-construed to prevent a person or business from consenting to disclosure.
-        (h) Proposals and bids for any contract, grant, or
-    	
-agreement, including information which if it were disclosed would frustrate procurement or give an advantage to any person proposing to enter into a contractor agreement with the body, until an award or final selection is made. Information prepared by or for the body in preparation of a bid solicitation shall be exempt until an award or final selection is made.
-        (i) Valuable formulae, computer geographic systems,
-    	
-designs, drawings and research data obtained or produced by any public body when disclosure could reasonably be expected to produce private gain or public loss. The exemption for "computer geographic systems" provided in this paragraph (i) does not extend to requests made by news media as defined in Section 2 of this Act when the requested information is not otherwise exempt and the only purpose of the request is to access and disseminate information regarding the health, safety, welfare, or legal rights of the general public.
-        (j) The following information pertaining to
-    	
-educational matters:
-            (i) test questions, scoring keys and other
-        	
-examination data used to administer an academic examination;
-            (ii) information received by a primary or
-        	
-secondary school, college, or university under its procedures for the evaluation of faculty members by their academic peers;
-            (iii) information concerning a school or
-        	
-university's adjudication of student disciplinary cases, but only to the extent that disclosure would unavoidably reveal the identity of the student; and
-            (iv) course materials or research materials used
-        	
-by faculty members.
-        (k) Architects' plans, engineers' technical
-    	
-submissions, and other construction related technical documents for projects not constructed or developed in whole or in part with public funds and the same for projects constructed or developed with public funds, including but not limited to power generating and distribution stations and other transmission and distribution facilities, water treatment facilities, airport facilities, sport stadiums, convention centers, and all government owned, operated, or occupied buildings, but only to the extent that disclosure would compromise security.
-        (l) Minutes of meetings of public bodies closed to
-    	
-the public as provided in the Open Meetings Act until the public body makes the minutes available to the public under Section 2.06 of the Open Meetings Act.
-        (m) Communications between a public body and an
-    	
-attorney or auditor representing the public body that would not be subject to discovery in litigation, and materials prepared or compiled by or for a public body in anticipation of a criminal, civil or administrative proceeding upon the request of an attorney advising the public body, and materials prepared or compiled with respect to internal audits of public bodies.
-        (n) Records relating to a public body's adjudication
-    	
-of employee grievances or disciplinary cases; however, this exemption shall not extend to the final outcome of cases in which discipline is imposed.
-        (o) Administrative or technical information
-    	
-associated with automated data processing operations, including but not limited to software, operating protocols, computer program abstracts, file layouts, source listings, object modules, load modules, user guides, documentation pertaining to all logical and physical design of computerized systems, employee manuals, and any other information that, if disclosed, would jeopardize the security of the system or its data or the security of materials exempt under this Section.
-        (p) Records relating to collective negotiating
-    	
-matters between public bodies and their employees or representatives, except that any final contract or agreement shall be subject to inspection and copying.
-        (q) Test questions, scoring keys, and other
-    	
-examination data used to determine the qualifications of an applicant for a license or employment.
-        (r) The records, documents, and information relating
-    	
-to real estate purchase negotiations until those negotiations have been completed or otherwise terminated. With regard to a parcel involved in a pending or actually and reasonably contemplated eminent domain proceeding under the Eminent Domain Act, records, documents and information relating to that parcel shall be exempt except as may be allowed under discovery rules adopted by the Illinois Supreme Court. The records, documents and information relating to a real estate sale shall be exempt until a sale is consummated.
-        (s) Any and all proprietary information and records
-    	
-related to the operation of an intergovernmental risk management association or self-insurance pool or jointly self-administered health and accident cooperative or pool. Insurance or self insurance (including any intergovernmental risk management association or self insurance pool) claims, loss or risk management information, records, data, advice or communications.
-        (t) Information contained in or related to
-    	
-examination, operating, or condition reports prepared by, on behalf of, or for the use of a public body responsible for the regulation or supervision of financial institutions, insurance companies, or pharmacy benefit managers, unless disclosure is otherwise required by State law.
-        (u) Information that would disclose or might lead to
-    	
-the disclosure of secret or confidential information, codes, algorithms, programs, or private keys intended to be used to create electronic or digital signatures under the Electronic Commerce Security Act.
-        (v) Vulnerability assessments, security measures, and
-    	
-response policies or plans that are designed to identify, prevent, or respond to potential attacks upon a community's population or systems, facilities, or installations, the destruction or contamination of which would constitute a clear and present danger to the health or safety of the community, but only to the extent that disclosure could reasonably be expected to jeopardize the effectiveness of the measures or the safety of the personnel who implement them or the public. Information exempt under this item may include such things as details pertaining to the mobilization or deployment of personnel or equipment, to the operation of communication systems or protocols, or to tactical operations.
+        (a) Information specifically prohibited from disclosure by federal or State law or rules and regulations implementing federal or State law.
+        (b) Private information, unless disclosure is required by another provision of this Act, a State or federal law or a court order.
+        (b-5) Files, documents, and other data or databases maintained by one or more law enforcement agencies and specifically designed to provide information to one or more law enforcement agencies regarding the physical or mental status of one or more individual subjects.
+        (c) Personal information contained within public records, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy, unless the disclosure is consented to in writing by the individual subjects of the information. "Unwarranted invasion of personal privacy" means the disclosure of information that is highly personal or objectionable to a reasonable person and in which the subject's right to privacy outweighs any legitimate public interest in obtaining the information. The disclosure of information that bears on the public duties of public employees and officials shall not be considered an invasion of personal privacy.
+        (d) Records in the possession of any public body created in the course of administrative enforcement proceedings, and any law enforcement or correctional agency for law enforcement purposes, but only to the extent that disclosure would:
+            (i) interfere with pending or actually and reasonably contemplated law enforcement proceedings conducted by any law enforcement or correctional agency that is the recipient of the request;
+            (ii) interfere with active administrative enforcement proceedings conducted by the public body that is the recipient of the request;
+            (iii) create a substantial likelihood that a person will be deprived of a fair trial or an impartial hearing;
+            (iv) unavoidably disclose the identity of a confidential source, confidential information furnished only by the confidential source, or persons who file complaints with or provide information to administrative, investigative, law enforcement, or penal agencies; except that the identities of witnesses to traffic accidents, traffic accident reports, and rescue reports shall be provided by agencies of local government, except when disclosure would interfere with an active criminal investigation conducted by the agency that is the recipient of the request;
+            (v) disclose unique or specialized investigative techniques other than those generally used and known or disclose internal documents of correctional agencies related to detection, observation or investigation of incidents of crime or misconduct, and disclosure would result in demonstrable harm to the agency or public body that is the recipient of the request;
+            (vi) endanger the life or physical safety of law enforcement personnel or any other person; or
+            (vii) obstruct an ongoing criminal investigation by the agency that is the recipient of the request.
+        (d-5) A law enforcement record created for law enforcement purposes and contained in a shared electronic record management system if the law enforcement agency that is the recipient of the request did not create the record, did not participate in or have a role in any of the events which are the subject of the record, and only has access to the record through the shared electronic record management system.
+        (e) Records that relate to or affect the security of correctional institutions and detention facilities.
+        (e-5) Records requested by persons committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail if those materials are available in the library of the correctional institution or facility or jail where the inmate is confined.
+        (e-6) Records requested by persons committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail if those materials include records from staff members' personnel files, staff rosters, or other staffing assignment information.
+        (e-7) Records requested by persons committed to the Department of Corrections or Department of Human Services Division of Mental Health if those materials are available through an administrative request to the Department of Corrections or Department of Human Services Division of Mental Health.
+        (e-8) Records requested by a person committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail, the disclosure of which would result in the risk of harm to any person or the risk of an escape from a jail or correctional institution or facility.
+        (e-9) Records requested by a person in a county jail or committed to the Department of Corrections or Department of Human Services Division of Mental Health, containing personal information pertaining to the person's victim or the victim's family, including, but not limited to, a victim's home address, home telephone number, work or school address, work telephone number, social security number, or any other identifying information, except as may be relevant to a requester's current or potential case or claim.
+        (e-10) Law enforcement records of other persons requested by a person committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail, including, but not limited to, arrest and booking records, mug shots, and crime scene photographs, except as these records may be relevant to the requester's current or potential case or claim.
+        (f) Preliminary drafts, notes, recommendations, memoranda and other records in which opinions are expressed, or policies or actions are formulated, except that a specific record or relevant portion of a record shall not be exempt when the record is publicly cited and identified by the head of the public body. The exemption provided in this paragraph (f) extends to all those records of officers and agencies of the General Assembly that pertain to the preparation of legislative documents.
+        (g) Trade secrets and commercial or financial information obtained from a person or business where the trade secrets or commercial or financial information are furnished under a claim that they are proprietary, privileged or confidential, and that disclosure of the trade secrets or commercial or financial information would cause competitive harm to the person or business, and only insofar as the claim directly applies to the records requested.
+        The information included under this exemption includes all trade secrets and commercial or financial information obtained by a public body, including a public pension fund, from a private equity fund or a privately held company within the investment portfolio of a private equity fund as a result of either investing or evaluating a potential investment of public funds in a private equity fund. The exemption contained in this item does not apply to the aggregate financial performance information of a private equity fund, nor to the identity of the fund's managers or general partners. The exemption contained in this item does not apply to the identity of a privately held company within the investment portfolio of a private equity fund, unless the disclosure of the identity of a privately held company may cause competitive harm.
+        Nothing contained in this paragraph (g) shall be construed to prevent a person or business from consenting to disclosure.
+        (h) Proposals and bids for any contract, grant, or agreement, including information which if it were disclosed would frustrate procurement or give an advantage to any person proposing to enter into a contractor agreement with the body, until an award or final selection is made. Information prepared by or for the body in preparation of a bid solicitation shall be exempt until an award or final selection is made.
+        (i) Valuable formulae, computer geographic systems, designs, drawings and research data obtained or produced by any public body when disclosure could reasonably be expected to produce private gain or public loss. The exemption for "computer geographic systems" provided in this paragraph (i) does not extend to requests made by news media as defined in Section 2 of this Act when the requested information is not otherwise exempt and the only purpose of the request is to access and disseminate information regarding the health, safety, welfare, or legal rights of the general public.
+        (j) The following information pertaining to educational matters:
+            (i) test questions, scoring keys and other examination data used to administer an academic examination;
+            (ii) information received by a primary or secondary school, college, or university under its procedures for the evaluation of faculty members by their academic peers;
+            (iii) information concerning a school or university's adjudication of student disciplinary cases, but only to the extent that disclosure would unavoidably reveal the identity of the student; and
+            (iv) course materials or research materials used by faculty members.
+        (k) Architects' plans, engineers' technical submissions, and other construction related technical documents for projects not constructed or developed in whole or in part with public funds and the same for projects constructed or developed with public funds, including but not limited to power generating and distribution stations and other transmission and distribution facilities, water treatment facilities, airport facilities, sport stadiums, convention centers, and all government owned, operated, or occupied buildings, but only to the extent that disclosure would compromise security.
+        (l) Minutes of meetings of public bodies closed to the public as provided in the Open Meetings Act until the public body makes the minutes available to the public under Section 2.06 of the Open Meetings Act.
+        (m) Communications between a public body and an attorney or auditor representing the public body that would not be subject to discovery in litigation, and materials prepared or compiled by or for a public body in anticipation of a criminal, civil or administrative proceeding upon the request of an attorney advising the public body, and materials prepared or compiled with respect to internal audits of public bodies.
+        (n) Records relating to a public body's adjudication of employee grievances or disciplinary cases; however, this exemption shall not extend to the final outcome of cases in which discipline is imposed.
+        (o) Administrative or technical information associated with automated data processing operations, including but not limited to software, operating protocols, computer program abstracts, file layouts, source listings, object modules, load modules, user guides, documentation pertaining to all logical and physical design of computerized systems, employee manuals, and any other information that, if disclosed, would jeopardize the security of the system or its data or the security of materials exempt under this Section.
+        (p) Records relating to collective negotiating matters between public bodies and their employees or representatives, except that any final contract or agreement shall be subject to inspection and copying.
+        (q) Test questions, scoring keys, and other examination data used to determine the qualifications of an applicant for a license or employment.
+        (r) The records, documents, and information relating to real estate purchase negotiations until those negotiations have been completed or otherwise terminated. With regard to a parcel involved in a pending or actually and reasonably contemplated eminent domain proceeding under the Eminent Domain Act, records, documents and information relating to that parcel shall be exempt except as may be allowed under discovery rules adopted by the Illinois Supreme Court. The records, documents and information relating to a real estate sale shall be exempt until a sale is consummated.
+        (s) Any and all proprietary information and records related to the operation of an intergovernmental risk management association or self-insurance pool or jointly self-administered health and accident cooperative or pool. Insurance or self insurance (including any intergovernmental risk management association or self insurance pool) claims, loss or risk management information, records, data, advice or communications.
+        (t) Information contained in or related to examination, operating, or condition reports prepared by, on behalf of, or for the use of a public body responsible for the regulation or supervision of financial institutions, insurance companies, or pharmacy benefit managers, unless disclosure is otherwise required by State law.
+        (u) Information that would disclose or might lead to the disclosure of secret or confidential information, codes, algorithms, programs, or private keys intended to be used to create electronic or digital signatures under the Electronic Commerce Security Act.
+        (v) Vulnerability assessments, security measures, and response policies or plans that are designed to identify, prevent, or respond to potential attacks upon a community's population or systems, facilities, or installations, the destruction or contamination of which would constitute a clear and present danger to the health or safety of the community, but only to the extent that disclosure could reasonably be expected to jeopardize the effectiveness of the measures or the safety of the personnel who implement them or the public. Information exempt under this item may include such things as details pertaining to the mobilization or deployment of personnel or equipment, to the operation of communication systems or protocols, or to tactical operations.
         (w) (Blank).
-        (x) Maps and other records regarding the location or
-    	
-security of generation, transmission, distribution, storage, gathering, treatment, or switching facilities owned by a utility, by a power generator, or by the Illinois Power Agency.
-        (y) Information contained in or related to proposals,
-    	
-bids, or negotiations related to electric power procurement under Section 1-75 of the Illinois Power Agency Act and Section 16-111.5 of the Public Utilities Act that is determined to be confidential and proprietary by the Illinois Power Agency or by the Illinois Commerce Commission.
-        (z) Information about students exempted from
-    	
-disclosure under Sections 10-20.38 or 34-18.29 of the School Code, and information about undergraduate students enrolled at an institution of higher education exempted from disclosure under Section 25 of the Illinois Credit Card Marketing Act of 2009.
-        (aa) Information the disclosure of which is exempted
-    	
-under the Viatical Settlements Act of 2009.
-        (bb) Records and information provided to a mortality
-    	
-review team and records maintained by a mortality review team appointed under the Department of Juvenile Justice Mortality Review Team Act.
-        (cc) Information regarding interments, entombments,
-    	
-or inurnments of human remains that are submitted to the Cemetery Oversight Database under the Cemetery Care Act or the Cemetery Oversight Act, whichever is applicable.
-        (dd) Correspondence and records (i) that may not be
-    	
-disclosed under Section 11-9 of the Illinois Public Aid Code or (ii) that pertain to appeals under Section 11-8 of the Illinois Public Aid Code.
-        (ee) The names, addresses, or other personal
-    	
-information of persons who are minors and are also participants and registrants in programs of park districts, forest preserve districts, conservation districts, recreation agencies, and special recreation associations.
-        (ff) The names, addresses, or other personal
-    	
-information of participants and registrants in programs of park districts, forest preserve districts, conservation districts, recreation agencies, and special recreation associations where such programs are targeted primarily to minors.
-        (gg) Confidential information described in Section
-    	
-1-100 of the Illinois Independent Tax Tribunal Act of 2012.
-        (hh) The report submitted to the State Board of
-    	
-Education by the School Security and Standards Task Force under item (8) of subsection (d) of Section 2-3.160 of the School Code and any information contained in that report.
-        (ii) Records requested by persons committed to or
-    	
-detained by the Department of Human Services under the Sexually Violent Persons Commitment Act or committed to the Department of Corrections under the Sexually Dangerous Persons Act if those materials: (i) are available in the library of the facility where the individual is confined; (ii) include records from staff members' personnel files, staff rosters, or other staffing assignment information; or (iii) are available through an administrative request to the Department of Human Services or the Department of Corrections.
+        (x) Maps and other records regarding the location or security of generation, transmission, distribution, storage, gathering, treatment, or switching facilities owned by a utility, by a power generator, or by the Illinois Power Agency.
+        (y) Information contained in or related to proposals, bids, or negotiations related to electric power procurement under Section 1-75 of the Illinois Power Agency Act and Section 16-111.5 of the Public Utilities Act that is determined to be confidential and proprietary by the Illinois Power Agency or by the Illinois Commerce Commission.
+        (z) Information about students exempted from disclosure under Sections 10-20.38 or 34-18.29 of the School Code, and information about undergraduate students enrolled at an institution of higher education exempted from disclosure under Section 25 of the Illinois Credit Card Marketing Act of 2009.
+        (aa) Information the disclosure of which is exempted under the Viatical Settlements Act of 2009.
+        (bb) Records and information provided to a mortality review team and records maintained by a mortality review team appointed under the Department of Juvenile Justice Mortality Review Team Act.
+        (cc) Information regarding interments, entombments, or inurnments of human remains that are submitted to the Cemetery Oversight Database under the Cemetery Care Act or the Cemetery Oversight Act, whichever is applicable.
+        (dd) Correspondence and records (i) that may not be disclosed under Section 11-9 of the Illinois Public Aid Code or (ii) that pertain to appeals under Section 11-8 of the Illinois Public Aid Code.
+        (ee) The names, addresses, or other personal information of persons who are minors and are also participants and registrants in programs of park districts, forest preserve districts, conservation districts, recreation agencies, and special recreation associations.
+        (ff) The names, addresses, or other personal information of participants and registrants in programs of park districts, forest preserve districts, conservation districts, recreation agencies, and special recreation associations where such programs are targeted primarily to minors.
+        (gg) Confidential information described in Section 1-100 of the Illinois Independent Tax Tribunal Act of 2012.
+        (hh) The report submitted to the State Board ofEducation by the School Security and Standards Task Force under item (8) of subsection (d) of Section 2-3.160 of the School Code and any information contained in that report.
+        (ii) Records requested by persons committed to or detained by the Department of Human Services under the Sexually Violent Persons Commitment Act or committed to the Department of Corrections under the Sexually Dangerous Persons Act if those materials: (i) are available in the library of the facility where the individual is confined; (ii) include records from staff members' personnel files, staff rosters, or other staffing assignment information; or (iii) are available through an administrative request to the Department of Human Services or the Department of Corrections.
         (jj) Confidential information described in Section
     	
 5-535 of the Civil Administrative Code of Illinois.
@@ -535,178 +283,64 @@ detained by the Department of Human Services under the Sexually Violent Persons 
     (Text of Section from P.A. 101-455)
     Sec. 7. Exemptions.
     (1) When a request is made to inspect or copy a public record that contains information that is exempt from disclosure under this Section, but also contains information that is not exempt from disclosure, the public body may elect to redact the information that is exempt. The public body shall make the remaining information available for inspection and copying. Subject to this requirement, the following shall be exempt from inspection and copying:
-        (a) Information specifically prohibited from
-    	
-disclosure by federal or State law or rules and regulations implementing federal or State law.
-        (b) Private information, unless disclosure is
-    	
-required by another provision of this Act, a State or federal law or a court order.
-        (b-5) Files, documents, and other data or databases
-    	
-maintained by one or more law enforcement agencies and specifically designed to provide information to one or more law enforcement agencies regarding the physical or mental status of one or more individual subjects.
-        (c) Personal information contained within public
-    	
-records, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy, unless the disclosure is consented to in writing by the individual subjects of the information. "Unwarranted invasion of personal privacy" means the disclosure of information that is highly personal or objectionable to a reasonable person and in which the subject's right to privacy outweighs any legitimate public interest in obtaining the information. The disclosure of information that bears on the public duties of public employees and officials shall not be considered an invasion of personal privacy.
-        (d) Records in the possession of any public body
-    	
-created in the course of administrative enforcement proceedings, and any law enforcement or correctional agency for law enforcement purposes, but only to the extent that disclosure would:
-            (i) interfere with pending or actually and
-        	
-reasonably contemplated law enforcement proceedings conducted by any law enforcement or correctional agency that is the recipient of the request;
-            (ii) interfere with active administrative
-        	
-enforcement proceedings conducted by the public body that is the recipient of the request;
-            (iii) create a substantial likelihood that a
-        	
-person will be deprived of a fair trial or an impartial hearing;
-            (iv) unavoidably disclose the identity of a
-        	
-confidential source, confidential information furnished only by the confidential source, or persons who file complaints with or provide information to administrative, investigative, law enforcement, or penal agencies; except that the identities of witnesses to traffic accidents, traffic accident reports, and rescue reports shall be provided by agencies of local government, except when disclosure would interfere with an active criminal investigation conducted by the agency that is the recipient of the request;
-            (v) disclose unique or specialized investigative
-        	
-techniques other than those generally used and known or disclose internal documents of correctional agencies related to detection, observation or investigation of incidents of crime or misconduct, and disclosure would result in demonstrable harm to the agency or public body that is the recipient of the request;
-            (vi) endanger the life or physical safety of law
-        	
-enforcement personnel or any other person; or
-            (vii) obstruct an ongoing criminal investigation
-        	
-by the agency that is the recipient of the request.
-        (d-5) A law enforcement record created for law
-    	
-enforcement purposes and contained in a shared electronic record management system if the law enforcement agency that is the recipient of the request did not create the record, did not participate in or have a role in any of the events which are the subject of the record, and only has access to the record through the shared electronic record management system.
-        (e) Records that relate to or affect the security of
-    	
-correctional institutions and detention facilities.
-        (e-5) Records requested by persons committed to the
-    	
-Department of Corrections, Department of Human Services Division of Mental Health, or a county jail if those materials are available in the library of the correctional institution or facility or jail where the inmate is confined.
-        (e-6) Records requested by persons committed to the
-    	
-Department of Corrections, Department of Human Services Division of Mental Health, or a county jail if those materials include records from staff members' personnel files, staff rosters, or other staffing assignment information.
-        (e-7) Records requested by persons committed to the
-    	
-Department of Corrections or Department of Human Services Division of Mental Health if those materials are available through an administrative request to the Department of Corrections or Department of Human Services Division of Mental Health.
-        (e-8) Records requested by a person committed to
-    	
-the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail, the disclosure of which would result in the risk of harm to any person or the risk of an escape from a jail or correctional institution or facility.
-        (e-9) Records requested by a person in a county
-    	
-jail or committed to the Department of Corrections or Department of Human Services Division of Mental Health, containing personal information pertaining to the person's victim or the victim's family, including, but not limited to, a victim's home address, home telephone number, work or school address, work telephone number, social security number, or any other identifying information, except as may be relevant to a requester's current or potential case or claim.
-        (e-10) Law enforcement records of other persons
-    	
-requested by a person committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail, including, but not limited to, arrest and booking records, mug shots, and crime scene photographs, except as these records may be relevant to the requester's current or potential case or claim.
-        (f) Preliminary drafts, notes, recommendations,
-    	
-memoranda and other records in which opinions are expressed, or policies or actions are formulated, except that a specific record or relevant portion of a record shall not be exempt when the record is publicly cited and identified by the head of the public body. The exemption provided in this paragraph (f) extends to all those records of officers and agencies of the General Assembly that pertain to the preparation of legislative documents.
-        (g) Trade secrets and commercial or financial
-    	
-information obtained from a person or business where the trade secrets or commercial or financial information are furnished under a claim that they are proprietary, privileged or confidential, and that disclosure of the trade secrets or commercial or financial information would cause competitive harm to the person or business, and only insofar as the claim directly applies to the records requested.
-        The information included under this exemption
-    	
-includes all trade secrets and commercial or financial information obtained by a public body, including a public pension fund, from a private equity fund or a privately held company within the investment portfolio of a private equity fund as a result of either investing or evaluating a potential investment of public funds in a private equity fund. The exemption contained in this item does not apply to the aggregate financial performance information of a private equity fund, nor to the identity of the fund's managers or general partners. The exemption contained in this item does not apply to the identity of a privately held company within the investment portfolio of a private equity fund, unless the disclosure of the identity of a privately held company may cause competitive harm.
-        Nothing contained in this paragraph (g) shall be
-    	
-construed to prevent a person or business from consenting to disclosure.
-        (h) Proposals and bids for any contract, grant, or
-    	
-agreement, including information which if it were disclosed would frustrate procurement or give an advantage to any person proposing to enter into a contractor agreement with the body, until an award or final selection is made. Information prepared by or for the body in preparation of a bid solicitation shall be exempt until an award or final selection is made.
-        (i) Valuable formulae, computer geographic systems,
-    	
-designs, drawings and research data obtained or produced by any public body when disclosure could reasonably be expected to produce private gain or public loss. The exemption for "computer geographic systems" provided in this paragraph (i) does not extend to requests made by news media as defined in Section 2 of this Act when the requested information is not otherwise exempt and the only purpose of the request is to access and disseminate information regarding the health, safety, welfare, or legal rights of the general public.
-        (j) The following information pertaining to
-    	
-educational matters:
-            (i) test questions, scoring keys and other
-        	
-examination data used to administer an academic examination;
-            (ii) information received by a primary or
-        	
-secondary school, college, or university under its procedures for the evaluation of faculty members by their academic peers;
-            (iii) information concerning a school or
-        	
-university's adjudication of student disciplinary cases, but only to the extent that disclosure would unavoidably reveal the identity of the student; and
-            (iv) course materials or research materials used
-        	
-by faculty members.
-        (k) Architects' plans, engineers' technical
-    	
-submissions, and other construction related technical documents for projects not constructed or developed in whole or in part with public funds and the same for projects constructed or developed with public funds, including but not limited to power generating and distribution stations and other transmission and distribution facilities, water treatment facilities, airport facilities, sport stadiums, convention centers, and all government owned, operated, or occupied buildings, but only to the extent that disclosure would compromise security.
-        (l) Minutes of meetings of public bodies closed to
-    	
-the public as provided in the Open Meetings Act until the public body makes the minutes available to the public under Section 2.06 of the Open Meetings Act.
-        (m) Communications between a public body and an
-    	
-attorney or auditor representing the public body that would not be subject to discovery in litigation, and materials prepared or compiled by or for a public body in anticipation of a criminal, civil or administrative proceeding upon the request of an attorney advising the public body, and materials prepared or compiled with respect to internal audits of public bodies.
-        (n) Records relating to a public body's adjudication
-    	
-of employee grievances or disciplinary cases; however, this exemption shall not extend to the final outcome of cases in which discipline is imposed.
-        (o) Administrative or technical information
-    	
-associated with automated data processing operations, including but not limited to software, operating protocols, computer program abstracts, file layouts, source listings, object modules, load modules, user guides, documentation pertaining to all logical and physical design of computerized systems, employee manuals, and any other information that, if disclosed, would jeopardize the security of the system or its data or the security of materials exempt under this Section.
-        (p) Records relating to collective negotiating
-    	
-matters between public bodies and their employees or representatives, except that any final contract or agreement shall be subject to inspection and copying.
-        (q) Test questions, scoring keys, and other
-    	
-examination data used to determine the qualifications of an applicant for a license or employment.
-        (r) The records, documents, and information relating
-    	
-to real estate purchase negotiations until those negotiations have been completed or otherwise terminated. With regard to a parcel involved in a pending or actually and reasonably contemplated eminent domain proceeding under the Eminent Domain Act, records, documents and information relating to that parcel shall be exempt except as may be allowed under discovery rules adopted by the Illinois Supreme Court. The records, documents and information relating to a real estate sale shall be exempt until a sale is consummated.
-        (s) Any and all proprietary information and records
-    	
-related to the operation of an intergovernmental risk management association or self-insurance pool or jointly self-administered health and accident cooperative or pool. Insurance or self insurance (including any intergovernmental risk management association or self insurance pool) claims, loss or risk management information, records, data, advice or communications.
-        (t) Information contained in or related to
-    	
-examination, operating, or condition reports prepared by, on behalf of, or for the use of a public body responsible for the regulation or supervision of financial institutions or insurance companies, unless disclosure is otherwise required by State law.
-        (u) Information that would disclose or might lead to
-    	
-the disclosure of secret or confidential information, codes, algorithms, programs, or private keys intended to be used to create electronic or digital signatures under the Electronic Commerce Security Act.
-        (v) Vulnerability assessments, security measures, and
-    	
-response policies or plans that are designed to identify, prevent, or respond to potential attacks upon a community's population or systems, facilities, or installations, the destruction or contamination of which would constitute a clear and present danger to the health or safety of the community, but only to the extent that disclosure could reasonably be expected to jeopardize the effectiveness of the measures or the safety of the personnel who implement them or the public. Information exempt under this item may include such things as details pertaining to the mobilization or deployment of personnel or equipment, to the operation of communication systems or protocols, or to tactical operations.
+        (a) Information specifically prohibited from disclosure by federal or State law or rules and regulations implementing federal or State law.
+        (b) Private information, unless disclosure is required by another provision of this Act, a State or federal law or a court order.
+        (b-5) Files, documents, and other data or databases maintained by one or more law enforcement agencies and specifically designed to provide information to one or more law enforcement agencies regarding the physical or mental status of one or more individual subjects.
+        (c) Personal information contained within public records, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy, unless the disclosure is consented to in writing by the individual subjects of the information. "Unwarranted invasion of personal privacy" means the disclosure of information that is highly personal or objectionable to a reasonable person and in which the subject's right to privacy outweighs any legitimate public interest in obtaining the information. The disclosure of information that bears on the public duties of public employees and officials shall not be considered an invasion of personal privacy.
+        (d) Records in the possession of any public body created in the course of administrative enforcement proceedings, and any law enforcement or correctional agency for law enforcement purposes, but only to the extent that disclosure would:
+            (i) interfere with pending or actually and reasonably contemplated law enforcement proceedings conducted by any law enforcement or correctional agency that is the recipient of the request;
+            (ii) interfere with active administrative enforcement proceedings conducted by the public body that is the recipient of the request;
+            (iii) create a substantial likelihood that a person will be deprived of a fair trial or an impartial hearing;
+            (iv) unavoidably disclose the identity of a confidential source, confidential information furnished only by the confidential source, or persons who file complaints with or provide information to administrative, investigative, law enforcement, or penal agencies; except that the identities of witnesses to traffic accidents, traffic accident reports, and rescue reports shall be provided by agencies of local government, except when disclosure would interfere with an active criminal investigation conducted by the agency that is the recipient of the request;
+            (v) disclose unique or specialized investigative techniques other than those generally used and known or disclose internal documents of correctional agencies related to detection, observation or investigation of incidents of crime or misconduct, and disclosure would result in demonstrable harm to the agency or public body that is the recipient of the request;
+            (vi) endanger the life or physical safety of law enforcement personnel or any other person; or
+            (vii) obstruct an ongoing criminal investigation by the agency that is the recipient of the request.
+        (d-5) A law enforcement record created for law enforcement purposes and contained in a shared electronic record management system if the law enforcement agency that is the recipient of the request did not create the record, did not participate in or have a role in any of the events which are the subject of the record, and only has access to the record through the shared electronic record management system.
+        (e) Records that relate to or affect the security of correctional institutions and detention facilities.
+        (e-5) Records requested by persons committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail if those materials are available in the library of the correctional institution or facility or jail where the inmate is confined.
+        (e-6) Records requested by persons committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail if those materials include records from staff members' personnel files, staff rosters, or other staffing assignment information.
+        (e-7) Records requested by persons committed to the Department of Corrections or Department of Human Services Division of Mental Health if those materials are available through an administrative request to the Department of Corrections or Department of Human Services Division of Mental Health.
+        (e-8) Records requested by a person committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail, the disclosure of which would result in the risk of harm to any person or the risk of an escape from a jail or correctional institution or facility.
+        (e-9) Records requested by a person in a county jail or committed to the Department of Corrections or Department of Human Services Division of Mental Health, containing personal information pertaining to the person's victim or the victim's family, including, but not limited to, a victim's home address, home telephone number, work or school address, work telephone number, social security number, or any other identifying information, except as may be relevant to a requester's current or potential case or claim.
+        (e-10) Law enforcement records of other persons requested by a person committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail, including, but not limited to, arrest and booking records, mug shots, and crime scene photographs, except as these records may be relevant to the requester's current or potential case or claim.
+        (f) Preliminary drafts, notes, recommendations, memoranda and other records in which opinions are expressed, or policies or actions are formulated, except that a specific record or relevant portion of a record shall not be exempt when the record is publicly cited and identified by the head of the public body. The exemption provided in this paragraph (f) extends to all those records of officers and agencies of the General Assembly that pertain to the preparation of legislative documents.
+        (g) Trade secrets and commercial or financial information obtained from a person or business where the trade secrets or commercial or financial information are furnished under a claim that they are proprietary, privileged or confidential, and that disclosure of the trade secrets or commercial or financial information would cause competitive harm to the person or business, and only insofar as the claim directly applies to the records requested.
+        The information included under this exemption includes all trade secrets and commercial or financial information obtained by a public body, including a public pension fund, from a private equity fund or a privately held company within the investment portfolio of a private equity fund as a result of either investing or evaluating a potential investment of public funds in a private equity fund. The exemption contained in this item does not apply to the aggregate financial performance information of a private equity fund, nor to the identity of the fund's managers or general partners. The exemption contained in this item does not apply to the identity of a privately held company within the investment portfolio of a private equity fund, unless the disclosure of the identity of a privately held company may cause competitive harm.
+        Nothing contained in this paragraph (g) shall be construed to prevent a person or business from consenting to disclosure.
+        (h) Proposals and bids for any contract, grant, or agreement, including information which if it were disclosed would frustrate procurement or give an advantage to any person proposing to enter into a contractor agreement with the body, until an award or final selection is made. Information prepared by or for the body in preparation of a bid solicitation shall be exempt until an award or final selection is made.
+        (i) Valuable formulae, computer geographic systems, designs, drawings and research data obtained or produced by any public body when disclosure could reasonably be expected to produce private gain or public loss. The exemption for "computer geographic systems" provided in this paragraph (i) does not extend to requests made by news media as defined in Section 2 of this Act when the requested information is not otherwise exempt and the only purpose of the request is to access and disseminate information regarding the health, safety, welfare, or legal rights of the general public.
+        (j) The following information pertaining to educational matters:
+            (i) test questions, scoring keys and other examination data used to administer an academic examination;
+            (ii) information received by a primary or secondary school, college, or university under its procedures for the evaluation of faculty members by their academic peers;
+            (iii) information concerning a school or university's adjudication of student disciplinary cases, but only to the extent that disclosure would unavoidably reveal the identity of the student; and
+            (iv) course materials or research materials used by faculty members.
+        (k) Architects' plans, engineers' technical submissions, and other construction related technical documents for projects not constructed or developed in whole or in part with public funds and the same for projects constructed or developed with public funds, including but not limited to power generating and distribution stations and other transmission and distribution facilities, water treatment facilities, airport facilities, sport stadiums, convention centers, and all government owned, operated, or occupied buildings, but only to the extent that disclosure would compromise security.
+        (l) Minutes of meetings of public bodies closed to the public as provided in the Open Meetings Act until the public body makes the minutes available to the public under Section 2.06 of the Open Meetings Act.
+        (m) Communications between a public body and an attorney or auditor representing the public body that would not be subject to discovery in litigation, and materials prepared or compiled by or for a public body in anticipation of a criminal, civil or administrative proceeding upon the request of an attorney advising the public body, and materials prepared or compiled with respect to internal audits of public bodies.
+        (n) Records relating to a public body's adjudication of employee grievances or disciplinary cases; however, this exemption shall not extend to the final outcome of cases in which discipline is imposed.
+        (o) Administrative or technical information associated with automated data processing operations, including but not limited to software, operating protocols, computer program abstracts, file layouts, source listings, object modules, load modules, user guides, documentation pertaining to all logical and physical design of computerized systems, employee manuals, and any other information that, if disclosed, would jeopardize the security of the system or its data or the security of materials exempt under this Section.
+        (p) Records relating to collective negotiating matters between public bodies and their employees or representatives, except that any final contract or agreement shall be subject to inspection and copying.
+        (q) Test questions, scoring keys, and other examination data used to determine the qualifications of an applicant for a license or employment.
+        (r) The records, documents, and information relating to real estate purchase negotiations until those negotiations have been completed or otherwise terminated. With regard to a parcel involved in a pending or actually and reasonably contemplated eminent domain proceeding under the Eminent Domain Act, records, documents and information relating to that parcel shall be exempt except as may be allowed under discovery rules adopted by the Illinois Supreme Court. The records, documents and information relating to a real estate sale shall be exempt until a sale is consummated.
+        (s) Any and all proprietary information and records related to the operation of an intergovernmental risk management association or self-insurance pool or jointly self-administered health and accident cooperative or pool. Insurance or self insurance (including any intergovernmental risk management association or self insurance pool) claims, loss or risk management information, records, data, advice or communications.
+        (t) Information contained in or related to examination, operating, or condition reports prepared by, on behalf of, or for the use of a public body responsible for the regulation or supervision of financial institutions or insurance companies, unless disclosure is otherwise required by State law.
+        (u) Information that would disclose or might lead to the disclosure of secret or confidential information, codes, algorithms, programs, or private keys intended to be used to create electronic or digital signatures under the Electronic Commerce Security Act.
+        (v) Vulnerability assessments, security measures, and response policies or plans that are designed to identify, prevent, or respond to potential attacks upon a community's population or systems, facilities, or installations, the destruction or contamination of which would constitute a clear and present danger to the health or safety of the community, but only to the extent that disclosure could reasonably be expected to jeopardize the effectiveness of the measures or the safety of the personnel who implement them or the public. Information exempt under this item may include such things as details pertaining to the mobilization or deployment of personnel or equipment, to the operation of communication systems or protocols, or to tactical operations.
         (w) (Blank).
-        (x) Maps and other records regarding the location or
-    	
-security of generation, transmission, distribution, storage, gathering, treatment, or switching facilities owned by a utility, by a power generator, or by the Illinois Power Agency.
-        (y) Information contained in or related to proposals,
-    	
-bids, or negotiations related to electric power procurement under Section 1-75 of the Illinois Power Agency Act and Section 16-111.5 of the Public Utilities Act that is determined to be confidential and proprietary by the Illinois Power Agency or by the Illinois Commerce Commission.
-        (z) Information about students exempted from
-    	
-disclosure under Sections 10-20.38 or 34-18.29 of the School Code, and information about undergraduate students enrolled at an institution of higher education exempted from disclosure under Section 25 of the Illinois Credit Card Marketing Act of 2009.
-        (aa) Information the disclosure of which is exempted
-    	
-under the Viatical Settlements Act of 2009.
-        (bb) Records and information provided to a mortality
-    	
-review team and records maintained by a mortality review team appointed under the Department of Juvenile Justice Mortality Review Team Act.
-        (cc) Information regarding interments, entombments,
-    	
-or inurnments of human remains that are submitted to the Cemetery Oversight Database under the Cemetery Care Act or the Cemetery Oversight Act, whichever is applicable.
-        (dd) Correspondence and records (i) that may not be
-    	
-disclosed under Section 11-9 of the Illinois Public Aid Code or (ii) that pertain to appeals under Section 11-8 of the Illinois Public Aid Code.
-        (ee) The names, addresses, or other personal
-    	
-information of persons who are minors and are also participants and registrants in programs of park districts, forest preserve districts, conservation districts, recreation agencies, and special recreation associations.
-        (ff) The names, addresses, or other personal
-    	
-information of participants and registrants in programs of park districts, forest preserve districts, conservation districts, recreation agencies, and special recreation associations where such programs are targeted primarily to minors.
-        (gg) Confidential information described in Section
-    	
-1-100 of the Illinois Independent Tax Tribunal Act of 2012.
-        (hh) The report submitted to the State Board of
-    	
-Education by the School Security and Standards Task Force under item (8) of subsection (d) of Section 2-3.160 of the School Code and any information contained in that report.
-        (ii) Records requested by persons committed to or
-    	
-detained by the Department of Human Services under the Sexually Violent Persons Commitment Act or committed to the Department of Corrections under the Sexually Dangerous Persons Act if those materials: (i) are available in the library of the facility where the individual is confined; (ii) include records from staff members' personnel files, staff rosters, or other staffing assignment information; or (iii) are available through an administrative request to the Department of Human Services or the Department of Corrections.
-        (jj) Confidential information described in Section
-    	
-5-535 of the Civil Administrative Code of Illinois.
-        (kk) Records concerning the work of the threat
-    	
-assessment team of a school district.
+        (x) Maps and other records regarding the location or security of generation, transmission, distribution, storage, gathering, treatment, or switching facilities owned by a utility, by a power generator, or by the Illinois Power Agency.
+        (y) Information contained in or related to proposals, bids, or negotiations related to electric power procurement under Section 1-75 of the Illinois Power Agency Act and Section 16-111.5 of the Public Utilities Act that is determined to be confidential and proprietary by the Illinois Power Agency or by the Illinois Commerce Commission.
+        (z) Information about students exempted from disclosure under Sections 10-20.38 or 34-18.29 of the School Code, and information about undergraduate students enrolled at an institution of higher education exempted from disclosure under Section 25 of the Illinois Credit Card Marketing Act of 2009.
+        (aa) Information the disclosure of which is exempted under the Viatical Settlements Act of 2009.
+        (bb) Records and information provided to a mortality review team and records maintained by a mortality review team appointed under the Department of Juvenile Justice Mortality Review Team Act.
+        (cc) Information regarding interments, entombments, or inurnments of human remains that are submitted to the Cemetery Oversight Database under the Cemetery Care Act or the Cemetery Oversight Act, whichever is applicable.
+        (dd) Correspondence and records (i) that may not be disclosed under Section 11-9 of the Illinois Public Aid Code or (ii) that pertain to appeals under Section 11-8 of the Illinois Public Aid Code.
+        (ee) The names, addresses, or other personal information of persons who are minors and are also participants and registrants in programs of park districts, forest preserve districts, conservation districts, recreation agencies, and special recreation associations.
+        (ff) The names, addresses, or other personal information of participants and registrants in programs of park districts, forest preserve districts, conservation districts, recreation agencies, and special recreation associations where such programs are targeted primarily to minors.
+        (gg) Confidential information described in Section 1-100 of the Illinois Independent Tax Tribunal Act of 2012.
+        (hh) The report submitted to the State Board of Education by the School Security and Standards Task Force under item (8) of subsection (d) of Section 2-3.160 of the School Code and any information contained in that report.
+        (ii) Records requested by persons committed to or detained by the Department of Human Services under the Sexually Violent Persons Commitment Act or committed to the Department of Corrections under the Sexually Dangerous Persons Act if those materials: (i) are available in the library of the facility where the individual is confined; (ii) include records from staff members' personnel files, staff rosters, or other staffing assignment information; or (iii) are available through an administrative request to the Department of Human Services or the Department of Corrections.
+        (jj) Confidential information described in Section5-535 of the Civil Administrative Code of Illinois.
+        (kk) Records concerning the work of the threat assessment team of a school district.
     (1.5) Any information exempt from disclosure under the Judicial Privacy Act shall be redacted from public records prior to disclosure under this Act.
     (2) A public record that is not in the possession of a public body but is in the possession of a party with whom the agency has contracted to perform a governmental function on behalf of the public body, and that directly relates to the governmental function and is not otherwise exempt under this Act, shall be considered a public record of the public body, for purposes of this Act.
     (3) This Section does not authorize withholding of information or limit the availability of records to the public, except as stated in this Section or otherwise provided in this Act.
@@ -719,289 +353,105 @@ assessment team of a school district.
     (5 ILCS 140/7.5)
     (Text of Section from P.A. 101-600)
     Sec. 7.5. Statutory exemptions. To the extent provided for by the statutes referenced below, the following shall be exempt from inspection and copying:
-        (a) All information determined to be confidential
-    	
-under Section 4002 of the Technology Advancement and Development Act.
-        (b) Library circulation and order records identifying
-    	
-library users with specific materials under the Library Records Confidentiality Act.
-        (c) Applications, related documents, and medical
-    	
-records received by the Experimental Organ Transplantation Procedures Board and any and all documents or other records prepared by the Experimental Organ Transplantation Procedures Board or its staff relating to applications it has received.
-        (d) Information and records held by the Department of
-    	
-Public Health and its authorized representatives relating to known or suspected cases of sexually transmissible disease or any information the disclosure of which is restricted under the Illinois Sexually Transmissible Disease Control Act.
-        (e) Information the disclosure of which is exempted
-    	
-under Section 30 of the Radon Industry Licensing Act.
-        (f) Firm performance evaluations under Section 55 of
-    	
-the Architectural, Engineering, and Land Surveying Qualifications Based Selection Act.
-        (g) Information the disclosure of which is restricted
-    	
-and exempted under Section 50 of the Illinois Prepaid Tuition Act.
-        (h) Information the disclosure of which is exempted
-    	
-under the State Officials and Employees Ethics Act, and records of any lawfully created State or local inspector general's office that would be exempt if created or obtained by an Executive Inspector General's office under that Act.
-        (i) Information contained in a local emergency energy
-    	
-plan submitted to a municipality in accordance with a local emergency energy plan ordinance that is adopted under Section 11-21.5-5 of the Illinois Municipal Code.
-        (j) Information and data concerning the distribution
-    	
-of surcharge moneys collected and remitted by carriers under the Emergency Telephone System Act.
-        (k) Law enforcement officer identification
-    	
-information or driver identification information compiled by a law enforcement agency or the Department of Transportation under Section 11-212 of the Illinois Vehicle Code.
-        (l) Records and information provided to a residential
-    	
-health care facility resident sexual assault and death review team or the Executive Council under the Abuse Prevention Review Team Act.
-        (m) Information provided to the predatory lending
-    	
-database created pursuant to Article 3 of the Residential Real Property Disclosure Act, except to the extent authorized under that Article.
-        (n) Defense budgets and petitions for certification
-    	
-of compensation and expenses for court appointed trial counsel as provided under Sections 10 and 15 of the Capital Crimes Litigation Act. This subsection (n) shall apply until the conclusion of the trial of the case, even if the prosecution chooses not to pursue the death penalty prior to trial or sentencing.
-        (o) Information that is prohibited from being
-    	
-disclosed under Section 4 of the Illinois Health and Hazardous Substances Registry Act.
-        (p) Security portions of system safety program plans,
-    	
-investigation reports, surveys, schedules, lists, data, or information compiled, collected, or prepared by or for the Regional Transportation Authority under Section 2.11 of the Regional Transportation Authority Act or the St. Clair County Transit District under the Bi-State Transit Safety Act.
-        (q) Information prohibited from being disclosed by
-    	
-the Personnel Record Review Act.
-        (r) Information prohibited from being disclosed by
-    	
-the Illinois School Student Records Act.
-        (s) Information the disclosure of which is restricted
-    	
-under Section 5-108 of the Public Utilities Act.
-        (t) All identified or deidentified health information
-    	
-in the form of health data or medical records contained in, stored in, submitted to, transferred by, or released from the Illinois Health Information Exchange, and identified or deidentified health information in the form of health data and medical records of the Illinois Health Information Exchange in the possession of the Illinois Health Information Exchange Authority due to its administration of the Illinois Health Information Exchange. The terms "identified" and "deidentified" shall be given the same meaning as in the Health Insurance Portability and Accountability Act of 1996, Public Law 104-191, or any subsequent amendments thereto, and any regulations promulgated thereunder.
-        (u) Records and information provided to an
-    	
-independent team of experts under the Developmental Disability and Mental Health Safety Act (also known as Brian's Law).
-        (v) Names and information of people who have applied
-    	
-for or received Firearm Owner's Identification Cards under the Firearm Owners Identification Card Act or applied for or received a concealed carry license under the Firearm Concealed Carry Act, unless otherwise authorized by the Firearm Concealed Carry Act; and databases under the Firearm Concealed Carry Act, records of the Concealed Carry Licensing Review Board under the Firearm Concealed Carry Act, and law enforcement agency objections under the Firearm Concealed Carry Act.
-        (w) Personally identifiable information which is
-    	
-exempted from disclosure under subsection (g) of Section 19.1 of the Toll Highway Act.
-        (x) Information which is exempted from disclosure
-    	
-under Section 5-1014.3 of the Counties Code or Section 8-11-21 of the Illinois Municipal Code.
-        (y) Confidential information under the Adult
-    	
-Protective Services Act and its predecessor enabling statute, the Elder Abuse and Neglect Act, including information about the identity and administrative finding against any caregiver of a verified and substantiated decision of abuse, neglect, or financial exploitation of an eligible adult maintained in the Registry established under Section 7.5 of the Adult Protective Services Act.
-        (z) Records and information provided to a fatality
-    	
-review team or the Illinois Fatality Review Team Advisory Council under Section 15 of the Adult Protective Services Act.
-        (aa) Information which is exempted from disclosure
-    	
-under Section 2.37 of the Wildlife Code.
-        (bb) Information which is or was prohibited from
-    	
-disclosure by the Juvenile Court Act of 1987.
-        (cc) Recordings made under the Law Enforcement
-    	
-Officer-Worn Body Camera Act, except to the extent authorized under that Act.
-        (dd) Information that is prohibited from being
-    	
-disclosed under Section 45 of the Condominium and Common Interest Community Ombudsperson Act.
-        (ee) Information that is exempted from disclosure
-    	
-under Section 30.1 of the Pharmacy Practice Act.
-        (ff) Information that is exempted from disclosure
-    	
-under the Revised Uniform Unclaimed Property Act.
-        (gg) Information that is prohibited from being
-    	
-disclosed under Section 7-603.5 of the Illinois Vehicle Code.
+        (a) All information determined to be confidentialunder Section 4002 of the Technology Advancement and Development Act.
+        (b) Library circulation and order records identifying library users with specific materials under the Library Records Confidentiality Act.
+        (c) Applications, related documents, and medical records received by the Experimental Organ Transplantation Procedures Board and any and all documents or other records prepared by the Experimental Organ Transplantation Procedures Board or its staff relating to applications it has received.
+        (d) Information and records held by the Department ofPublic Health and its authorized representatives relating to known or suspected cases of sexually transmissible disease or any information the disclosure of which is restricted under the Illinois Sexually Transmissible Disease Control Act.
+        (e) Information the disclosure of which is exempted under Section 30 of the Radon Industry Licensing Act.
+        (f) Firm performance evaluations under Section 55 of the Architectural, Engineering, and Land Surveying Qualifications Based Selection Act.
+        (g) Information the disclosure of which is restricted and exempted under Section 50 of the Illinois Prepaid Tuition Act.
+        (h) Information the disclosure of which is exempted under the State Officials and Employees Ethics Act, and records of any lawfully created State or local inspector general's office that would be exempt if created or obtained by an Executive Inspector General's office under that Act.
+        (i) Information contained in a local emergency energy plan submitted to a municipality in accordance with a local emergency energy plan ordinance that is adopted under Section 11-21.5-5 of the Illinois Municipal Code.
+        (j) Information and data concerning the distribution of surcharge moneys collected and remitted by carriers under the Emergency Telephone System Act.
+        (k) Law enforcement officer identification information or driver identification information compiled by a law enforcement agency or the Department of Transportation under Section 11-212 of the Illinois Vehicle Code.
+        (l) Records and information provided to a residential health care facility resident sexual assault and death review team or the Executive Council under the Abuse Prevention Review Team Act.
+        (m) Information provided to the predatory lending database created pursuant to Article 3 of the Residential Real Property Disclosure Act, except to the extent authorized under that Article.
+        (n) Defense budgets and petitions for certification of compensation and expenses for court appointed trial counsel as provided under Sections 10 and 15 of the Capital Crimes Litigation Act. This subsection (n) shall apply until the conclusion of the trial of the case, even if the prosecution chooses not to pursue the death penalty prior to trial or sentencing.
+        (o) Information that is prohibited from being disclosed under Section 4 of the Illinois Health and Hazardous Substances Registry Act.
+        (p) Security portions of system safety program plans, investigation reports, surveys, schedules, lists, data, or information compiled, collected, or prepared by or for the Regional Transportation Authority under Section 2.11 of the Regional Transportation Authority Act or the St. Clair County Transit District under the Bi-State Transit Safety Act.
+        (q) Information prohibited from being disclosed by the Personnel Record Review Act.
+        (r) Information prohibited from being disclosed by the Illinois School Student Records Act.
+        (s) Information the disclosure of which is restricted under Section 5-108 of the Public Utilities Act.
+        (t) All identified or deidentified health information in the form of health data or medical records contained in, stored in, submitted to, transferred by, or released from the Illinois Health Information Exchange, and identified or deidentified health information in the form of health data and medical records of the Illinois Health Information Exchange in the possession of the Illinois Health Information Exchange Authority due to its administration of the Illinois Health Information Exchange. The terms "identified" and "deidentified" shall be given the same meaning as in the Health Insurance Portability and Accountability Act of 1996, Public Law 104-191, or any subsequent amendments thereto, and any regulations promulgated thereunder.
+        (u) Records and information provided to an independent team of experts under the Developmental Disability and Mental Health Safety Act (also known as Brian's Law).
+        (v) Names and information of people who have applied for or received Firearm Owner's Identification Cards under the Firearm Owners Identification Card Act or applied for or received a concealed carry license under the Firearm Concealed Carry Act, unless otherwise authorized by the Firearm Concealed Carry Act; and databases under the Firearm Concealed Carry Act, records of the Concealed Carry Licensing Review Board under the Firearm Concealed Carry Act, and law enforcement agency objections under the Firearm Concealed Carry Act.
+        (w) Personally identifiable information which is exempted from disclosure under subsection (g) of Section 19.1 of the Toll Highway Act.
+        (x) Information which is exempted from disclosure under Section 5-1014.3 of the Counties Code or Section 8-11-21 of the Illinois Municipal Code.
+        (y) Confidential information under the Adult Protective Services Act and its predecessor enabling statute, the Elder Abuse and Neglect Act, including information about the identity and administrative finding against any caregiver of a verified and substantiated decision of abuse, neglect, or financial exploitation of an eligible adult maintained in the Registry established under Section 7.5 of the Adult Protective Services Act.
+        (z) Records and information provided to a fatality review team or the Illinois Fatality Review Team Advisory Council under Section 15 of the Adult Protective Services Act.
+        (aa) Information which is exempted from disclosure under Section 2.37 of the Wildlife Code.
+        (bb) Information which is or was prohibited from disclosure by the Juvenile Court Act of 1987.
+        (cc) Recordings made under the Law Enforcement Officer-Worn Body Camera Act, except to the extent authorized under that Act.
+        (dd) Information that is prohibited from being disclosed under Section 45 of the Condominium and Common Interest Community Ombudsperson Act.
+        (ee) Information that is exempted from disclosure under Section 30.1 of the Pharmacy Practice Act.
+        (ff) Information that is exempted from disclosure under the Revised Uniform Unclaimed Property Act.
+        (gg) Information that is prohibited from being disclosed under Section 7-603.5 of the Illinois Vehicle Code.
         (hh) Records that are exempt from disclosure under
     	
 Section 1A-16.7 of the Election Code.
-        (ii) Information which is exempted from disclosure
-    	
-under Section 2505-800 of the Department of Revenue Law of the Civil Administrative Code of Illinois.
-        (jj) Information and reports that are required to be
-    	
-submitted to the Department of Labor by registering day and temporary labor service agencies but are exempt from disclosure under subsection (a-1) of Section 45 of the Day and Temporary Labor Services Act.
-        (kk) Information prohibited from disclosure under the
-    	
-Seizure and Forfeiture Reporting Act.
-        (ll) Information the disclosure of which is
-    	
-restricted and exempted under Section 5-30.8 of the Illinois Public Aid Code.
-        (mm) Records that are exempt from disclosure under
-    	
-Section 4.2 of the Crime Victims Compensation Act.
-        (nn) Information that is exempt from disclosure under
-    	
-Section 70 of the Higher Education Student Assistance Act.
-        (oo) Communications, notes, records, and reports
-    	
-arising out of a peer support counseling session prohibited from disclosure under the First Responders Suicide Prevention Act.
-        (pp) Names and all identifying information relating
-    	
-to an employee of an emergency services provider or law enforcement agency under the First Responders Suicide Prevention Act.
-        (qq) Information and records held by the Department
-    	
-of Public Health and its authorized representatives collected under the Reproductive Health Act.
-        (rr) Information that is exempt from disclosure under
-    	
-the Cannabis Regulation and Tax Act.
-        (ss) Data reported by an employer to the Department
-    	
-of Human Rights pursuant to Section 2-108 of the Illinois Human Rights Act.
-        (tt) Recordings made under the Children's Advocacy
-    	
-Center Act, except to the extent authorized under that Act.
-        (uu) Information that is exempt from disclosure under
-    	
-Section 50 of the Sexual Assault Evidence Submission Act.
-        (vv) Information that is exempt from disclosure under
-    	
-subsections (f) and (j) of Section 5-36 of the Illinois Public Aid Code.
-        (ww) Information that is exempt from disclosure under
-    	
-Section 16.8 of the State Treasurer Act.
-        (xx) Information that is exempt from disclosure or
-    	
-information that shall not be made public under the Illinois Insurance Code.
+        (ii) Information which is exempted from disclosure under Section 2505-800 of the Department of Revenue Law of the Civil Administrative Code of Illinois.
+        (jj) Information and reports that are required to be submitted to the Department of Labor by registering day and temporary labor service agencies but are exempt from disclosure under subsection (a-1) of Section 45 of the Day and Temporary Labor Services Act.
+        (kk) Information prohibited from disclosure under the Seizure and Forfeiture Reporting Act.
+        (ll) Information the disclosure of which is restricted and exempted under Section 5-30.8 of the Illinois Public Aid Code.
+        (mm) Records that are exempt from disclosure under Section 4.2 of the Crime Victims Compensation Act.
+        (nn) Information that is exempt from disclosure under Section 70 of the Higher Education Student Assistance Act.
+        (oo) Communications, notes, records, and reports arising out of a peer support counseling session prohibited from disclosure under the First Responders Suicide Prevention Act.
+        (pp) Names and all identifying information relating to an employee of an emergency services provider or law enforcement agency under the First Responders Suicide Prevention Act.
+        (qq) Information and records held by the Department of Public Health and its authorized representatives collected under the Reproductive Health Act.
+        (rr) Information that is exempt from disclosure under the Cannabis Regulation and Tax Act.
+        (ss) Data reported by an employer to the Department of Human Rights pursuant to Section 2-108 of the Illinois Human Rights Act.
+        (tt) Recordings made under the Children's Advocacy Center Act, except to the extent authorized under that Act.
+        (uu) Information that is exempt from disclosure under Section 50 of the Sexual Assault Evidence Submission Act.
+        (vv) Information that is exempt from disclosure under subsections (f) and (j) of Section 5-36 of the Illinois Public Aid Code.
+        (ww) Information that is exempt from disclosure under Section 16.8 of the State Treasurer Act.
+        (xx) Information that is exempt from disclosure or information that shall not be made public under the Illinois Insurance Code.
 (Source: P.A. 100-20, eff. 7-1-17; 100-22, eff. 1-1-18; 100-201, eff. 8-18-17; 100-373, eff. 1-1-18; 100-464, eff. 8-28-17; 100-465, eff. 8-31-17; 100-512, eff. 7-1-18; 100-517, eff. 6-1-18; 100-646, eff. 7-27-18; 100-690, eff. 1-1-19; 100-863, eff. 8-14-18; 100-887, eff. 8-14-18; 101-13, eff. 6-12-19; 101-27, eff. 6-25-19; 101-81, eff. 7-12-19; 101-221, eff. 1-1-20; 101-236, eff. 1-1-20; 101-375, eff. 8-16-19; 101-377, eff. 8-16-19; 101-452, eff. 1-1-20; 101-466, eff. 1-1-20; 101-600, eff. 12-6-19.)
  
     (Text of Section from P.A. 101-620)
     Sec. 7.5. Statutory exemptions. To the extent provided for by the statutes referenced below, the following shall be exempt from inspection and copying:
-        (a) All information determined to be confidential
-    	
-under Section 4002 of the Technology Advancement and Development Act.
-        (b) Library circulation and order records identifying
-    	
-library users with specific materials under the Library Records Confidentiality Act.
-        (c) Applications, related documents, and medical
-    	
-records received by the Experimental Organ Transplantation Procedures Board and any and all documents or other records prepared by the Experimental Organ Transplantation Procedures Board or its staff relating to applications it has received.
-        (d) Information and records held by the Department of
-    	
-Public Health and its authorized representatives relating to known or suspected cases of sexually transmissible disease or any information the disclosure of which is restricted under the Illinois Sexually Transmissible Disease Control Act.
-        (e) Information the disclosure of which is exempted
-    	
-under Section 30 of the Radon Industry Licensing Act.
-        (f) Firm performance evaluations under Section 55 of
-    	
-the Architectural, Engineering, and Land Surveying Qualifications Based Selection Act.
-        (g) Information the disclosure of which is restricted
-    	
-and exempted under Section 50 of the Illinois Prepaid Tuition Act.
-        (h) Information the disclosure of which is exempted
-    	
-under the State Officials and Employees Ethics Act, and records of any lawfully created State or local inspector general's office that would be exempt if created or obtained by an Executive Inspector General's office under that Act.
-        (i) Information contained in a local emergency energy
-    	
-plan submitted to a municipality in accordance with a local emergency energy plan ordinance that is adopted under Section 11-21.5-5 of the Illinois Municipal Code.
-        (j) Information and data concerning the distribution
-    	
-of surcharge moneys collected and remitted by carriers under the Emergency Telephone System Act.
-        (k) Law enforcement officer identification
-    	
-information or driver identification information compiled by a law enforcement agency or the Department of Transportation under Section 11-212 of the Illinois Vehicle Code.
-        (l) Records and information provided to a residential
-    	
-health care facility resident sexual assault and death review team or the Executive Council under the Abuse Prevention Review Team Act.
-        (m) Information provided to the predatory lending
-    	
-database created pursuant to Article 3 of the Residential Real Property Disclosure Act, except to the extent authorized under that Article.
-        (n) Defense budgets and petitions for certification
-    	
-of compensation and expenses for court appointed trial counsel as provided under Sections 10 and 15 of the Capital Crimes Litigation Act. This subsection (n) shall apply until the conclusion of the trial of the case, even if the prosecution chooses not to pursue the death penalty prior to trial or sentencing.
-        (o) Information that is prohibited from being
-    	
-disclosed under Section 4 of the Illinois Health and Hazardous Substances Registry Act.
-        (p) Security portions of system safety program plans,
-    	
-investigation reports, surveys, schedules, lists, data, or information compiled, collected, or prepared by or for the Regional Transportation Authority under Section 2.11 of the Regional Transportation Authority Act or the St. Clair County Transit District under the Bi-State Transit Safety Act.
-        (q) Information prohibited from being disclosed by
-    	
-the Personnel Record Review Act.
-        (r) Information prohibited from being disclosed by
-    	
-the Illinois School Student Records Act.
-        (s) Information the disclosure of which is restricted
-    	
-under Section 5-108 of the Public Utilities Act.
-        (t) All identified or deidentified health information
-    	
-in the form of health data or medical records contained in, stored in, submitted to, transferred by, or released from the Illinois Health Information Exchange, and identified or deidentified health information in the form of health data and medical records of the Illinois Health Information Exchange in the possession of the Illinois Health Information Exchange Authority due to its administration of the Illinois Health Information Exchange. The terms "identified" and "deidentified" shall be given the same meaning as in the Health Insurance Portability and Accountability Act of 1996, Public Law 104-191, or any subsequent amendments thereto, and any regulations promulgated thereunder.
-        (u) Records and information provided to an
-    	
-independent team of experts under the Developmental Disability and Mental Health Safety Act (also known as Brian's Law).
-        (v) Names and information of people who have applied
-    	
-for or received Firearm Owner's Identification Cards under the Firearm Owners Identification Card Act or applied for or received a concealed carry license under the Firearm Concealed Carry Act, unless otherwise authorized by the Firearm Concealed Carry Act; and databases under the Firearm Concealed Carry Act, records of the Concealed Carry Licensing Review Board under the Firearm Concealed Carry Act, and law enforcement agency objections under the Firearm Concealed Carry Act.
-        (w) Personally identifiable information which is
-    	
-exempted from disclosure under subsection (g) of Section 19.1 of the Toll Highway Act.
-        (x) Information which is exempted from disclosure
-    	
-under Section 5-1014.3 of the Counties Code or Section 8-11-21 of the Illinois Municipal Code.
-        (y) Confidential information under the Adult
-    	
-Protective Services Act and its predecessor enabling statute, the Elder Abuse and Neglect Act, including information about the identity and administrative finding against any caregiver of a verified and substantiated decision of abuse, neglect, or financial exploitation of an eligible adult maintained in the Registry established under Section 7.5 of the Adult Protective Services Act.
-        (z) Records and information provided to a fatality
-    	
-review team or the Illinois Fatality Review Team Advisory Council under Section 15 of the Adult Protective Services Act.
-        (aa) Information which is exempted from disclosure
-    	
-under Section 2.37 of the Wildlife Code.
-        (bb) Information which is or was prohibited from
-    	
-disclosure by the Juvenile Court Act of 1987.
-        (cc) Recordings made under the Law Enforcement
-    	
-Officer-Worn Body Camera Act, except to the extent authorized under that Act.
-        (dd) Information that is prohibited from being
-    	
-disclosed under Section 45 of the Condominium and Common Interest Community Ombudsperson Act.
-        (ee) Information that is exempted from disclosure
-    	
-under Section 30.1 of the Pharmacy Practice Act.
-        (ff) Information that is exempted from disclosure
-    	
-under the Revised Uniform Unclaimed Property Act.
-        (gg) Information that is prohibited from being
-    	
-disclosed under Section 7-603.5 of the Illinois Vehicle Code.
-        (hh) Records that are exempt from disclosure under
-    	
-Section 1A-16.7 of the Election Code.
-        (ii) Information which is exempted from disclosure
-    	
-under Section 2505-800 of the Department of Revenue Law of the Civil Administrative Code of Illinois.
-        (jj) Information and reports that are required to be
-    	
-submitted to the Department of Labor by registering day and temporary labor service agencies but are exempt from disclosure under subsection (a-1) of Section 45 of the Day and Temporary Labor Services Act.
-        (kk) Information prohibited from disclosure under the
-    	
-Seizure and Forfeiture Reporting Act.
-        (ll) Information the disclosure of which is
-    	
-restricted and exempted under Section 5-30.8 of the Illinois Public Aid Code.
-        (mm) Records that are exempt from disclosure under
-    	
-Section 4.2 of the Crime Victims Compensation Act.
-        (nn) Information that is exempt from disclosure under
-    	
-Section 70 of the Higher Education Student Assistance Act.
-        (oo) Information prohibited from being disclosed
-    	
-under the Illinois Educational Labor Relations Act.
-        (pp) Information prohibited from being disclosed
-    	
-under the Illinois Public Labor Relations Act.
-        (qq) Information prohibited from being disclosed
-    	
-under Section 1-167 of the Illinois Pension Code.
+        (a) All information determined to be confidential under Section 4002 of the Technology Advancement and Development Act.
+        (b) Library circulation and order records identifying library users with specific materials under the Library Records Confidentiality Act.
+        (c) Applications, related documents, and medical records received by the Experimental Organ Transplantation Procedures Board and any and all documents or other records prepared by the Experimental Organ Transplantation Procedures Board or its staff relating to applications it has received.
+        (d) Information and records held by the Department of Public Health and its authorized representatives relating to known or suspected cases of sexually transmissible disease or any information the disclosure of which is restricted under the Illinois Sexually Transmissible Disease Control Act.
+        (e) Information the disclosure of which is exempted under Section 30 of the Radon Industry Licensing Act.
+        (f) Firm performance evaluations under Section 55 of the Architectural, Engineering, and Land Surveying Qualifications Based Selection Act.
+        (g) Information the disclosure of which is restricted and exempted under Section 50 of the Illinois Prepaid Tuition Act.
+        (h) Information the disclosure of which is exempted under the State Officials and Employees Ethics Act, and records of any lawfully created State or local inspector general's office that would be exempt if created or obtained by an Executive Inspector General's office under that Act.
+        (i) Information contained in a local emergency energy plan submitted to a municipality in accordance with a local emergency energy plan ordinance that is adopted under Section 11-21.5-5 of the Illinois Municipal Code.
+        (j) Information and data concerning the distribution of surcharge moneys collected and remitted by carriers under the Emergency Telephone System Act.
+        (k) Law enforcement officer identification information or driver identification information compiled by a law enforcement agency or the Department of Transportation under Section 11-212 of the Illinois Vehicle Code.
+        (l) Records and information provided to a residential health care facility resident sexual assault and death review team or the Executive Council under the Abuse Prevention Review Team Act.
+        (m) Information provided to the predatory lending database created pursuant to Article 3 of the Residential Real Property Disclosure Act, except to the extent authorized under that Article.
+        (n) Defense budgets and petitions for certification of compensation and expenses for court appointed trial counsel as provided under Sections 10 and 15 of the Capital Crimes Litigation Act. This subsection (n) shall apply until the conclusion of the trial of the case, even if the prosecution chooses not to pursue the death penalty prior to trial or sentencing.
+        (o) Information that is prohibited from being disclosed under Section 4 of the Illinois Health and Hazardous Substances Registry Act.
+        (p) Security portions of system safety program plans, investigation reports, surveys, schedules, lists, data, or information compiled, collected, or prepared by or for the Regional Transportation Authority under Section 2.11 of the Regional Transportation Authority Act or the St. Clair County Transit District under the Bi-State Transit Safety Act.
+        (q) Information prohibited from being disclosed by the Personnel Record Review Act.
+        (r) Information prohibited from being disclosed by the Illinois School Student Records Act.
+        (s) Information the disclosure of which is restricted under Section 5-108 of the Public Utilities Act.
+        (t) All identified or deidentified health information in the form of health data or medical records contained in, stored in, submitted to, transferred by, or released from the Illinois Health Information Exchange, and identified or deidentified health information in the form of health data and medical records of the Illinois Health Information Exchange in the possession of the Illinois Health Information Exchange Authority due to its administration of the Illinois Health Information Exchange. The terms "identified" and "deidentified" shall be given the same meaning as in the Health Insurance Portability and Accountability Act of 1996, Public Law 104-191, or any subsequent amendments thereto, and any regulations promulgated thereunder.
+        (u) Records and information provided to an independent team of experts under the Developmental Disability and Mental Health Safety Act (also known as Brian's Law).
+        (v) Names and information of people who have applied for or received Firearm Owner's Identification Cards under the Firearm Owners Identification Card Act or applied for or received a concealed carry license under the Firearm Concealed Carry Act, unless otherwise authorized by the Firearm Concealed Carry Act; and databases under the Firearm Concealed Carry Act, records of the Concealed Carry Licensing Review Board under the Firearm Concealed Carry Act, and law enforcement agency objections under the Firearm Concealed Carry Act.
+        (w) Personally identifiable information which is exempted from disclosure under subsection (g) of Section 19.1 of the Toll Highway Act.
+        (x) Information which is exempted from disclosure under Section 5-1014.3 of the Counties Code or Section 8-11-21 of the Illinois Municipal Code.
+        (y) Confidential information under the Adult Protective Services Act and its predecessor enabling statute, the Elder Abuse and Neglect Act, including information about the identity and administrative finding against any caregiver of a verified and substantiated decision of abuse, neglect, or financial exploitation of an eligible adult maintained in the Registry established under Section 7.5 of the Adult Protective Services Act.
+        (z) Records and information provided to a fatality review team or the Illinois Fatality Review Team Advisory Council under Section 15 of the Adult Protective Services Act.
+        (aa) Information which is exempted from disclosure under Section 2.37 of the Wildlife Code.
+        (bb) Information which is or was prohibited from disclosure by the Juvenile Court Act of 1987.
+        (cc) Recordings made under the Law Enforcement Officer-Worn Body Camera Act, except to the extent authorized under that Act.
+        (dd) Information that is prohibited from being disclosed under Section 45 of the Condominium and Common Interest Community Ombudsperson Act.
+        (ee) Information that is exempted from disclosure under Section 30.1 of the Pharmacy Practice Act.
+        (ff) Information that is exempted from disclosure under the Revised Uniform Unclaimed Property Act.
+        (gg) Information that is prohibited from being disclosed under Section 7-603.5 of the Illinois Vehicle Code.
+        (hh) Records that are exempt from disclosure under Section 1A-16.7 of the Election Code.
+        (ii) Information which is exempted from disclosure under Section 2505-800 of the Department of Revenue Law of the Civil Administrative Code of Illinois.
+        (jj) Information and reports that are required to be submitted to the Department of Labor by registering day and temporary labor service agencies but are exempt from disclosure under subsection (a-1) of Section 45 of the Day and Temporary Labor Services Act.
+        (kk) Information prohibited from disclosure under the Seizure and Forfeiture Reporting Act.
+        (ll) Information the disclosure of which is restricted and exempted under Section 5-30.8 of the Illinois Public Aid Code.
+        (mm) Records that are exempt from disclosure under Section 4.2 of the Crime Victims Compensation Act.
+        (nn) Information that is exempt from disclosure under Section 70 of the Higher Education Student Assistance Act.
+        (oo) Information prohibited from being disclosed under the Illinois Educational Labor Relations Act.
+        (pp) Information prohibited from being disclosed under the Illinois Public Labor Relations Act.
+        (qq) Information prohibited from being disclosed under Section 1-167 of the Illinois Pension Code.
 (Source: P.A. 100-20, eff. 7-1-17; 100-22, eff. 1-1-18; 100-201, eff. 8-18-17; 100-373, eff. 1-1-18; 100-464, eff. 8-28-17; 100-465, eff. 8-31-17; 100-512, eff. 7-1-18; 100-517, eff. 6-1-18; 100-646, eff. 7-27-18; 100-690, eff. 1-1-19; 100-863, eff. 8-14-18; 100-887, eff. 8-14-18; 101-620, eff. 12-20-19.)
 
     (5 ILCS 140/7.6)
@@ -1051,24 +501,16 @@ under Section 1-167 of the Illinois Pension Code.
     (c) Where the denial is from a municipality or other public body, except as provided in subsection (b) of this Section, suit may be filed in the circuit court for the county where the public body is located.
     (d) The circuit court shall have the jurisdiction to enjoin the public body from withholding public records and to order the production of any public records improperly withheld from the person seeking access. If the public body can show that exceptional circumstances exist, and that the body is exercising due diligence in responding to the request, the court may retain jurisdiction and allow the agency additional time to complete its review of the records.
     (e) On motion of the plaintiff, prior to or after in camera inspection, the court shall order the public body to provide an index of the records to which access has been denied. The index shall include the following:
-        (i) A description of the nature or contents of each
-    	
-document withheld, or each deletion from a released document, provided, however, that the public body shall not be required to disclose the information which it asserts is exempt; and
-        (ii) A statement of the exemption or exemptions
-    	
-claimed for each such deletion or withheld document.
+        (i) A description of the nature or contents of each document withheld, or each deletion from a released document, provided, however, that the public body shall not be required to disclose the information which it asserts is exempt; and
+        (ii) A statement of the exemption or exemptions claimed for each such deletion or withheld document.
     (f) In any action considered by the court, the court shall consider the matter de novo, and shall conduct such in camera examination of the requested records as it finds appropriate to determine if such records or any part thereof may be withheld under any provision of this Act. The burden shall be on the public body to establish that its refusal to permit public inspection or copying is in accordance with the provisions of this Act. Any public body that asserts that a record is exempt from disclosure has the burden of proving that it is exempt by clear and convincing evidence.
     (g) In the event of noncompliance with an order of the court to disclose, the court may enforce its order against any public official or employee so ordered or primarily responsible for such noncompliance through the court's contempt powers.
     (h) Except as to causes the court considers to be of greater importance, proceedings arising under this Section shall take precedence on the docket over all other causes and be assigned for hearing and trial at the earliest practicable date and expedited in every way.
     (i) If a person seeking the right to inspect or receive a copy of a public record prevails in a proceeding under this Section, the court shall award such person reasonable attorney's fees and costs. In determining what amount of attorney's fees is reasonable, the court shall consider the degree to which the relief obtained relates to the relief sought. The changes contained in this subsection apply to an action filed on or after January 1, 2010 (the effective date of Public Act 96-542).
     (j) If the court determines that a public body willfully and intentionally failed to comply with this Act, or otherwise acted in bad faith, the court shall also impose upon the public body a civil penalty of not less than $2,500 nor more than $5,000 for each occurrence. In assessing the civil penalty, the court shall consider in aggravation or mitigation the budget of the public body and whether the public body has previously been assessed penalties for violations of this Act. The court may impose an additional penalty of up to $1,000 for each day the violation continues if:
-        (1) the public body fails to comply with the court's
-    	
-order after 30 days;
+        (1) the public body fails to comply with the court's order after 30 days;
         (2) the court's order is not on appeal or stayed; and
-        (3) the court does not grant the public body
-    	
-additional time to comply with the court's order to disclose public records.
+        (3) the court does not grant the public body additional time to comply with the court's order to disclose public records.
     The changes contained in this subsection made by Public Act 96-542 apply to an action filed on or after January 1, 2010 (the effective date of Public Act 96-542).
     (k) The changes to this Section made by this amendatory Act of the 99th General Assembly apply to actions filed on or after the effective date of this amendatory Act of the 99th General Assembly.
 (Source: P.A. 99-586, eff. 1-1-17; 99-642, eff. 7-28-16.)
@@ -1080,15 +522,9 @@ additional time to comply with the court's order to disclose public records.
     (5 ILCS 140/11.6)
     Sec. 11.6. Noncompliance with binding opinion.
     (a) The requester may file an action under Section 11 and there shall be a rebuttable presumption that the public body willfully and intentionally failed to comply with this Act for purposes of subsection (j) of Section 11 if:
-        (1) the Attorney General issues a binding opinion
-    	
-pursuant to Section 9.5;
-        (2) the public body does not file for administrative
-    	
-review of the binding opinion within 35 days after the binding opinion is served on the public body; and
-        (3) the public body does not comply with the binding
-    	
-opinion within 35 days after the binding opinion is served on the public body.
+        (1) the Attorney General issues a binding opinion pursuant to Section 9.5;
+        (2) the public body does not file for administrative review of the binding opinion within 35 days after the binding opinion is served on the public body; and
+        (3) the public body does not comply with the binding opinion within 35 days after the binding opinion is served on the public body.
     For purposes of this subsection (a), service of the binding opinion shall be by personal delivery or by depositing the opinion in the United States mail as provided in Section 3-103 of the Code of Civil Procedure.
     (b) The presumption in subsection (a) may be rebutted by the public body showing that it is making a good faith effort to comply with the binding opinion, but compliance was not possible within the 35-day time frame.
     (c) This Section applies to binding opinions of the Attorney General requested or issued on or after the effective date of this amendatory Act of the 99th General Assembly.
