@@ -160,9 +160,7 @@ GENERAL PROVISIONS
             (v) disclose unique or specialized investigative techniques other than those generally used and known or disclose internal documents of correctional agencies related to detection, observation or investigation of incidents of crime or misconduct, and disclosure would result in demonstrable harm to the agency or public body that is the recipient of the request;
             (vi) endanger the life or physical safety of law enforcement personnel or any other person; or
             (vii) obstruct an ongoing criminal investigation by the agency that is the recipient of the request.
-        (d-5) A law enforcement record created for law
-    	
-enforcement purposes and contained in a shared electronic record management system if the law enforcement agency that is the recipient of the request did not create the record, did not participate in or have a role in any of the events which are the subject of the record, and only has access to the record through the shared electronic record management system.
+        (d-5) A law enforcement record created for law enforcement purposes and contained in a shared electronic record management system if the law enforcement agency that is the recipient of the request did not create the record, did not participate in or have a role in any of the events which are the subject of the record, and only has access to the record through the shared electronic record management system.
         (e) Records that relate to or affect the security of correctional institutions and detention facilities.
         (e-5) Records requested by persons committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail if those materials are available in the library of the correctional institution or facility or jail where the inmate is confined.
         (e-6) Records requested by persons committed to the Department of Corrections, Department of Human Services Division of Mental Health, or a county jail if those materials include records from staff members' personnel files, staff rosters, or other staffing assignment information.
@@ -272,9 +270,7 @@ enforcement purposes and contained in a shared electronic record management syst
         (gg) Confidential information described in Section 1-100 of the Illinois Independent Tax Tribunal Act of 2012.
         (hh) The report submitted to the State Board ofEducation by the School Security and Standards Task Force under item (8) of subsection (d) of Section 2-3.160 of the School Code and any information contained in that report.
         (ii) Records requested by persons committed to or detained by the Department of Human Services under the Sexually Violent Persons Commitment Act or committed to the Department of Corrections under the Sexually Dangerous Persons Act if those materials: (i) are available in the library of the facility where the individual is confined; (ii) include records from staff members' personnel files, staff rosters, or other staffing assignment information; or (iii) are available through an administrative request to the Department of Human Services or the Department of Corrections.
-        (jj) Confidential information described in Section
-    	
-5-535 of the Civil Administrative Code of Illinois.
+        (jj) Confidential information described in Section 5-535 of the Civil Administrative Code of Illinois.
     (1.5) Any information exempt from disclosure under the Judicial Privacy Act shall be redacted from public records prior to disclosure under this Act.
     (2) A public record that is not in the possession of a public body but is in the possession of a party with whom the agency has contracted to perform a governmental function on behalf of the public body, and that directly relates to the governmental function and is not otherwise exempt under this Act, shall be considered a public record of the public body, for purposes of this Act.
     (3) This Section does not authorize withholding of information or limit the availability of records to the public, except as stated in this Section or otherwise provided in this Act.
@@ -386,9 +382,7 @@ enforcement purposes and contained in a shared electronic record management syst
         (ee) Information that is exempted from disclosure under Section 30.1 of the Pharmacy Practice Act.
         (ff) Information that is exempted from disclosure under the Revised Uniform Unclaimed Property Act.
         (gg) Information that is prohibited from being disclosed under Section 7-603.5 of the Illinois Vehicle Code.
-        (hh) Records that are exempt from disclosure under
-    	
-Section 1A-16.7 of the Election Code.
+        (hh) Records that are exempt from disclosure under Section 1A-16.7 of the Election Code.
         (ii) Information which is exempted from disclosure under Section 2505-800 of the Department of Revenue Law of the Civil Administrative Code of Illinois.
         (jj) Information and reports that are required to be submitted to the Department of Labor by registering day and temporary labor service agencies but are exempt from disclosure under subsection (a-1) of Section 45 of the Day and Temporary Labor Services Act.
         (kk) Information prohibited from disclosure under the Seizure and Forfeiture Reporting Act.
@@ -529,4 +523,3 @@ Section 1A-16.7 of the Election Code.
     (b) The presumption in subsection (a) may be rebutted by the public body showing that it is making a good faith effort to comply with the binding opinion, but compliance was not possible within the 35-day time frame.
     (c) This Section applies to binding opinions of the Attorney General requested or issued on or after the effective date of this amendatory Act of the 99th General Assembly.
 (Source: P.A. 99-586, eff. 1-1-17.)
-
