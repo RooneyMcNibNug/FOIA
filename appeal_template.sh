@@ -24,21 +24,22 @@ read finresp
 echo -n "Provide reasoning for your appeal here (succintly):"
 read reas
 
-message= "Hello,
->
->This is an appeal under the Freedom of Information Act.
->
->On $date, I requested documents from $agency under the Freedom of Information Act. My request was assigned the following identification number: $id. On $rdate I received a response to my request, which was the following:
->
->$finrep
->
->I am appealing for the following reason:
->
->$reas
->
->Attached you will find my original request.
->
->Thank you for your consideration of this appeal.
->- J. Ader"
+message= "
+Hello,
+
+This is an appeal under the Freedom of Information Act.
+
+On $date, I requested documents from $agency under the Freedom of Information Act. My request was assigned the following identification number: $id. On $rdate I received a response to my request, which was the following:
+
+$finrep
+
+I am appealing for the following reason:
+
+$reas
+
+Attached you will find my original request.
+
+Thank you for your consideration of this appeal.
+- J. Ader"
 
 echo $message
