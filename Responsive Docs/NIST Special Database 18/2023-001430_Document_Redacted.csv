@@ -1,0 +1,192 @@
+id,timestamp,dataset,organization_name,organization_address_line1,organization_address_line2,organization_address_line3,organization_country,poc_name,poc_email,poc_telephone,mailing_list,approved
+2751,2021-04-29 23:51:08.507682-04,sd18,Vipaks,Perm,Krasnova street ,24,RUS,,,,f,t
+2350,2021-01-23 13:31:44.172564-05,sd18,University at Buffalo,Buffalo, NY 14260,,USA,(B)(6),(B)(6),(B)(6),f,t
+2114,2020-11-19 15:02:16.175647-05,sd18,NIST,100 Bureau Dr,This is a test,Gaithersburg MD 20899,USA,,,,f,t
+2180,2020-12-03 19:16:17.33779-05,sd18,Ipsidy,670 Long Beach Blvd,N/A,"Long Beach, NY 11561",USA,,,,f,t
+2181,2020-12-04 13:42:15.441589-05,sd18,Manchester Metropolitan University,Manchester Metropolitan University,"All Saints Building, All Saints, Manchester",M15 6BH,GBR,,,,f,t
+2185,2020-12-07 03:18:16.073643-05,sd18,Norwegian Police ICT Services,Fridtjof Nansens vei 14,0369 Oslo,Oslo,NOR,,,,f,t
+2310,2021-01-15 10:32:38.889728-05,sd18,umi,faculty of sciences,zitoune,meknes maroc,MAR,,,,f,f
+2226,2020-12-15 12:46:44.523767-05,sd18,None,None,None,None,USA,,,,f,f
+2238,2020-12-22 02:27:03.65074-05,sd18,avirat infotech,nigdi Pune,Pune,,IND,,,,f,t
+2245,2020-12-24 02:33:50.216845-05,sd18,aspire publisher,Nigdi Pune,411044,,IND,,,,f,t
+2253,2020-12-30 05:25:53.857339-05,sd18,Tata Research Development and Design Center," 54-B, Hadapsar Industrial Estate",Hadapsar,"Pune, Maharashtra. 411013",IND,,,,f,t
+2257,2021-01-02 20:52:57.392114-05,sd18,AirframeLLC,1164 Biship St,Auite 1600,"Honolulu, HI. 96815",USA,,,,f,f
+2273,2021-01-06 20:47:39.414403-05,sd18,Kakao Enterprise Corp.,"3F N, H-Square",235 Pangyoyeok-ro,"Bundang-gu, Seongnam-si, Gyeonggi-do",KOR,,,,f,t
+2281,2021-01-10 05:00:18.40222-05,sd18,komel,lenina,dom blin 9,"moskow, 369874",RUS,,,,f,f
+2285,2021-01-10 20:54:52.091758-05,sd18,Viettel,dfkasdjlfjzsdk@viettel.com.vn,tsdgsdf@viettel.com.vn,345t@viettel.com.vn,VNM,,,,f,f
+2286,2021-01-10 20:55:56.579012-05,sd18,Viettel,dfkasdjlfjzsdk@viettel.com.vn,tsdgsdf@viettel.com.vn,345t@viettel.com.vn,VNM,,,,f,f
+2287,2021-01-10 21:41:00.044629-05,sd18,viettel,123@viettel.com.vn,234@viettel.com.vn,345@viettel.com.vn,VNM,,,,f,f
+2292,2021-01-12 01:57:21.335275-05,sd18,"Naver Corporation, Clova","6 ,Buljeong-ro Bundang-gu",Seongnam-si Gyeonggi-do,Republic of Korea,KOR,,,,f,t
+2330,2021-01-20 04:41:11.893005-05,sd18,Queen's University Belfast,18 Malone Road,Belfast,BT9 6SX,GBR,,,,f,f
+2331,2021-01-20 05:03:41.375815-05,sd18,universite de liege,Place du 20 Aout 7,4000 liege,,FRA,,,,f,t
+2374,2021-01-29 12:53:51.433835-05,sd18,University of Michigan - Flint,303 E Kearsley St,Department of Psychology,530 French Hall,USA,,,,f,t
+2375,2021-01-29 16:34:56.711926-05,sd18,Princess Nourah bint Abdulrahman University ,"Computer Science Department CCIS, Princess Nora Bint AbdulRahman University",Airport Road,,SAU,,,,f,t
+2382,2021-02-01 01:14:36.806854-05,sd18,Optiflex,"5 Bauhunia Str, Cambridge Offiice Park, Building 7, Optiflex","P.O. Box 18, Herschel 9756",,ZAF,,,,f,t
+2404,2021-02-05 16:34:20.794983-05,sd18,Torque Vision Labs LLC,1100 Bellevue Way NE,Ste 8a-755,,USA,,,,f,t
+2415,2021-02-09 05:22:44.38363-05,sd18,University of London,NA,NA,NA,GBR,,,,f,f
+2420,2021-02-11 09:31:55.749347-05,sd18,Deakin University ,Deakin University Burwood ,Melbourne,"Victoria, Australia ",AUS,,,,f,f
+2427,2021-02-15 11:38:23.720751-05,sd18,College of Saint Rose,College of Saint Rose,432 Western Avenue,,USA,,,,f,t
+2425,2021-02-14 22:33:12.585123-05,sd18,BPPT,"Technology 3 Building, PUSPIPTEK",15314,"South Tangerang, Indonesia",IDN,,,,f,t
+2435,2021-02-16 16:24:42.332189-05,sd18,Cloudera,8281 Greensboro Dr STE 450,"Tysons, VA 22102",,USA,,,,f,t
+2446,2021-02-18 01:37:15.670997-05,sd18,Business Toys pvt ltd,"# 5 4th Main, 5th cross, Hesarghatta, Jalhalli",Near Hesarghatta Bus stop,560085,IND,,,,f,f
+2448,2021-02-18 16:29:10.432485-05,sd18,University Of Illinois,508 E Armory Ave,"Champaign, IL 61550",,USA,,,,f,t
+2476,2021-02-23 22:57:42.538332-05,sd18,AIH Technology,3600 Steeles Ave E,Markham,ON L3R 9Z7,CAN,,,,f,t
+2480,2021-02-25 04:05:13.026704-05,sd18,university of victoria,University of Victoria 3800 Finnerty Road Victoria BC,V8P 5C2,,CAN,,,,f,t
+2479,2021-02-25 04:04:52.969864-05,sd18,university of victoria,University of Victoria 3800 Finnerty Road Victoria BC,V8P 5C2,,CAN,,,,f,t
+2485,2021-02-25 08:58:52.833889-05,sd18,Artificial Horizon,Bait Mahmiyat Al Qurum,"PC 118, PO Box 395",,OMN,,,,f,t
+2493,2021-02-28 00:29:40.589383-05,sd18,Manipal University Jaipur,Dehmi Kalan, Off Jaipur-Ajmer Expressway, Rajasthan 303007,IND,,,,f,t
+2504,2021-03-02 21:13:52.290922-05,sd18,QOVES Studio,"82 Bathurst Street, Liverpool, 2170","New South Wales, Australia",,AUS,,,,f,t
+2507,2021-03-03 06:57:34.891195-05,sd18,The Bridge - Digital Talent Accelerator,"Paseo Hontanar 1, casa 66",28004 Madrid,,ESP,,,,f,f
+2508,2021-03-03 06:57:44.148173-05,sd18,The Bridge - Digital Talent Accelerator,"Paseo Hontanar 1, casa 66",28004 Madrid,,ESP,,,,f,f
+2513,2021-03-04 02:11:19.572844-05,sd18,ecole superior de la science comercial (ESSEC),5 nepal park,5 nepal park,5 nepal park,SGP,,,,f,t
+2519,2021-03-07 18:45:08.826343-05,sd18,"Attn: AVA Ventures, LLC (Dr. David M. Smalenberger)",1515 Miami Ave,"Fairborn Ohio, 45324",,USA,,,,f,t
+2526,2021-03-08 09:45:34.976398-05,sd18,Creativeplanet s.r.o,Konventna 7,811 03 Bratislava,,SVK,,,,f,t
+2527,2021-03-08 14:26:36.75423-05,sd18,HID Global Corporation,"3950 RCA Blvd, Suite 5001","Palm Beach Gardens, FL 33410",,USA,,,,f,f
+2528,2021-03-08 14:26:55.35759-05,sd18,HID Global Corporation,"3950 RCA Blvd, Suite 5001","Palm Beach Gardens, FL 33410",,USA,,,,f,f
+2529,2021-03-08 14:27:24.782869-05,sd18,HID Global Corporation,"3950 RCA Blvd, Suite 5001","Palm Beach Gardens, FL 33410",,USA,,,,f,t
+2530,2021-03-09 03:37:44.896764-05,sd18,Singapore Management University,81 Victoria St,81 Victoria St,"Singapore, 188065",SGP,,,,f,t
+2551,2021-03-14 11:37:27.111329-04,sd18,University of Tartu,"3082, Narva maantee 18, Delta centre, University of Tartu",Tartumaa,Tartu,EST,,,,f,t
+2564,2021-03-17 09:11:04.144041-04,sd18,hangzhou dianzi university,"hangzhou,zhejiang,china","hangzhou,zhejiang,china","hangzhou,zhejiang,china",USA,,,,f,f
+2569,2021-03-18 03:22:06.692099-04,sd18,Huaqiao University,China,Fujian province,,CHN,,,,f,f
+2570,2021-03-18 03:22:42.904389-04,sd18,Huaqiao University,China,Fujian province,,CHN,,,,f,t
+2620,2021-03-31 10:30:00.76013-04,sd18,University of Florida,330 Newell Dr,PO Box 117330,"Gainesville, FL 32611",USA,,,,f,t
+2654,2021-04-08 11:42:56.952355-04,sd18,Universita' Politecnica delle Marche,Dipartimento di Ingegneria dell'Informazione,Via Brecce Bianche 12,60131 Ancona,ITA,,,,f,t
+2663,2021-04-12 06:50:54.586553-04,sd18,SIRFIN-PA SRL,Via Angelo Bargoni 78,via angelo bargoni 78,Via angelo bargoni 79,ITA,,,,f,f
+2662,2021-04-12 06:50:29.014238-04,sd18,SIRFIN-PA SRL,Via Angelo Bargoni 78,via angelo bargoni 78,Via angelo bargoni 79,ITA,,,,f,t
+2664,2021-04-12 10:39:15.61342-04,sd18,"Bharati Vidyapeeth Deemed to be University College of ENgineering, Pune","Flat no. 101, Sidra homes",Lane no 10,Tingare nagar,IND,,,,f,t
+2680,2021-04-14 04:45:24.772819-04,sd18,Universita degli Studi di Salerno,Via Giovanni Paolo II,132 - 84084 , Fisciano (SA),ITA,,,,f,t
+2679,2021-04-14 02:11:26.361044-04,sd18,UVCE,Department of Electronics and Communication Engineering,"K R Circle, Devaraj Urs Rd","Bengaluru, Karnataka 560001",IND,,,,f,t
+2691,2021-04-17 14:10:01.03567-04,sd18,bahria university islamabad ,bahria.edu.pk,info@bahria.edu.pk,"Shangrilla Road, Sector E-8 Islamabad",PAK,,,,f,f
+2697,2021-04-19 04:52:10.260461-04,sd18,University of Tartu,University of Tartu,Institute of Computer Science,"Narva mnt 18, 51009 Tartu, Estonia",EST,,,,f,t
+2707,2021-04-20 06:46:16.411488-04,sd18,Bahria university islamabad ,"Shangrilla Road, Sector E-8 Islamabad","Shangrilla Road, Sector E-8 Islamabad","Shangrilla Road, Sector E-8 Islamabad",PAK,,,,f,t
+2742,2021-04-27 23:16:31.853947-04,sd18,asdjio,123456,4215125,5215125,USA,,,,f,f
+2784,2021-05-06 11:27:28.39644-04,sd18,Easy.Glasses,Rua Felipe Santiago de Paula,238,Taubate - SP,BRA,,,,f,t
+2785,2021-05-07 06:09:20.914408-04,sd18,Alten,coralie.carlier.fr@gmail.com,coralie.carlier.fr@gmail.com,coralie.carlier.fr@gmail.com,FRA,,,,f,f
+2788,2021-05-07 06:11:51.327501-04,sd18,Fair Isaac Malaysia Sdn Bhd,"Unit 33A-01, Level 33A, Q Sentral, 2A, Jalan Stesen Sentral 2",Kuala Lumpur Sentral,"Kuala Lumpur 50470, Malaysia",MYS,,,,f,t
+2790,2021-05-08 07:22:54.089155-04,sd18,Tsinghua University,"Beijing, 100084, China",Haidian Dist,FIT 4-508,CHN,,,,f,t
+2830,2021-05-15 10:44:14.426115-04,sd18,Tsinghua University,"Beijing Haidian, China","Beijing Haidian, China","Beijing Haidian, China",CHN,,,,f,f
+2859,2021-05-24 14:02:20.375396-04,sd18,Instituto Federal do Espirito Santo,"Estrada da Tartaruga, Guarapari, E","Estrada da Tartaruga, Guarapari, ES","Estrada da Tartaruga, Guarapari, ES",BRA,,,,f,f
+2884,2021-05-30 13:27:16.35674-04,sd18,Kellogg School of Management,2211 Campus Drive,Rm 5130,"Evanston, IL 60208",USA,,,,f,t
+2909,2021-06-06 04:44:21.533292-04,sd18,Korin Lifshits,Nahal Sorek 44,Nahal Sorek 44,,ISR,,,,f,f
+2922,2021-06-09 11:22:30.279598-04,sd18,UNIVERSITY OF BALTIMORE,1420 N Charles Street,School of Criminal Justice Cyber Forensics,"Baltimore, Maryland",USA,,,,f,t
+2973,2021-06-18 00:49:56.571479-04,sd18,JUIT,"26 AWHO, Indira Nagar Colony","ITBP Road, Near Standard Bakery","Dehradun-248001, Uttarakhand",IND,,,,f,t
+3010,2021-06-29 03:32:33.039155-04,sd18,Naver,"6, Buljeong-ro 87beon-gil, ","Bundang-gu, Seongnam-si, ",Gyeonggi-do,KOR,,,,f,t
+3026,2021-07-02 04:04:07.127999-04,sd18,Private,132,Tennyson,,ZAF,,,,f,f
+3049,2021-07-10 01:28:22.966486-04,sd18,DFL Technology,1530 KEY BLVD #930,N/A,"Arlington, VA 22209",USA,,,,f,t
+3081,2021-07-22 22:31:43.530281-04,sd18,IFCE,RUA A,"Condominio Liberdade, bloco 06, apt 503",,BRA,,,,f,t
+3105,2021-07-29 09:41:47.453878-04,sd18,Newcastle University,Newcastle upon Tyne,NE22QY,,GBR,,,,f,t
+3145,2021-08-11 05:24:32.503477-04,sd18,FaceX,"2nd Floor, Nandi Infotech",Bengaluru,Karnataka 560066,IND,,,,f,t
+3148,2021-08-12 13:59:13.020079-04,sd18,DFL Technology,1530 KEY BLVD ,SUITE #930,"Arlington, VA 22209",USA,,,,f,t
+3156,2021-08-16 14:51:08.675553-04,sd18,"Fast Enterprises, LLC",7229 S Alton Way,N/A,"Centennial, CO 80112",USA,,,,f,t
+3158,2021-08-18 13:21:11.759197-04,sd18,n,nnn,n,n,USA,,,,f,f
+3159,2021-08-18 13:21:22.983564-04,sd18,n,nnn,n,n,USA,,,,f,f
+3164,2021-08-23 07:50:03.496734-04,sd18,Universiti Tun Huessein Onn Malaysia,No 1A Teoh Guan Huat,153 PARIT HAJI RAIS,"Parit Raja, 86400, Johor",MYS,,,,f,t
+3195,2021-09-04 02:31:00.934222-04,sd18,Cogency,37A Almond St ,Newlands,,ZAF,,,,f,f
+3215,2021-09-12 18:05:58.748446-04,sd18,Techsign,Teknopark Istanbul Sanayi Mah. Teknopark,Bulvari No: 1/1C D:1301,,TUR,,,,f,t
+3217,2021-09-13 11:30:45.627314-04,sd18,Spirit Machine Learning,N/A,N/A,,USA,,,,f,f
+3265,2021-09-28 06:55:02.826973-04,sd18,Firat University,Firat Universitesi Bilgisayar Muhendisligi Bolumu,Elazig,,TUR,,,,f,t
+3249,2021-09-23 16:54:19.139632-04,sd18,"ICM Airport Technics, an Amadeus company",2/12 Lord Street,Lakes Business Park,"Botany, NSW 2019",AUS,,,,f,t
+3250,2021-09-24 13:41:07.423027-04,sd18,University of Texas at Tyler,3900 University Blvd,CAS 134,"Tyler, TX 75799",USA,,,,f,t
+3257,2021-09-26 04:42:31.547111-04,sd18,Powered AI,Harechasim 62 ,Ramat-Gan 5236809,,ISR,,,,f,t
+3292,2021-10-08 02:02:10.909567-04,sd18,Tripura University,"Agartala,Tripura(West), PIN-799022",Near parlnarshinghoom,,IND,,,,f,t
+3305,2021-10-11 21:07:36.381723-04,sd18,Funzin,"EAST-13FL, Hyundai Terrace Tower, 7","Yeonmujang 5ga-gil, Seongdong-gu",Seoul,KOR,,,,f,t
+3335,2021-10-20 11:46:27.803285-04,sd18,Kakao Enterprise,"3rd floor, H-Square"," 235 Pangyoyeok-ro, Bundang-gu","Seongnam-si, Gyeonggi-do, 13494",KOR,,,,f,t
+3346,2021-10-22 18:56:18.146156-04,sd18,Los Alamos National Laboratory,"Group CCS-3, Information Sciences",Mailstop B214,"Los Alamos, NM 87545-1663",USA,,,,f,t
+3350,2021-10-25 07:31:41.903567-04,sd18,Ho Chi Minh University of Technology,"Ho Chi Minh City , Viet Nam","Ho Chi Minh City , Viet Nam",,VNM,,,,f,t
+3354,2021-10-25 21:32:07.448697-04,sd18,University at Buffalo,"Address: 231 Center for the Arts, ","Buffalo, NY 14260",,USA,,,,f,t
+3357,2021-10-26 15:56:37.892577-04,sd18,Dave Guezuraga,7848 Barton Street,none,"Lenexa, KS",USA,,,,f,f
+3368,2021-11-01 03:29:26.8797-04,sd18,Biocube Matrix Pvt. Ltd.,"1401 , Vatika Professional Point",Golf courese ext. road,"Sector 66 , Gurugram",IND,,,,f,t
+3373,2021-11-01 22:40:43.115438-04,sd18,ConAI,Starrrenburglaan 22,2242GU Wassenaar,,NLD,,,,f,f
+3374,2021-11-01 22:41:04.328722-04,sd18,ConAI,Starrrenburglaan 22,2242GU Wassenaar,,NLD,,,,f,t
+3434,2021-11-13 09:36:50.796715-05,sd18,Imageware,"11440 W. BERNARDO COURT, SUITE 300","SAN DIEGO, CA 92127",,USA,,,,f,t
+3449,2021-11-17 06:25:49.059816-05,sd18,NIC,a,B,C,IND,,,,f,f
+3450,2021-11-17 06:52:39.116478-05,sd18,NIC,cgo ,complex,lodhi road,IND,,,,f,t
+3454,2021-11-18 09:20:46.005225-05,sd18,FacePhi Biometrics,"Avenida Mexico, 20 Edificio MARSAMAR, 3C",03008 Alicante,,ESP,,,,f,t
+3456,2021-11-18 17:23:13.350263-05,sd18,Texas A&M University,400 Bizzell St,College Station,TX 77843,USA,,,,f,t
+3457,2021-11-18 17:23:20.423158-05,sd18,Texas A&M University Department of Electrical & Computer Engineering,Department of Electrical and Computer Engineering,3128 TAMU,"College Station, TX 77843-3128",USA,,,,f,t
+3504,2021-12-07 03:45:54.824327-05,sd18,DXC,Szturmowa 2A,02-678 Warszawa,,POL,,,,f,t
+3521,2021-12-13 03:29:55.073318-05,sd18,"Center for Artificial Intelligence Research, University of Tsukuba",Tennodai 1-1-1,Advanced Research B,Tsukuba,JPN,,,,f,t
+3524,2021-12-13 08:43:34.512598-05,sd18,Thales DIS SAS,6 rue de la verrerie,92197 Meudon,,FRA,,,,f,t
+3529,2021-12-14 08:24:56.072837-05,sd18,CountingHero AS,Thormohlensgate 41,Bergen,,NOR,,,,f,t
+3563,2021-12-29 14:22:17.569217-05,sd18,Vilnius University,"Universiteto g. 3, Vilnius 01513","Naugarduko g. 24, Vilnius 03225",,LTU,,,,f,t
+3581,2022-01-05 15:42:29.608249-05,sd18,Tygart Technology,"1 N. Calle Cesar Chavez, Ste. 210","Santa Barbara, CA 93103",,USA,,,,f,t
+3603,2022-01-14 04:33:03.869662-05,sd18,De Betaalfabriek,Raiffeisenstraat 13,2152CJ Nieuw Vennep,,NLD,,,,f,t
+3623,2022-01-20 02:24:44.631477-05,sd18,"Institute of Automation, Chinese Academy of Sciences",Zhongguancun Stride 95, Beijing,China,CHN,,,,f,t
+3627,2022-01-21 03:49:28.559811-05,sd18,"ADVANCED INSTITUTE OF ENGINEERING AND TECHNOLOGY,  University of Engineering and Technology, Vietnam National University, Hanoi, Vietnam",Room 707 E3,144 Xuan Thuy street,"Cau giay, Hanoi, Vietnam",VNM,,,,f,t
+3655,2022-02-04 04:43:27.090812-05,sd18,Self,5157 E Lower Stump Road,5157 E Lower Stump Rd,"Hereford, AZ 85615",USA,,,,f,f
+3658,2022-02-06 10:52:29.846635-05,sd18,Facetrom,Rothschild 45 ,Tel Aviv,,ISR,,,,f,t
+3661,2022-02-07 20:02:10.594529-05,sd18,RealNetworks,"1501 1st Ave S, #600",Seattle,WA 98134    ,USA,,,,f,t
+3702,2022-02-16 10:09:09.826825-05,sd18,Western Kentucky University,3012 Gary A. Ransdell Hall,"1906 College Heights Blvd., #21030","Bowling Green, KY 42101-1030",UMI,,,,f,t
+3714,2022-02-19 02:48:19.126639-05,sd18,IUT de Paris - Rives de Seine ,143 Av. de Versailles,75016 Paris,,FRA,,,,f,t
+3722,2022-02-21 08:29:08.556254-05,sd18,Yildiz Technical University,Davutpasa Campus,Esenler,Istanbul,TUR,,,,f,t
+3723,2022-02-21 16:24:15.847926-05,sd18,University of San Diego,5998 Alcala Park,"San Diego, CA",92110,USA,,,,f,t
+3761,2022-03-08 00:14:56.978217-05,sd18,University of Washington,207 Raitt Hall,Box 353414,Seattle WA 98107,USA,,,,f,t
+3772,2022-03-09 09:35:58.750599-05,sd18,Svipe AB,Ostermalmstorg 1,114 48 Stockholm,,SWE,,,,f,f
+3773,2022-03-09 09:36:39.514608-05,sd18,Svipe AB,Ostermalmstorg 1,114 48 Stockholm,,SWE,,,,f,t
+3794,2022-03-14 08:47:23.319173-04,sd18,Seamfix Nigeria,"1st Floor, Leasing House,C & I Leasing Drive, Off Bisola Durosinmi Etti Drive, Off Admiralty Way, Lekki Phase 1, Lagos, Nigeria","Wharfedale Road, Building 220, Wokingham, Berkshire, RG41 5TP, United Kingdom",,NGA,,,,f,f
+3803,2022-03-17 07:18:31.942462-04,sd18,henceforth,Rabat,henceforth.ma,henceforth.ma,MAR,,,,f,f
+3804,2022-03-17 07:28:43.561703-04,sd18,henceforth,https://www.henceforth.ma/fr/index.html,https://www.henceforth.ma/fr/index.html,https://www.henceforth.ma/fr/index.html,MAR,,,,f,f
+3816,2022-03-21 13:43:57.795044-04,sd18,Decker Constulting Group,7538 Morningside Dr NW,NW,Washington DC 20012,USA,,,,f,t
+3832,2022-03-24 21:16:35.513408-04,sd18,Nanyang Technological University,50 Nanyang Ave,Singapore,,SGP,,,,f,t
+3836,2022-03-27 01:56:04.013464-04,sd18,Rev,"1717 W. 6th St. #310, Austin, TX 78703",TX 78703,,USA,,,,f,t
+3838,2022-03-28 08:46:22.509331-04,sd18,Sphere of Influence,1420 Spring Hill Rd,Suite 525,"McLean, VA 22102",USA,,,,f,t
+3839,2022-03-28 09:19:27.282647-04,sd18,Thales DIS,"THALES 2964, Bradley Street. Pasadena, CA  91107 USA","THALES 2964, Bradley Street. Pasadena, CA  91107 USA","THALES 2964, Bradley Street. Pasadena, CA  91107 USA",USA,,,,f,t
+3851,2022-03-31 04:58:58.756862-04,sd18,Nanjing University Of Posts And Telecommunications,jiangsu,nanjing,qixiaqu,CHN,,,,f,t
+3858,2022-04-05 00:39:10.761411-04,sd18,"University of Maryland, Baltimore County","1000 Hilltop Circle, Baltimore, MD 21250","9636 Gudelsky Drive Rockville, MD 20850",N/A,USA,,,,f,t
+3958,2022-05-04 05:36:44.880536-04,sd18,HEC Paris,1 rue de la Liberation,Jouy-en-Josas 78350,,FRA,,,,f,t
+3982,2022-05-11 12:49:23.020142-04,sd18,University Malaysia Sarawak,"524, JALAN KEMPAS 12",BANDAR PUTRA,,MYS,,,,f,t
+4040,2022-06-02 04:35:43.04431-04,sd18,Svipe AB,Ostermalmstorg 1,114 48 Stockholm,,SWE,,,,f,t
+4044,2022-06-03 12:43:54.005557-04,sd18,ensa,ensa,ensa,,GUF,,,,f,f
+4050,2022-06-06 13:21:04.668751-04,sd18,National Institute of technology Rourkela,"Department of ECE,",National Institute of technology Rourkela,"Sundargarh, Odisha 769008",IND,,,,f,t
+4053,2022-06-07 15:08:49.129207-04,sd18,University of Houston,4800 Calhoun Rd,"Houston, TX 77004",,USA,,,,f,t
+4056,2022-06-09 06:08:07.008711-04,sd18,jev,"kalavad road, ukraine","fills bridge, ukraine",,UKR,,,,f,f
+4082,2022-06-16 17:22:47.648716-04,sd18,NDCLab,"11200 SW 8th St, Miami, FL 33199",DM 200A,,USA,,,,f,t
+4089,2022-06-20 09:31:20.950715-04,sd18,aasd,asdas,dasd,asdasd,TZA,,,,f,f
+4091,2022-06-21 04:58:23.346804-04,sd18,"Software Development Div. 1, Software Development Center 3, Digital Business Platform Development Headquarters, Canon Inc.","30-2, Shimomaruko 3-chome",Ohta-ku,Tokyo 146-8501,JPN,,,,f,t
+4117,2022-06-28 13:43:06.749939-04,sd18,Los Alamos National Laboratory,MS B297,CCS Division,"Los Alamos, New Mexico 87545",USA,,,,f,t
+4124,2022-06-30 16:22:38.36572-04,sd18,University of Houston,4800 Calhoun Rd,"Houston, TX 77004",,USA,,,,f,t
+4130,2022-07-04 09:35:59.189762-04,sd18,Thales DIS,Soseaua Orhideelor 15A,Bucuresti,,ROU,,,,f,f
+4161,2022-07-14 14:27:38.066995-04,sd18,Tech5,"Rue de Neuchatel 8, 1201 Geneve, Suiza","Rue de Neuchatel 8, 1201 Geneve, Suiza",,USA,,,,f,t
+4215,2022-07-30 14:57:56.257039-04,sd18,Clearview AI,130 5th Ave.,5th Floor,Clearview AI,USA,,,,f,t
+4275,2022-08-24 02:47:15.0684-04,sd18,"Samsung Electronics co., LTD","302, 3gongdan 3-ro","Gumi-si, ",Gyeongsangbuk-do,KOR,,,,f,t
+4287,2022-08-30 06:50:49.307533-04,sd18,aaa,aaa,aaa,aaa,USA,,,,f,f
+4291,2022-08-31 08:28:44.68515-04,sd18,Vancouver International Airport Authority,3211 Grant McConachie Way,"Link Building, L5","Richmond, BC, V7B 0A4. CANADA",CAN,,,,f,t
+4365,2022-10-03 16:59:13.582191-04,sd18,Simon Fraser University,8888 University Drive,"Burnaby, BC",,CAN,,,,f,t
+4371,2022-10-04 14:53:41.863716-04,sd18,Unisys Corporation,"801 Lakeview Dr, ","Blue Bell, PA 19422",,USA,,,,f,t
+4383,2022-10-10 10:07:13.204268-04,sd18,JENTT,"The Knoll Business Centre, Unit W8A",325-327 Old Shoreham Road,"Hove, BN3 7GS",GBR,,,,f,t
+4386,2022-10-13 02:32:22.652267-04,sd18,NEC Asia Pacific Pte Ltd,80 Bendemeer Road,#05-01/02,,SGP,,,,f,t
+4406,2022-10-20 18:54:26.91527-04,sd18,Oxford Brookes University,"Oxford Brookes, Headington Campus","Headington Rd, Headington, Oxford",OX3 0BP ,GBR,,,,f,t
+4412,2022-10-21 16:01:12.176356-04,sd18,Concha Labs,2261 Market St,"San Francisco, CA 94114","San Francisco, CA 94114",USA,,,,f,t
+4442,2022-11-01 06:10:31.316112-04,sd18,"Institute of Computing Technology, Chinese Academy of Sciences",China Beijing , Haidian District,Kexueyuan Nan Road #6,CHN,,,,f,t
+4454,2022-11-07 04:19:16.8206-05,sd18,Eticas Consulting,10 st Nicholas terrace #1 ,"10027 New York, ny",,USA,,,,f,t
+4462,2022-11-08 08:07:45.209119-05,sd18,University College London,Gower St,Kings Cross London ,WC1E 6BT,USA,,,,f,t
+4467,2022-11-09 15:17:52.638493-05,sd18,Red Hat,5764 DESERT INN LOOP,No Mailstop,"Elizabeth, Colorado 80107",USA,,,,f,f
+4468,2022-11-09 15:18:05.037444-05,sd18,Red Hat,5764 DESERT INN LOOP,No Mailstop,"Elizabeth, Colorado 80107",USA,,,,f,t
+4478,2022-11-13 09:22:56.372906-05,sd18,VIT Pune,"666, Upper Market Rd, Upper Indira Nagar, Bibwewadi, Pune, Maharashtra 411037","666, Upper Market Rd, Upper Indira Nagar, Bibwewadi, Pune, Maharashtra 411037","666, Upper Market Rd, Upper Indira Nagar, Bibwewadi, Pune, Maharashtra 411037",IND,,,,f,t
+4499,2022-11-20 04:12:01.612408-05,sd18,QOVES,63a Kendall Drive,"Sydney, Australia",,AUS,,,,f,t
+4514,2022-11-23 01:30:05.635057-05,sd18,International University - Vietnam National University,"Thu Duc Street, Ho Chi Minh City, Viet Nam","Pham Van Dong Street, Ho Chi Minh City, Viet Nam",,VNM,,,,f,t
+4633,2023-01-13 10:00:23.078205-05,sd18,Xavier institute of engineering,opposite sl raheja hospital,mahim causeway,Raheja hospital marg,IND,,,,f,f
+4636,2023-01-14 06:40:04.852023-05,sd18,Xavier institute of engineering,opposite to sl rahaeja hospital,mahim causeway,mumbai-400016,IND,,,,f,f
+4638,2023-01-17 01:42:21.852376-05,sd18,Universitas Syiah Kuala,Jl. Teuku Nyak Arief No.441,"Kopelma Darussalam, Kec. Syiah Kuala","Kota Banda Aceh, Aceh 23111",IDN,,,,f,t
+4646,2023-01-19 16:52:50.360236-05,sd18,Coastal Carolina University Department of Psychology,Smith Science 210A,109 Chanticleer East Drive,"Conway, SC, 29526",USA,,,,f,t
+4651,2023-01-23 08:06:28.750475-05,sd18,Coastal Carolina University Psychology Department,Smith Science 210A,109 Chanticleer Drive East,"Conway, SC 29526",USA,,,,f,f
+4652,2023-01-23 08:07:38.969825-05,sd18,Coastal Carolina University Psychology Department,Smith Science 210A,109 Chanticleer Drive East,"Conway, SC 29526",USA,,,,f,f
+4679,2023-02-03 12:03:15.595918-05,sd18,Brown University ,64 Waterman Street,Box B,"Providence, RI 02906",USA,,,,f,t
+4686,2023-02-06 01:26:50.667211-05,sd18,Data Science meets Cyber security,"A/18, MOHAN APARTMENTS",Kasturba cross road no.1 borivali (east),,IND,,,,f,t
+4713,2023-02-13 15:19:15.013786-05,sd18,Thales,2964 Bradley Street,"Pasadena, CA  91107",,USA,,,,f,t
+4760,2023-03-05 10:25:02.805369-05,sd18,DePaul University,243 S Wabash Ave,"Chicago, IL, 60604",,USA,,,,f,f
+4761,2023-03-05 10:25:11.7015-05,sd18,DePaul University,243 S Wabash Ave,"Chicago, IL, 60604",,USA,,,,f,f
+4808,2023-03-22 01:01:45.19931-04,sd18,Bell Solutions USA,5683 Fairlight Drive,"Las vegas, NV 89142",,USA,,,,f,f
+4827,2023-04-01 13:54:13.83466-04,sd18,New York University,370 Jay St. ,"Brooklyn, New York",,USA,,,,f,f
+4828,2023-04-01 13:54:58.256046-04,sd18,New York University,370 Jay St. ,"Brooklyn, New York",,USA,,,,f,f
+4836,2023-04-06 09:51:53.256985-04,sd18,Rutgers University - Newark,123 Washington Street,"Center for Law and Justice, Room 579H","Newark, NJ 07102",USA,,,,f,f
+4848,2023-04-11 21:23:45.714971-04,sd18,jinan University,guangdong,zhuhai,Road Qianshan 206,CHN,,,,f,f
+4850,2023-04-12 12:14:30.099161-04,sd18,Parsons Corp,10432 Balls Ford Road,Ste 120,,USA,,,,f,f
+4861,2023-04-18 16:49:11.095354-04,sd18,Rutgers University-Newark,123 Washington Street,"Center for Law and Justice, Room 579H","Newark, New Jersey 07102",USA,,,,f,f
+4862,2023-04-18 19:50:16.41116-04,sd18,NEC Corporation Of America,"10850 Gold Center Dr, Suite 200",Rancho Cordova,CA,USA,,,,f,f
+4866,2023-04-19 08:09:27.34657-04,sd18,Inha University in Tashkent,"9, Ziyolilar str.",M.Ulugbek district,"Tashkent, 100170",UZB,,,,f,f
+4878,2023-04-26 05:29:23.204015-04,sd18,Bluevision,Hitech city,Hyderabad,Telangana,IND,,,,f,f
+4882,2023-04-27 03:54:37.67186-04,sd18,NEC Corporation Of America,"10850 Gold Center Dr, Suite 200",Rancho Cordova,CA,USA,,,,f,f
+4893,2023-05-03 06:53:14.8024-04,sd18,MIPT,Moscow region,Dolgoprudniy,Institutskiy 9,RUS,,,,f,f
+4894,2023-05-03 06:53:29.837461-04,sd18,MIPT,Moscow region,Dolgoprudniy,Institutskiy 9,RUS,,,,f,f
+4898,2023-05-07 03:08:07.41646-04,sd18,Beijing Insititute of Technology,"International Students apartment, Liang Xiang Campus of Beijing Institute of Technology", Fangshan District,"Beijing, 102488",CHN,,,,f,f
