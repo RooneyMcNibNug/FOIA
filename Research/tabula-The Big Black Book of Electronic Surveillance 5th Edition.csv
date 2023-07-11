@@ -1,0 +1,3166 @@
+Company,Location,Solution,Function,Market,Of Note
+Apogee,"Austin, TX,USA.","SIS (SecureInterceptService).","SIS: ServiceBureau model.Provides fulladministration ofcourt orders,liaison with LEAsand atechnologyplatform thatincludes: rawdata andcommand &controlmessaging;Apogeeprocessingsystem; LEAmediation,verification, &intercept.","CSPs, LEAs,universities.","Partners withCisco and SS8."
+Subsentio,,,Passive probe,,
+"(continued)",,,linked to,,
+"",,,Subsentio,,
+"",,,Network,,
+"",,,Operations,,
+"",,,Center.,,
+"",,Safe Harbor,Safe Harbor,,
+"",,sProbe.,sProbe: Low-,,
+"",,,cost subprobe,,
+"",,,remotely,,
+"",,,configured &,,
+"",,,managed.,,
+"",,,Target market:,,
+"",,,broadband &,,
+"",,,VoIP CSPs.,,
+"",,Records,Records,,
+"",,Production.,Production:,,
+"",,,Warrant &,,
+"",,,subpoena,,
+"",,,requests,,
+"",,,management.,,
+Yaana,"Milpitas, CA,",Request,Request,"CSPs, LEAs.",Relative
+Technologies,USA.,Management,Management,,newcomer to LI.
+"",,System.,System:Records,,Primary focus
+"",,,Production.,,through 2013:
+"",,Data,Data Retention,,data retention.
+"",,Retention,System:,,Entered LI
+"",,System.,Storage of,,business (2014)
+"",,,intercepted data.,,with
+"",,Lawful,Lawful,,NetCompliance
+"",,Interception,Interception,,mediation &
+"",,System.,System:,,cloud-based
+"",,,Mediation,,solutions.
+"",,,device.,,Expanded to
+"",,4G/LTE,4G/LTE Lawful,,DPI & DPI
+"",,Lawful,Interception,,analytics in
+"",,Interception,System:,,2015 via
+"",,System.,Mediation device,,acquisition of IP
+"",,,for for 4G/LTE.,,Fabrics.
+"",,,,,Introduced
+"",,,,,Tunnelbox
+"",,,,,"ethical malware,"
+"",,,,,(May 2016).
+"",,,,,Company is
+"",,,,,active in global
+"",,,,,markets;
+"",,,,,recently
+"",,,,,appointed
+"",,,,,manager of UK
+"",,,,,operations. Also
+"",,,,,see Yaana
+"",,,,,Technologies
+"",,,,,in “Packet
+"",,,,,Monitoring”
+"",,,,,and
+"",,,,,“Malware.”
+Company,Location,Solution,Function,Market,Of  Note
+46 Labs,"Austin,",Sormovich,Sormovich,CSPs.,46 Labs
+"","TX,USA.",E1T Probe.,E1T: Passive,,purchased tech
+"",,,probe.,,assets of
+"",,SORM 2,SORM 2,,"SwitchRay,"
+"",,Mediation.,Mediation:,,U.S. arm of
+"",,,Active mediation,,Russia’s MFI-
+"",,,device.,,Soft (Sept.
+"",,SORM,SORM,,2016).
+"",,Converters.,Converters: For,,Previously MFI-
+"",,,using ETSI-,,Soft serviced
+"",,,compliant,,Russia and
+"",,,devices with,,CSI. SwitchRay
+"",,,Russian SORM,,"serviced U.S.,"
+"",,,products.,,Canadian and
+"",,Perimeter F,Perimeter F,,LATAM
+"",,Deep Packet,Deep Packet,,customers.
+"",,Inspection.,Inspection: DPI,,How product
+"",,,hardware.,,"nomenclature,"
+"",,SORM 3,SORM3,,CALEA/ETSI
+"",,Metadata,Metadata,,compliance and
+"",,Retention.,Retention: For,,intl. marketing
+"",,,data acquisition,,will play out
+"",,,and processing.,,remains to be
+"",,,Includes a,,seen. Product
+"",,,storage module,,names shown
+"",,,with a control,,here are MFI-
+"",,,unit for handling,,Soft. SORM is
+"",,,searches.,,Russia’s lawful
+"",,,,,intercept law.
+Aculab,"Milton Keynes,",ProsodyX.,ProsodyX:,CSPs.,Acquired
+"",UK + offices in,,Mediation,,Prosody
+"",Germany &,,device.,,(2003).
+"",USA.,,,,Partners with
+"",,,,,NSF Telecom.
+"",,,,,Also see
+"",,,,,Aculab in
+"",,,,,“Mobile
+"",,,,,Location.”
+Altron,"Kharkov,",AMUR-IP.,AMUR-IP: IP,"CSPs, ISPs,",
+"",Ukraine.,,Telephony,LEAs.,
+"",,,intercept &,,
+"",,,recording.,,
+AQSAQOM,"Paris, France.",ALIS.,ALIS: Mediation,"CSPs, Govt.&",Also see
+"","Melbourne,",,platform for,Intel.,AQSAQOM in
+"",Australia. +,,"PSTN, GSM,","agencies,",“Mobile
+"","Washington.,",,"GPRS, 3G, LTE,",LEAs.,Location.”
+"","D.C., USA.",,"CDMA,",,
+"",,,"WCDMA, VoIP,",,
+"",,,xDSL and,,
+"",,,SATCOM,,
+"",,,networks.,,
+AQSAQOM,,ALIS HP &,ALIS HP &,,
+"(continued)",,VHP.,VHP: “High,,
+"",,,Performance”,,
+"",,,(HP) and “Very,,
+"",,,High,,
+"",,,Performance”,,
+"",,,(VHP) mediation,,
+"",,,platform for,,
+"",,,lawful,,
+"",,,interception at,,
+"",,,GB speeds.,,
+"",,ADRIS.,ADRIS: Data,,
+"",,,retention for,,
+"",,,intercepts from,,
+"",,,all  network,,
+"",,,types. Provides,,
+"",,,ability to merge,,
+"",,,data from LI with,,
+"",,,OSINT.,,
+ATIS UHER,"Bad Homburg,",Klarios TKU,Klarios TKU,"CSPs, Govt.",Acquired IP
+"",Germany.,Monitoring,Monitoring,"agencies,","Fabrics (2011),"
+"",,Centre.,Centre:,"LEAs, Military.",then sold it to
+"",,,Centrally,,Yaana
+"",,,administered,,Technologies
+"",,,monitoring,,(2015).
+"",,,center for PSTN,,Also see ATIS
+"",,,and IP network,,UHER in
+"",,,traffic intercepts.,,“Mobile
+"",,Klarios AIMS.,Klarios AIMS:,,"Location,”"
+"",,,Mediation,,“Advanced
+"",,,device.,,"Analytics,”"
+"",,Klarios,Klarios,,and “Military.”
+"",,Interception,Interception,,
+"",,Controller.,Controller:,,
+"",,,Configures LI in,,
+"",,,Klarios AIMS or,,
+"",,,other mediation,,
+"",,,devices.,,
+"",,Klarios TLMS.,Klarios TLMS:,,
+"",,,Trunkline,,
+"",,,monitoring,,
+"",,,center uses,,
+"",,,multiple DPI,,
+"",,,devices to,,
+"",,,manage and,,
+"",,,mirror IP traffic.,,
+"",,Klarios IDEC.,Klarios IDEC:,,
+"",,,Separate DPI,,
+"",,,unit for decoding,,
+"",,,encrypted traffic.,,
+BAE Systems,"Guildford, UK.",DataBridge,DataBridge,LEAs.,Also see BAE
+Applied,,Suite.,Suite: Mediation,,Systems in
+Intelligence,,,device and DPI,,“Advanced
+"",,,probes. CALEA,,Analytics.”
+"",,,and ETSI,,
+"",,,compliant.,,
+ClearTrail,"Indore, India.",ComTrail,ComTrail,Wireless,Also see
+Technologies,,Interception,Interception,"CSPs, LEAs",ClearTrail in
+"",,Suite.,Suite: Passive,,“Mobile
+"",,,probes.,,"Location,”"
+"",,xGTrail.,xGTrail:,,“Packet
+"",,,Passive probe,,"Monitoring,”"
+"",,,for tactical DPI.,,“Malware” and
+"",,,,,“Advanced
+"",,,,,Analytics.”
+CommuniGate,"Larkspur, CA,",CommuniGate,CommuniGate,"ISPs, LEAs.",
+Systems (a,USA.,Pro Server.,Pro Server.,,
+Stalker,,,Monitors and,,
+Software Inc.,,,,,
+"",,,records  VoIP,,
+company),,,,,
+"",,,calls and,,
+"",,,,,
+"",,,messages and,,
+"",,,target’s,,
+"",,,login and usage,,
+"",,,data. Compiles,,
+"",,,and relays this,,
+"",,,data to external,,
+"",,,tools to translate,,
+"",,,recorded data.,,
+CRYPTON-M,"Kiev, Ukraine.",TerraLIS.,TerraLIS:,"LEAs, Govt. &",Also see
+"",,,mediation,Intel.,CRYPTON-M
+"",,,device,agencies.,in “Mobile
+"",,,compatible with,,Location” and
+"",,,CALEA and,,“Military.”
+"",,,ETSI + Russia’s,,
+"",,,SORM,,
+"",,,standards.,,
+"",,TerraNET 10G.,TerraNET 10G:,,
+"",,,passive probe.,,
+DigiVox,"Rotterdam,",MAGNA,MAGNA: DPI,"CSPs, LEAs.",Hardware-
+"",Netherlands,Lawful,software built,,provider
+"",,Intercept,into commercial,,XYLON is
+"",,Solution.,off the shelf,,based in
+"",,,hardware from,,"Zabreb,"
+"",,,XYLON. Can be,,Croatia.
+"",,,outfitted with,,
+"",,,cards for,,
+"",,,active/passive,,
+"",,,intercept.,,
+"",,,Integrates with,,
+"",,,XYLON,,
+"",,,mediation,,
+"",,,hardware and,,
+"",,,monitoring,,
+"",,,center.,,
+Dreamlab,"Bern,",LI-IPS.,LI-IPS:,"CSPs, LEAs.",Formerly re-
+Technologies,Switzerland.,,Mediation,,sold FinFisher
+"","Schwindegg,",,device.,,malware but
+"",Germany.,,,,disavowed the
+"","Santiago,",,,,relationship  in
+"",Chile.,,,,2013.
+Group 2000,"Almelo,",LIMA Lawful,Lima Lawful,"CSPs, LEAs.",Also see
+"",Netherlands.,Interception.,Interception:,,Group 2000 in
+"","Oslo, Norway.",,Mediation,,“Mobile
+"","Freienbach,",,device with data,,"Location,”"
+"",Switzerland.,,retention and,,“Biometric
+"","Wilmington,",,analytics.,,"Identification,”"
+"","DE, USA.",,Integrates with,,and “OSINT &
+"",,,intelligence,,Social Media
+"",,,including,,Monitoring.”
+"",,,financial,,
+"",,,"records, social",,
+"",,,"media, video",,
+"",,,"surveillance,",,
+"",,,"OSINT, location",,
+"",,,data from,,
+"",,,metadata and,,
+"",,,content. Suite,,
+"",,,includes DPI,,
+"",,,capability for,,
+"",,,300+,,
+"",,,applications.,,
+"",,LIMA,LIMA,,
+"",,Disclosure,Disclosure,,
+"",,Management.,Management:,,
+"",,,Records,,
+"",,,production.,,
+HP Enterprise,"Palo Alto, CA,",HP DRAGON,HP Dragon,"CSPs, LEAs.",Effective March
+"",USA.,Manager.,Manager:,,2017 HP
+"",,,Warrant,,Enterprise
+"",,,management.,,Services
+"",,HP Network,HP Network,,Division
+"",,Probe.,Probe: LI via,,(including ISS)
+"",,,DPI for traffic,,is acquired by
+"",,,monitoring.,,Computer
+"",,HP DRAGON,HP Dragon,,Sciences Corp.
+"",,Blue.,Blue: DPI at,,Also see HP
+"",,,Layer 7 of OSI,,Enterprise in
+"",,,stack for full,,“Advanced
+"",,,packet payload.,,Analytics.”
+"",,HP Autonomy.,HP Autonomy:,,
+"",,,video,,
+"",,,surveillance &,,
+"",,,analytics.,,
+INNOVA,"Trieste, Italy.",EGO.,EGO: ETSI-,LEAs.,
+"",,,compliant lawful,,
+"",,,intercept system,,
+"",,,"for wireline,",,
+"",,,mobile & IP,,
+"",,,traffic; built-in,,
+"",,,analytics.,,
+"",,IP Probes.,IP Probes: For,,
+"",,,"Web, email,",,
+"",,,"SMS, IP video,",,
+"",,,social media.,,
+"",,Micro IP.,Micro IP: High,,
+"",,,quality audio,,
+INNOVA,,,interception,,
+"(continued)",,,device for,,
+"",,,vehicle tracking.,,
+"",,GPS Innova.,GPS Innova:,,
+"",,,Real time,,
+"",,,tracking via,,
+"",,,tablet; can be,,
+"",,,sync’d with,,
+"",,,Micro IP audio.,,
+"",,RB800.,RB800:,,
+"",,,Miniature audio,,
+"",,,recording,,
+"",,,device.,,
+iPS,"Aprilia, Italy.",GENESI NIP.,GENESI NIP:,"CSPs, ISPs.",Also see iPS
+"",,,Mediation,,in “Mobile
+"",,,device.,,"Location,”"
+"",,GENESI NIP,GENESI NIP:,,"“Malware,”"
+"",,Packet Switch,Passive or in-,,“Advanced
+"",,Probe.,line DPI probes.,,"Analytics,”"
+"",,,,,“Biometric
+"",,,,,"Identification,”"
+"",,,,,and “OSINT
+"",,,,,and Social
+"",,,,,Media.”
+Elbit Systems,"Ra’anana,",Target 360°.,Target 360°:,LEAs.,Acquired NICE
+CYBERBIT,Israel.,,Mediation,,Systems Cyber
+"",,,devices and,,& Intel Division
+"",,,probes that,,(May 2015).
+"",,,integrate with,,Also see Elbit
+"",,,the full range of,,Systems
+"",,,end-to-end,,CYBERBIT in
+"",,,CYBERBIT,,“Advanced
+"",,,solutions.,,"Analytics,”"
+"",,,,,“Mobile
+"",,,,,"Location,”"
+"",,,,,“Biometric
+"",,,,,"Identification,”"
+"",,,,,"“Malware,”"
+"",,,,,“OSINT and
+"",,,,,Social Media”
+"",,,,,and “Military.”
+NORSI-,"Moscow,",Vitok-IMS.,Vitok-IMS:,"CSPs, LEAs,",NORSI-TRANS
+TRANS,Russia.,,Probe monitors,Govt. & Intl.,solutions are
+"",,,targets on IP,agencies,SORM AND
+"",,,Multimedia,,ETSI
+"",,,Subsystems,,compliant. Also
+"",,,networks.,,see NORSI-
+"",,Vitok-TAP-,Vitok-TAP-8E1:,,TRANS in
+"",,8E1.,Probe for non-,,“Packet
+"",,,intrusive signal,,"Monitoring,”"
+"",,,tap for E1,,“Mobile
+"",,,streams.,,"Location,”"
+"",,Vitok IPTel.,Vitok IPTel:,,Advanced
+"",,,Probe for VoIP.,,Analytics” and
+"",,Vitok-SDH.,Vitok-SDH:,,“OSINT and
+"",,,Probe specific to,,Social Media.”
+NORSI-,,,SONET/SDH,,
+TRANS,,,traffic on fiber,,
+"(continued)",,,optic networks.,,
+"",,Vitok-E1.,Vitok-E1: Probe,,
+"",,,for multiplexed,,
+"",,,E1/PDH/PCM-,,
+"",,,30 digital lines.,,
+"",,Vitok-,Vitok-,,
+"",,Concentrator.,Concentrator:,,
+"",,,“Hub” that,,
+"",,,retrieves,,
+"",,,intercept data,,
+"",,,from probes.,,
+"",,Vitok-HUB.,Vitok-HUB:,,
+"",,,Mediation,,
+"",,,device that,,
+"",,,collects and,,
+"",,,formats intercept,,
+"",,,data for,,
+"",,,transmission to,,
+"",,,monitoring,,
+"",,,control center.,,
+"",,Yakhont-TLF.,Yakhont-TLF:,,
+"",,,Voice,,
+"",,,transaction data,,
+"",,,retention for,,
+"",,,"smaller CSPs,",,
+"",,,offered in,,
+"",,,desktop format,,
+"",,,with small rack-,,
+"",,,space mounting,,
+"",,,requirements.,,
+"",,,Collects,,
+"",,,intercepted,,
+"",,,"wireline, mobile,",,
+"",,,"private network,",,
+"",,,radio or,,
+"",,,SATCOM.,,
+NSF Telecom,Westendintie,NSF IP traffic,NSF IP traffic,"CSPs, LEAs.",Spun off from
+"",(Helsinki),Monitor.,Monitor: DPI.,,Ericsson in
+"",Finland.,,Lightweight,,2002. Partners
+"",,,collectors can,,with Aculab.
+"",,,monitor several,,
+"",,,network devices,,
+"",,,and local area,,
+"",,,networks.,,
+"",,,Captures source,,
+"",,,destination,,
+"",,,"address, ports,",,
+"",,,protocols.,,
+"",,NSF Melody.,NSF Melody:,,
+"",,,Mediation,,
+"",,,device,,
+"",,,normalizes,,
+"",,,multiple data,,
+"",,,sources.,,
+NSF Telecom,,NSF,NSF,,
+"(continued)",,TTAnalyzer.,TTAnalyzer:,,
+"",,,Allows events to,,
+"",,,be examined,,
+"",,,independent of,,
+"",,,call data,,
+"",,,records.,,
+Packet,"Tempe, AZ,",M1.,M1: Packet,"CSPs, LEAs,",Also see
+Forensics,USA.,,Forensics’,Govt. & Intel.,Packet
+"",,,lowest-cost,agencies.,Forensics in
+"",,,carrier grade,,“Packet
+"",,,probe for,,Monitoring.”
+"",,,"Ethernet, IP and",,
+"",,,MPLS networks.,,
+"",,,Provides,,
+"",,,mediation,,
+"",,,functions and,,
+"",,,8GB storage,,
+"",,,capacity.,,
+"",,M1S.,M1S: Mid-range,,
+"",,,probe for,,
+"",,,interception of,,
+"",,,"Ethernet, IP and",,
+"",,,MPLS traffic.,,
+"",,,Includes,,
+"",,,"Ethernet probe,",,
+"",,,integrated,,
+"",,,mediation server,,
+"",,,and accelerated,,
+"",,,cryptography.,,
+"",,5BG3.,5BG3: Top-of-,,
+"",,,line probe for,,
+"",,,"Ethernet, IP and",,
+"",,,MPLS. Triggers,,
+"",,,intercepts based,,
+"",,,"on IP, MAC,",,
+"",,,"keywords,",,
+"",,,"RADIUS, DHCP,",,
+"",,,"VoIP calls,",,
+"",,,behavior or,,
+"",,,other criteria.,,
+"",,cQuery DNS,cQuery DNS:,,
+"",,Internet,Makes DNS,,
+"",,Directory,inquiries,,
+"",,Service.,anonymous.,,
+PALADION,Bangalore &,Internet,Internet,"CSPs, LEAs,",450 customers
+"","Mumbai, India.",Monitoring,Monitoring,Govt. & Intel.,in 15 countries.
+"",,Solutions.,Solutions: DPI,agencies.,Also see
+"",,,for tactical single,,Paladion in
+"",,,"operator, multi-",,“Mobile
+"",,,operator and,,"Location,”"
+"",,,nationwide,,"“Malware,”"
+"",,,platforms.,,“Advanced
+"",,,,,"Analytics,”"
+"",,,,,and
+"",,,,,“Forensics.”
+PALADION,,Telecom,Telecom,,
+"(continued)",,Operator,Operator,,
+"",,Interception,Interception,,
+"",,System (TIS).,System:,,
+"",,,Mediation,,
+"",,,device.,,
+Pen-Link,"Lincoln, NE,",Pen-Link 8.,Pen-Link 8:,CSPs. LEAs.,CALEA
+"",USA.,,"Administration,",,compliant.
+"",,,reporting and,,
+"",,,analysis,,
+"",,,software for,,
+"",,,CALEA,,
+"",,,solutions.,,
+"",,LINCOLN,LINCOLN,,
+"",,Collection,Collection,,
+"",,Systems.,Systems: LAN,,
+"",,,server for,,
+"",,,terminating,,
+"",,,intercepts from,,
+"",,,CSP.,,
+"",,LINCOLN,LINCOLN,,
+"",,Collection,Collection,,
+"",,Server.,Server:,,
+"",,,Terminates and,,
+"",,,stores,,
+"",,,intercepted,,
+"",,,content.,,
+"",,LINCOLN,LINCOLN,,
+"",,Access,Access Points:,,
+"",,Points.,Pen register,,
+"",,,metadata,,
+"",,,collection.,,
+"",,Pen-Proxy.,Pen Proxy:,,
+"",,,Real time alerts,,
+"",,,of changes in,,
+"",,,target activity.,,
+"",,,Interfaces with,,
+"",,,"other services,",,
+"",,,mobile location.,,
+Pine Digital,"The Hague,",EVE.,EVE: Modular,"CSPs, LEAs.",
+Lawful,Netherlands.,,Lawful intercept,,
+Interception,,,solution with,,
+"",,,“building blocks”,,
+"",,,for 1GB/10GB,,
+"",,,"passive probe,",,
+"",,,or active,,
+"",,,mediation.,,
+"",,,Integrates to,,
+"",,,monitor any,,
+"",,,network,,
+"",,,including LTE &,,
+"",,,VoLTE.,,
+"",,,Supports all LEA,,
+"",,,"protocols, and",,
+"",,,both CALEA and,,
+"",,,ETSI standards.,,
+RCS Labs,"Milan, Italy.",MITO3,MITO3,"LEAs, Govt. &",Also see RCS
+"",,Monitoring,Monitoring,Intel.,Labs in
+"",,Center.,Center:,agencies.,“Mobile
+"",,,Intercepts &,,"Location,”"
+"",,,records,,"“Malware,”"
+"",,,metadata and,,“Advanced
+"",,,content. DPI,,"Analytics,”"
+"",,,function extracts,,and “OSINT
+"",,,metadata and,,and Social
+"",,,content from IP,,Media.”
+"",,,communication.,,
+"",,,Includes module,,
+"",,,for analytics and,,
+"",,,visualization.,,
+Roke Manor,"Romsey,",Vanguard,Vanguard,"CSPs, LEAs,",Chemring
+Research (a,Hampshire,System.,System:,Govt. & Intel,Group: UK-
+Chemring,UK.,,Provisions &,"agencies,",based Military
+Group,,,manages,Military.,electronics
+company),,,mediation,,contractor with
+"",,,device.,,worldwide
+"",,Pico Probe.,Pico Probe:,,offices. Also
+"",,,Miniature,,see Roke
+"",,,passive probe.,,Manor
+"",,Aquila Deep,Aquila Deep,,Research in
+"",,Packet Probe.,Packet Probe:,,“Advanced
+"",,,DPI for multiple,,"Analytics,”"
+"",,,channels.,,"“Forensics,”"
+"",,,Scalable from,,and “Military.”
+"",,,10GB to 100GB,,
+"",,,per channel.,,
+"",,Packet,Packet Capture,,
+"",,Capture and,and Analysis:,,
+"",,Analysis.,DPI software,,
+"",,,compatible with,,
+"",,,any hardware.,,
+"",,,Scalable from,,
+"",,,100MB to 10GB.,,
+Savvius,"Walnut Creek,",WildPackets,WildPackets,LEAs.,LISP is sold
+"","CA, USA.",Lawful,Lawful,,under the old
+"",,Intercept,Intercept,,WildPackets
+"",,Software,Software,,brand name.
+"",,Package,Package:,,Also see
+"",,(LISP).,Captures and,,Savvius in
+"",,,classifies,,“Packet
+"",,,packets. Uses,,Monitoring”
+"",,,DPI with,,and
+"",,,specialized plug-,,“Forensics.”
+"",,,ins for lawful,,
+"",,,intercept to,,
+"",,,"capture, decrypt",,
+"",,,and analyze,,
+"",,,"VoIP, SMS, FTP",,
+"",,,"sessions, web",,
+"",,,"surfing, Radius",,
+"",,,traffic. Performs,,
+"",,,man-in-the-,,
+Savvius,,,middle attack on,,
+"(continued)",,,SSH. Can also,,
+"",,,be used for pen,,
+"",,,registers to,,
+"",,,capture call and,,
+"",,,IP metadata.,,
+Septier,"Petach Tikva,",Septier,Septier,"CSPs, LEAs,",Also see
+"",Israel.,Mediation.,Mediation:,Govt. & Intel.,Septier in
+"",,,Mediation,agencies.,“Mobile
+"",,,"platform targets,",,"Location,”"
+"",,,"captures,",,“Advanced
+"",,,processes and,,Analytics” and
+"",,,delivers,,“Military.”
+"",,,metadata and,,
+"",,,content of,,
+"",,,mobile calls.,,
+"",,Septier,Septier,,
+"",,Monitoring,Monitoring,,
+"",,Center.,Center: CALEA,,
+"",,,and ETSI-,,
+"",,,compliant.,,
+"",,,Includes LI,,
+"",,,"provisioning,",,
+"",,,"data capture,",,
+"",,,mediation and,,
+"",,,delivery.,,
+Shoghi,Himachal,SCL-LISF.,SCL-LISF: ETSI,"CSPs, ISPs.",Also see
+Communica-,"Pradesh,",,and CALEA,LEAs.,Shoghi in
+tions,India.,,compatible,,“Mobile
+"",,,mediation,,Location” and
+"",,,device for,,“Military.”
+"",,,"PSTN, ISDN,",,
+"",,,wireless and,,
+"",,,VoIP. Scalable,,
+"",,,to multiple E-1s.,,
+"",,,Optional CDR,,
+"",,,analytics.,,
+SIEMENS,"Vienna,",LIOS ONE.,LIOS ONE:,CSPs.,
+Convergence,Austria.,,Mediation,,
+"Creators,",,,device and data,,
+GMbH,,,retention,,
+"",,,system.,,
+SS8,"Milpitas, CA,",Xcipio,Xcipio,"CSPs, ISPs,",Also see SS8
+"",USA.,Platform.,Platform:,LEAs.,in “Packet
+"",,,Mediation,,"Monitoring,”"
+"",,,device for,,“Malware” and
+"",,,"PSTN, IP &",,“Advanced
+"",,,mobile operators,,Analytics.”
+"",,,including LTE.,,
+"",,Xcipio,Xcipio,,
+"",,Mediation,Mediation,,
+"",,Solution for,Solution for,,
+"",,VoIP.,VoIP: VoIP,,
+"",,,interception.,,
+SSI Pacific,Melbourne.,Monitoring,Monitoring,CSPs.,Partners  with
+"",Australia.,Centre.,Centre: Overall,,Trovicor and
+"","Wellington,",,management of,,Utimaco.
+"",New Zealand.,,lawful intercept.,,Claims 90
+"",Singapore.,LIMS.,LIMS: Mediation,,deployments
+"",,,device compliant,,worldwide.
+"",,,"with ETSI,",,
+"",,,"3GPP,",,
+"",,,ANSI/ATIS and,,
+"",,,CableLabs.,,
+"",,NIC (National,NIC: Data,,
+"",,Information,retention. Real,,
+"",,Centre).,time access to,,
+"",,,all connected,,
+"",,,"data sources,",,
+"",,,internal or,,
+"",,,"external, in their",,
+"",,,original format.,,
+"",,Warrant,Warrant,,
+"",,Management,Management,,
+"",,System.,System:,,
+"",,,Electronic,,
+"",,,records,,
+"",,,production and,,
+"",,,management.,,
+Suntech –,"Florianópolis,",Vigia IP.,Vigia IP:,"CSPs, LEAs,",Suntech
+Verint Group,Brazil.,,Passive probes,Govt. & Intel.,acquired by
+"",,,capture,agencies.,"Verint (August,"
+"",,,metadata and,,2011). Partners
+"",,,content from,,"with Cisco,"
+"",,,"PSTN, mobile",,"Ericsson, Acme"
+"",,,and IP networks.,,Packet
+"",,Vigia Web,Vigia Web,,(Oracle).
+"",,Viewer.,Viewer: Real,,Claims to own
+"",,,time access to,,90% of the LI
+"",,,lawful intercept,,market in
+"",,,data for LEAs.,,Brazil. Clients
+"",,RELIANT.,RELIANT: DPI,,include
+"",,,captures and,,"Embratel,"
+"",,,"filters voice,",,"Claro, TIVO."
+"",,,"internet, mobile",,Also see
+"",,,and fixed,,Suntech in
+"",,,satellite and,,“Mobile
+"",,,cellular. Includes,,Location” and
+"",,,analytics,,“Advanced
+"",,,module.,,Analytics.”
+"",,IP Decoding,IP Decoding,,
+"",,Studio.,Studio: Layer 7,,
+"",,,DPI for apps,,
+"",,,and content.,,
+"",,Verint STAR-,Verint STAR-,,
+"",,GATE.,GATE: active,,
+"",,,mediation,,
+"",,,system.,,
+Verint Group,Germany.,Interception,Interception,Govt. & Intel.,acquired by
+"",,Center (SIC).,Center (SIC):,agencies.,Verint (August
+"",,,"Captures,",,2011). Swiss
+"",,,mediates and,,hired Verint in
+"",,,analyzes,,January 2014
+"",,,metadata &,,to replace
+"",,,content.,,national
+"",,Sgate.,Sgate:,,Interception
+"",,,Mediation,,System
+"",,,device.,,Schweiz
+"",,SIC for ISPs.,SIC for ISPs:,,developed by
+"",,,DPI probes.,,"Syborg, 2002."
+"",,SIC for,SIC for,,Also see
+"",,Tactical.,Tactical:,,Syborg in
+"",,,Tactical,,“Mobile
+"",,,solutions for,,Location.”
+"",,,"ADSL, ISDN",,
+"",,,and WiFi.,,
+Thales,Neuilly‐sur‐,SMART INT.,SMART INT:,"LEAs, Govt. &",Thales’
+"","Seine, France.",,Based on legacy,Intel.,“Plateforme
+"",,,"product,","agencies,",Nationale des
+"",,,Cell Spyder:,Military.,Interceptions
+"",,,Passive probe,,Judiciaires”
+"",,,that collects,,"(PNIJ), a"
+"",,,calls/data.,,national
+"",,,Includes,,platform for
+"",,,management,,lawful intercept
+"",,,center that,,and govt.
+"",,,selects targets,,"intelligence,"
+"",,,and processes,,remains
+"",,,data for LEAs.,,inoperative
+"",,,,,owing to inter-
+"",,,,,agency turf
+"",,,,,battles. The
+"",,,,,PNIJ was first
+"",,,,,proposed in
+"",,,,,"2010, and was"
+"",,,,,to have
+"",,,,,launched in
+"",,,,,"2014, but has"
+"",,,,,not progressed
+"",,,,,beyond testing.
+"",,,,,Also see
+"",,,,,Thales under
+"",,,,,“Packet
+"",,,,,Monitoring”
+"",,,,,and “Military.”
+TraceSpan,"Ra’anana,",GPON,GPON,"Cable MSOs,",All TraceSpan
+"",Israel.,Phantom.,Phantom:,LEAs.,units may be
+"",,,Passive,,used
+"",,,interception of,,"standalone, or"
+"",,,optical fiber in,,integrated with
+"",,,FTTx topology.,,LI systems.
+"",,DSL Phantom.,DSL Phantom:,,
+"",,,"Captures, stores",,
+"(continued)",,,data from ADSL.,,
+"",,VDSL2,VDSL2,,
+"",,Phantom,Phantom: LI on,,
+"",,,VDSL2 lines.,,
+Trovicor,"Munich,",Fusion,Fusion System:,"LEAs, Govt. &",Also see
+"",Germany.,System.,Monitoring suite,Intel.,Trovicor under
+"",,,for lawful,agencies.,“Mobile
+"",,,intercept.,,"Location,”"
+"",,,"Location,",,"“Malware,”"
+"",,,analytics and,,“Advanced
+"",,,"OSINT features,",,Analytics” and
+"",,,"e.g., integrates",,“OSINT and
+"",,,with social,,Social Media.”
+"",,,media and,,
+"",,,financial data.,,
+Utimaco,"Aachen,",Utimaco LIMS,LIMS:,CSPs – fixed,Utimaco was
+"",Germany.,(Lawful,Centralized,& mobile.,acquired by UK
+"","Palo Alto, CA,",Intercept,management of,,security firm
+"",USA.,Management,active and,,Sophos (2009).
+"",,System).,passive devices.,,Utimaco
+"",,LIMS Access,LIMS Access,,partners with
+"",,Points.,Points: Carrier,,Safesoft
+"",,,grade DPI,,(Budapest –
+"",,,probes ranging,,biometrics) and
+"",,,from,,SkyTECH Asia
+"",,,100/1000MB to,,(Hong Kong –
+"",,,10GB.,,social
+"",,Data,Data Retention,,analytics).
+"",,Retention,Suite: Records,,Uses Procera
+"",,Suite.,product and,,DPI.
+"",,,warrant,,
+"",,,management.,,
+Verint,"Melville, NY,",STAR-GATE.,STAR-GATE:,LEAs.,CALEA
+"",USA.,,Active mediation,,compliant; used
+"",,,device.,,in more than 75
+"",,VANTAGE,VANTAGE,,countries. Also
+"",,Monitoring,Monitoring,,see Verint in
+"",,Center.,Center: Mass,,“Advanced
+"",,,and target,,"Analytics,”"
+"",,,interception.,,“Mobile
+"",,,"Intercepts, filters",,"Location,”"
+"",,,"analyzes voice,",,“Military” and
+"",,,"Internet, mobile,",,“OSINT and
+"",,,fixed satellite.,,Social Media”
+"",,RELIANT,RELIANT,,and
+"",,Monitoring,Monitoring,,“Malware.”
+"",,Center.,Center:,,
+"",,,streamlined,,
+"",,,version of,,
+"",,,VANTAGE. Can,,
+"",,,target LTE/LTE-,,
+"",,,"A, UMTS, GSM,",,
+"",,,"xDSL, Cable,",,
+"",,,"VoIP, IMS.",,
+Aglaya,"New Delhi,",Country Internet,Country Internet,Govt. &,Also see
+"",India.,Interception.,Interception: DPI,Intel.,Aglaya in
+"",,,with 50-seat,agencies.,“Mobile
+"",,,Command Center,,Location”
+"",,,and multiple,,and
+"",,,Controller Nodes,,“Malware.”
+"",,,installed outside,,
+"",,,the target region,,
+"",,,or country. Can be,,
+"",,,provided on a,,
+"",,,turnkey basis with,,
+"",,,training for users,,
+"",,,– or outsourced to,,
+"",,,Aglaya.,,
+ALBEDO,"Barcelona,",NetHunter.,NetHunter: Hand-,"LEAs, Govt.",ALBEDO is
+Telecom,Spain,,held device,& Intel.,renowned
+"",,,performs wire,agencies.,for focus on
+"",,,speed capture of,,miniaturiza-
+"",,,any/all types of,,tion– First
+"",,,packets including,,hand-held
+"",,,"VoIP, data, email,",,device
+"",,,"SMS, TCP/IP,",,incorpora-
+"",,,IPTV and others,,ting a touch-
+"",,,in either Ipv4 or,,screen
+"",,,Ipv6. Filters can,,"(1996), first"
+"",,,be set to capture,,portable wire
+"",,,specific or “all” IP,,speed tap
+"",,,traffic. Operates in,,with active
+"",,,port or pass-,,"filters, etc."
+"",,,through mode. No,,Both
+"",,,MAC or IP,,NetHunter
+"",,,address appears,,and
+"",,,during,,NetShark
+"",,,surveillance –,,use FPGA
+"",,,NetHunter is,,hardware
+"",,,invisible to target.,,accelerators
+"",,,Available in either,,for massive
+"",,,rack-mounted or,,parallel
+"",,,portable hand-,,processing.
+"",,,held battery-,,ALBEDO
+"",,,powered versions.,,partners with
+"",,NetShark.,NetShark: Same,,WireShark
+"",,,capabilities as,,to provide
+"",,,NetHunter except,,clients an
+"",,,operates in pass-,,add-on for
+"",,,through mode,,data
+"",,,"only, thus",,analytics.
+"",,,captures all,,
+"",,,packets and is,,
+"",,,ideal for higher-,,
+"",,,speed networks –,,
+"",,,"10G, 40G & 100G",,
+Telecom,,,high-bandwidth,,
+"(continued)",,,apps including,,
+"",,,VoLTE &,,
+"",,,streaming video.,,
+Alcatel-,"Paris,",1357 ULIS (Unified,1357 ULIS,"CSPs,",Package
+Lucent,France.,Lawful Interception,(Unified Lawful,LEAs.,includes
+"",,Suite).,Interception,,automated
+"",,,Suite): DPI for,,court order
+"",,,"fixed, wireless &",,manage-
+"",,,IP networks.,,ment.
+"",,,Provides signaling,,
+"",,,and content,,
+"",,,intercept.,,
+Amdocs,Chesterfield,VoLTE Controller.,VoLTE,CSPs.,Acquired
+"","MO, USA.",,Controller: DPI,,DPI
+"","And Ra’ana,",,identifies and,,company
+"",Israel.,,filters targeted,,Bridgewater
+"",,,VoLTE traffic.,,Systems
+"",,,,,(2011).
+"",,,,,Amdocs
+"",,,,,provides
+"",,,,,BSS/OSS
+"",,,,,systems to
+"",,,,,CSPs.
+"",,,,,Amdocs was
+"",,,,,investigated
+"",,,,,in 2000 for
+"",,,,,alleged
+"",,,,,involvement
+"",,,,,in Israeli
+"",,,,,“spy ring”
+"",,,,,operating in
+"",,,,,U.S. but FBI
+"",,,,,dropped
+"",,,,,case for lack
+"",,,,,of evidence.
+"",,,,,BSS
+"",,,,,systems are
+"",,,,,a core
+"",,,,,source of
+"",,,,,customer
+"",,,,,metadata.
+Blue Coat,"Sunnyvale,",ProxySG.,ProxySG: DPI,"LEAs, Govt.",Partners
+"","California,",,and packet,& Intel.,"with Cisco,"
+"",USA.,,"filtering. Tunnels,","agencies,",VSS
+"",Bad,,intercepts and,Military.,Monitoring.
+"","Homburg,",,performs “man in,,Effective
+"",Germany.,,the middle”,,"June 13,"
+"",,,(MITM) attacks,,"2016, Blue"
+"",,,that access SSL,,Coat is
+"",,,and transport,,owned by
+"",,,"layers, then",,Symantec.
+"",,,mirrors IP comms,,Use of Blue
+"",,,between sender,,Coat DPI
+"",,,and recipient.,,products for
+Blue Coat,,PacketShaper.,Packet Shaper:,,ISS is
+"(continued)",,,DPI integrated,,documented
+"",,,"with WebPulse,",,in over 25
+"",,,real time Web,,nations.
+"",,,intelligence.,,
+"",,SSL Visibility,SSL Visibility,,
+"",,Appliance.,Appliance:,,
+"",,,Performs MITM,,
+"",,,attacks to,,
+"",,,compromise  and,,
+"",,,replicate,,
+"",,,encrypted SSL,,
+"",,,and HTPPS,,
+"",,,(HTTP over SSL),,
+"",,,certificates.,,
+"",,WebPulse.,WebPulse: Web,,
+"",,,intelligence,,
+"",,,package tailored,,
+"",,,to Blue Coat DPI,,
+"",,,devices.,,
+Cisco,"San Jose,",Cisco Series 7600.,Series 7600:,"CSPs, Govt.",Cisco is
+Systems,"CA, USA.",Router with TAP2-,NetFlow IP Flow,& Intel.,migrating to
+"",,"MIB, TAP2-MIB","Monitoring. Ipv4,",agencies.,the Series
+"",,Processing.,IEEE 802 data,,9000 and
+"",,,streams &,,other newer
+"",,,individual,,series. All
+"",,,sessions.,,Cisco
+"",,Cisco Series 12000,Series 12000:,,routers can
+"",,Router.,VoiP and dial-up,,be
+"",,,calls.,,programmed
+"",,Cisco ASR 1000.,ASR 1000:,,"to intercept,"
+"",,SCE8000.,midrange router –,,mirror and
+"",,,Ipv4 & Ipv6.,,process
+"",,Cisco SCE8000.,SCE8000: DPI,,targeted
+"",,,Control Engine for,,"traffic,"
+"",,,application and,,including
+"",,,session-based,,"signaling,"
+"",,,classification.,,type of
+"",,Cisco Meraki.,Meraki: Cloud,,message
+"",,,networking DPI.,,and full
+"",,Cisco Series ASR,ASR Series 9000:,,content.
+"",,9000 Router.,Monitors Ipv4 and,,Cisco SCE
+"",,,Ipv6 traffic. Built-in,,8000 &
+"",,,hardware sensors,,Meraki DPI
+"",,,for rich traffic flow,,are used in
+"",,,telemetry and line-,,the “Great
+"",,,rate data,,Firewall of
+"",,,collection. Uses,,China.”
+"",,,Cisco Nexus Data,,Compare
+"",,,Broker support for,,Cisco
+"",,,network traffic,,NetFlow to
+"",,,monitoring and,,Flowmon
+"",,,analysis,,and Juniper
+"",,,,,Networks
+"",,,,,Flow-Tap.
+Expert Team,Singapore.,3i-Web.,3i-Web: Classic,"LEAs, Govt.",
+"",,,DPI uses in-house,Intel.,
+"",,,developed rules-,agencies.,
+"",,,"based engine,",,
+"",,,IRGO (Intelligent,,
+"",,,Reconstruction,,
+"",,,Gear OS).,,
+"",,3i-Tactical System.,3i-Tactical,,
+"",,,System:,,
+"",,,Lightweight laptop,,
+"",,,"version of 3i-Web,",,
+"",,,but with addition,,
+"",,,of Deep Web,,
+"",,,OSINT,,
+"",,,capabilities. Built,,
+"",,,for field ops.,,
+"",,,Available in,,
+"",,,models with input,,
+"",,,ranging from 1 GB,,
+"",,,to 160 GBs,,
+Fiberblaze,"Soborg,",Fiberblaze DPI.,Fiberblaze DPI:,"CSPs,",
+"",Denmark.,,DPI and analysis,"LEAs, Govt.",
+"",,,via series of field-,& Intel.,
+"",,,programmable,agencies.,
+"",,,gate array,,
+"",,,(FPGA)-based,,
+"",,,data capture,,
+"",,,interfaces.,,
+Flowmon,"Brno, Czech",Flowmon Probe.,Flowmon Probe:,"LEAs, Govt.",One of two
+Networks,Republic.,,100GB wire speed,& Intel.,companies
+"",,,processing  via,agencies.,split off from
+"",,,network probe,,IP Flow
+"",,,with built-in,,Monitoring
+"",,,Flowmon/IPFIX.,,"pioneer,"
+"",,,Captures and,,Invea-Tech
+"",,,analyzes traffic,,in (Sept.
+"",,,through Layer 7.,,2015_. Like
+"",,Flowmon Collector.,Flowmon,,its
+"",,,Collector: Uses,,predecessor
+"",,,NetFlow v5/v9 to,,"Invea-Tech,"
+"",,,"collect, visualize,",,Flowmon
+"",,,analyze and store,,OEMs voice
+"",,,of network,,biometrics
+"",,,statistics on,,from
+"",,,network traffic on,,Phonexia.
+"",,,"routers, switches,",,Compare to
+"",,,firewalls.,,Cisco
+"",,,Flowmon Traffic,,Netflow and
+"",,,Recorder: A plug-,,Juniper
+"",,Flowmon Traffic,in for Flowmon,,Networks
+"",,Recorder.,"Collector, to",,Flow-Tap.
+"",,,record intercepts,,
+"",,,by IP and MAC,,
+"",,,"address, port",,
+"",,,number or other,,
+"",,,criteria.,,
+Ixea,"Calabasas,",Net Optics Flex Tap.,Net Optics Flex,"CSPs,",Acquired
+"","CA, USA.",,Tap: passive high,"LEAs, Govt.",Net Optics
+"",,,density fiber tap,& Intel.,(2013).
+"",,,via Network,agencies.,
+"",,,packet broker.,,
+"",,Net Optics Gig Zero,Net Optics Gig,,
+"",,Delay Tap.,Zero Delay Tap:,,
+"",,,10/100/1000GB,,
+"",,,tap.,,
+"",,Net Optics Slim,Net Optics Slim,,
+"",,Tap.,Tap: passive fiber,,
+"",,,tap.,,
+"",,Net Optics HD8 Tap.,Net Optics HD8,,
+"",,,Tap: total traffic,,
+"",,,visibility in 1GB,,
+"",,,tap.,,
+Juniper,"Sunnyvale,",Flow Tap.,Flowtap: IP Flow,"CSPs, Govt.",Flow-Tap is
+Networks,"CA, USA.",,Monitoring,& Intel.,supported
+"",,,dynamically,agencies.,on Juniper
+"",,,captures sample,,Networks M
+"",,,packets in high-,,Series and T
+"",,,speed networks.,,Series
+"",,Junos Packet,Junos Packet,,"routers,"
+"",,Vision.,Vision: DPI.,,except for
+"",,,,,M160 and
+"",,,,,TX Matrix
+"",,,,,routers.
+"",,,,,
+"",,,,,
+Mantaro,Germantown,Session-Vista EX-20,Session-Vista,"CSPs,",Mantaro
+"","MD, USA.",Exporter.,EX-20 Exporter:,"LEAs, Govt.",specializes
+"",,,DPI for Level 4,& Intel.,in extensible
+"",,,thru Level 7. IP,agencies.,FPGA
+"",,,traffic interception,,framework
+"",,,at multi-GB,,solutions
+"",,,speeds at session,,compatible
+"",,,level.,,with FPGAs
+"",,Mantaro Network,Mantaro Network,,made by
+"",,Intelligence,Intelligence,,"Xilinx, Altera"
+"",,Solutions.,Solutions: FPGA-,,– and
+"",,,based packet,,Mantaro.
+"",,,filtering. Visualizes,,
+"",,,network activities,,
+"",,,of specific hosts,,
+"",,,for suspicious,,
+"",,,activity. Examines,,
+"",,,OSI Levels 1 – 7.,,
+"",,,Searches by IP,,
+"",,,"address, user",,
+"",,,name or portion of,,
+"",,,user name from,,
+"",,,"social media,",,
+"",,,"email, peer-2-peer",,
+"",,,and file servers.,,
+Company,Location,Solution,Function,Market,Of Note
+Ability,"Tel Aviv,",NA,Zero Days used,Intel.,NSO Group uses
+"",Israel.,,for Ability’s ULIN,"agencies,",Ability Zero Days
+"",,,product.,ISS,to plant malware
+"",,,,partners.,on mobile
+"",,,,,devices. Ability
+"",,,,,has discussed
+"",,,,,partnership with
+"",,,,,Italy’s The
+"",,,,,Hacking Team
+"",,,,,and is possible
+"",,,,,reseller of HT
+"",,,,,malware. Also
+"",,,,,see Ability in
+"",,,,,“Mobile
+"",,,,,Location.”
+Aglaya,"New Delhi,",iOSBackdoor.,iOS and,"LEAs, Govt.",Also see Aglaya
+"",India.,,Android,& Intel.,in “Packet
+"",,Android,Backdoors:,agencies,Monitoring” and
+"",,Backdoor.,Remote control,,“Mobile
+"",,,of target’s device.,,Location.”
+"",,,Both require an,,
+"",,,unattended,,
+"",,,device and,,
+"",,,knowledge of its,,
+"",,,passcode.,,
+"",,,Malware is,,
+"",,,installed via,,
+"",,,direct access to,,
+"",,,device (not,,
+"",,,remotely).,,
+"",,Supercomputer,Supercomputer,,
+"",,Instances.,Instances: Users,,
+"",,,may buy time on,,
+"",,,Aglaya’s,,
+"",,,supercomputers,,
+"",,,for brute force,,
+"",,,attacks on target,,
+"",,,passcodes.,,
+"",,,System checks,,
+"",,,up to 30K,,
+"",,,passwords per,,
+"",,,second.,,
+ClearTrail,"Indore, India.",Astra SEED.,Astra SEED:,"LEAs, Govt.",See ClearTrail in
+Technologies,,,Remote intrusion,& Intel.,“Lawful
+"",,,software targets,agencies.,Intercept
+"",,,devices via,,"Solutions,”"
+"",,,SEED bot.,,“Packet
+"",,,Complete,,"Monitoring,”"
+"",,,visibility and,,“Mobile
+"",,,control of,,"Location,” and"
+"",,,encrypted,,“Advanced
+"",,,content.,,Analytics.”
+DigiTask,"Hesse,",R2D2.,R2D2: Remote,LEAs.,Also see
+"",Germany.,,forensic stealth,,DigiTask in
+"",,,software,,“Packet
+"",,,deployed on,,Monitoring” and
+"",,,target’s device,,“Mobile
+"",,,that decodes,,Location.”
+"",,,encrypted data,,
+"",,,"(PGP, GnuPG,",,
+"",,,Tor/JAP),,
+"",,,including IM,,
+"",,,regardless of,,
+"",,,location or,,
+"",,,movement.,,
+Elaman,"Munich,",FinFisher.,FinFisher:,Govt,Also see
+"",Germany.,,Elaman resells,agencies;,Elaman in
+"","Amriswil,",,FinFisher as,LEAs.,“Packet
+"",Switzerland.,,“Elaman,,Monitoring.”
+"",,,FinFisher.”,,
+Endgame,"Arlington,",Bonesaw.,Bonesaw: Zero,Govt. & Intel.,Since public
+Systems,"VA, USA",,Day exploits for,agencies.,exposure in
+"",,,specific,,"2011, Endgame"
+"",,,vulnerabilities.,,has moved into
+"",,,,,cyberdefense.
+"",,,,,Still provides
+"",,,,,Zero days to U.S.
+"",,,,,and the “Five
+"",,,,,Eyes” nations.
+FinFisher,"Munich,",FinSpy.,FinSpy: System,"LEAs, Govt.",FinFisher
+GmbH,Germany.,,for remote spying,& Intel.,software
+"",,,on target’s fixed,agencies.,generates
+"",,,or mobile device.,,encryption
+"",,,Plants malware,,certificates and
+"",,,to intercept,,deciphers/imports
+"",,,encrypted and,,data remotely or
+"",,,anonymous,,from dongles.
+"",,,traffic. Performs,,Modifies files
+"",,,live surveillance,,while being
+"",,,through target’s,,uploaded or
+"",,,camera &,,downloaded –
+"",,,videocam.,,works for one or
+"",,,Extracts device,,many targets;
+"",,,files. Provides,,bypasses anti-
+"",,,remote device,,spyware & anti-
+"",,,forensics.,,virusware.
+"",,,Effective against,,Cracks
+"",,,"Windows, MAC",,passwords &
+"",,,and Linux,,hashes. Sees all
+"",,,systems.,,websites visited
+"",,FinFly.,FinFly:,,by the target(s).
+"",,,Transparent,,Professional
+"",,,HTTPs proxy for,,"Trojan for Skype,"
+"",,,modifying target,,IM. Sniffs strokes
+"",,,files during,,on wireless
+"",,,download.,,keyboards.
+"",,FinWiFiKeySpy.,FinWiFiKeySpy:,,Records voice
+"",,,Remotely,,between mobile
+FinFisher,,,monitors target’s,,device &
+GmbH,,,keystrokes on,,Bluetooth.
+"(continued)",,,WiFi networks.,,Activates device
+"",,FinBluez.,FinBluez:,,webcam &
+"",,,Conducts,,microphone.
+"",,,advanced attacks,,Ostensibly spun
+"",,,against Bluetooth,,off by Gamma
+"",,,devices.,,Group Intl (GGI)
+"",,FinFisher,FinFisher,,in 2014 and now
+"",,Crawler.,Crawler: Infects,,an independent
+"",,,and monitors,,German
+"",,,social networks.,,"company, with"
+"",,FinFisher Case,FinFisher Case,,“Branch office” in
+"",,Management.,Management:,,"Andover, UK –"
+"",,,Advanced,,also the HQ
+"",,,analytics keyed,,location of
+"",,,to data,,Gamma Group.
+"",,,intercepted by,,FinFisher
+"",,,FinFisher,,partners with
+"",,,products.,,Elaman. Also
+"",,Finfisher HQ.,FinFisher HQ:,,see FinFisher in
+"",,,Graphical user,,“OSINT and
+"",,,interface for,,Social Media.”
+"",,,analysis of,,
+"",,,hacked data.,,
+"",,FinTraining.,FinTraining: IT,,
+"",,,intrusion training,,
+"",,,and support in,,
+"",,,FinFisher,,
+"",,,products.,,
+The Hacking,"Milan, Italy.",Remote Control,Remote Control,"CSPs, Govt.",Italian regulators
+Team,Singapore.,System.,System:,&  Intel.,revoked Hacking
+"","Annapolis,",,Controls,agencies.,Team’s global
+"","MD, USA.",,suspect’s device,,export license in
+"",,,via undetectable,,April 2016.
+"",,,infection –,,Company
+"",,,installation can,,continues to
+"",,,be remote or on-,,market at ISS
+"",,,site via USB.,,World events and
+"",,,,,sells RCS
+"",,,,,through network
+"",,,,,of partners. 2015
+"",,,,,hack by “Phineas
+"",,,,,Fisher” black hat
+"",,,,,captured 1.0
+"",,,,,million company
+"",,,,,"emails, with"
+"",,,,,disclosure of
+"",,,,,cases where
+"",,,,,company
+"",,,,,defrauded clients
+"",,,,,by faking results
+"",,,,,during live
+"",,,,,product demos or
+"",,,,,distracting clients
+"",,,,,when tests failed.
+Harris,"Melbourne,",Hailstorm.,Hailstorm: 4G,"LEAs, Govt.",Also see Harris
+Corporation,"FL, USA.",,LTE interception,& Intel.,in “Mobile
+"",,,upgrade. Like a,agencies.,Location.”
+"",,,"Trojan, takes",,
+"",,,over mobile,,
+"",,,device: remotely,,
+"",,,turns on,,
+"",,,"microphone,",,
+"",,,"camera, sends",,
+"",,,messages.,,
+Intercept,"Moscow,",Tomahawk 7,Tomahawk 7,Govt. & Intel.,Also see IMS in
+Monitoring,Russia.,Click Infection,Click Infection,agencies,“Mobile
+Systems,,System.,System: Remote,"only, upon",Location.”
+"(IMS) – a",,,Trojan capability,receipt of a,
+Division of,,,for intrusive,user,
+Discovery,,,monitoring of,certificate.,
+Telecom,,,PCs and Android,,
+Technologies,,,devices.,,
+"(DTT)",,,,,
+iPS,"Aprilia, Italy.",G-SEC.,G-SEC: Man-in-,,Also see iPS in
+"",,,the-middle,,“Lawful
+"",,,attacks.,,Intercept
+"",,ITACA.,ITACA: Remote,,Solutions”
+"",,,Trojan capability,,“Mobile
+"",,,to take over any,,"Location,”"
+"",,,Windows or,,"“Biometric ID,”"
+"",,,Android device.,,“Advanced
+"",,,,,Analytics” and
+"",,,,,“OSINT and
+"",,,,,Social Media.”
+Elbit,"Ra’anana,",CYBERBIT PC,CYBERBIT PC,"LEAs, Govt.","NICE, acquired"
+Systems,Israel.,Surveillance,Surveillance,& Intel.,"by Elbit in 2015,"
+CYBERBIT,,System.,System: Zero,agencies,resold Hacking
+"",,,Days for network,,Team RCS.
+"",,,penetration.,,CYBERBIT Zero
+"",,,Trojan capability,,Day & malware
+"",,,for monitoring,,capabilities are
+"",,,"keystrokes,",,now developed
+"",,,taking control of,,in-house.
+"",,,the target’s,,Also see Elbit
+"",,,device to,,Systems
+"",,,intercept content,,CYBERBIT in
+"",,,and view all web,,“Advanced
+"",,,pages or co-,,"Analytics,”"
+"",,,conspirators,,“Lawful
+"",,,contacted.,,Intercept
+"",,,,,"Solutions,”"
+"",,,,,“Mobile
+"",,,,,"Location,”"
+"",,,,,"“Biometric ID,”"
+"",,,,,“OSINT and
+"",,,,,Social Media”
+"",,,,,and “Military.”
+NSO Group,"Herzliya,",Pegasus.,Pegasus: Zero,,Successful
+"",Israel.,,Days and,,against Apple
+"",,,malware for,,IoS. Per Ability
+"",,,taking down,,"Group Chairman,"
+"",,,smart phones.,,NSO Group uses
+"",,,Attacks via one-,,Zero Days by
+"",,,click (text,,Ability.
+"",,,message with a,,
+"",,,link to a,,
+"",,,malicious,,
+"",,,website) or zero-,,
+"",,,click (WAP Push,,
+"",,,SL message that,,
+"",,,causes phone to,,
+"",,,automatically,,
+"",,,open a link).,,
+"",,,Device is then,,
+"",,,routed to a,,
+"",,,Pegasus,,
+"",,,Installation,,
+"",,,Server for,,
+"",,,malware,,
+"",,,deployment.,,
+"",,,Agent’s ID is kept,,
+"",,,anonymous.,,
+Paladion,Mumbai &,Decryption,Decryption,"LEAs, Govt.",Also see
+"","Bangalore,",Remote.,Remote: In-line,& Intel.,Paladion in
+"",India.,,& parallel man-in-,agencies.,“Lawful
+"",,,the-middle,,Intercept
+"",,,attacks on SSL.,,"Solutions,”"
+"",,Remote,Remote,,“Mobile
+"",,Monitoring.,Monitoring:,,"Location,"
+"",,,Malware installed,,“Advanced
+"",,,by USB or via,,"Analytics,” and"
+"",,,behavioral,,“Forensics.”
+"",,,techniques;,,
+"",,,intercepts any,,
+"",,,content from user,,
+"",,,device.,,
+Rayzone,"Tel Aviv,",The Hacking,“Trojan system,"LEAs, Govt.",Rayzone resells
+"",Israel.,Team RCS.,"for PCs, mobile",& Intel.,Hacking Team’s
+"",,,"devices, cloud",agencies.,RCS malware.
+"",,,and apps.” [See,,Also see
+"",,,The Hacking,,Rayzone in
+"",,,Team.],,“Mobile
+"",,,,,Location.”
+RCS Labs,"Milan, Italy",MITO3 Intrusive.,MITO3 Intrusive:,"LEAs, Govt.",Also see RCS
+"",,,Trojan infests,& Intel.,Labs in “Lawful
+"",,,and monitors any,agencies.,Intercept
+"",,,target PC or,,"Solutions,”"
+"",,,mobile device.,,“Mobile
+"",,,,,Location”
+"",,,,,“OSINT and
+"",,,,,Social Media”
+"",,,,,and “Advanced
+"",,,,,Analytics.”
+SS8,"London, UK.",NA,Co-produces,"LEAs, Govt.",Also see SS8 in
+"",,,malware with BT,& Intel.,“Lawful
+"",,,for the GCHQ.,"agencies,",Intercept
+"",,,,Military.,Solutions”
+"",,,,,“Packet
+"",,,,,Monitoring” and
+"",,,,,“Advanced
+"",,,,,Analytics.
+Stratign,"Dubai,",Spy Phone.,Spy Phone:,"LEAs, Govt.",Also see
+"",United Arab,,Takes over,& Intel.,Stratign in
+"",Emirates.,,target’s cell,"agencies,",“Mobile
+"",,,"phone, sees calls",Military.,Location.”
+"",,,"and SMS, takes",,
+"",,,over microphone,,
+"",,,to monitor room,,
+"",,,conversations.,,
+Trovicor,"Munich,",Fusion System.,Fusion System:,"LEAs, Govt.",Also see
+"",Germany.,,Comprehensive,& Intel.,Trovicor under
+"",,,surveillance,agencies.,“Lawful
+"",,,system includes,,Intercept
+"",,,Zero Days and,,"Solutions,”"
+"",,,malware.,,“Mobile
+"",,,,,"Location,”"
+"",,,,,“Advanced
+"",,,,,Analytics” and
+"",,,,,“OSINT and
+"",,,,,Social Media.”
+Verint,"Melville, NY,",Hacking Team,[See The,"LEAs, Govt.",Verint resells
+"",USA.,RCS.,Hacking Team.],Intel.,Italy’s The
+"",,,,agencies.,Hacking Team
+"",,,,,malware. Also
+"",,,,,see Verint in
+"",,,,,“Advanced
+"",,,,,"Analytics,”"
+"",,,,,“Lawful
+"",,,,,Intercept
+"",,,,,"Solutions,”"
+"",,,,,“Mobile
+"",,,,,"Location,”"
+"",,,,,“Military”
+"",,,,,and“OSINT and
+"",,,,,Social Media.”
+Yaana,"Milpitas, CA,",TunnelBox,TunnelBox:,"LEAs, Govt.",Also see Yaana
+Technologies,USA.,,“Remote traffic,& Intel.,Technologies in
+"",,,access” of IP,agencies,“Lawful
+"",,,streams and,,Intercept
+"",,,device memories:,,Providers” and
+"",,,man-in-the-,,“Packet
+"",,,middle attacks.,,Monitoring.”
+Zerodium,"Montpelier,",Zerodium,Zerodium,Govt. & Intel.,"Zerodium, run by"
+"",France.,Payout.,Payout:,agencies.,"Chaouki Bekrar,"
+"","Annapolis,",,Purchases Govt.-,,replaced Vupen
+"","MD, USA.",,grade Zero Day,,in August 2015.
+"",,,exploits for,,Zerodium offers
+"",,,operating,,bounties for Zero
+"",,,"systems, web",,"Days, which is"
+"Zerodium(continued)",,,"browsers, plug-ins & readers,mobile devicesand phones, Weband emailservers, Webapps, and fortechniquesincludingmitigationbypass, Tor de-anonymizationand anti-virusRCE/LPE(remote customeredge router/localprivilegeescalation).",,"sells to clients.Zerodiumostensibly doesnot product ZeroDays as Vupendid, but retainsthe same staffand capabilities."
+Company,Location,Solution,Function,Market,Of Note
+ATIS UHER,"Bad Homburg,Germany.","Klarios F3S.Klarios RDC.Klarios SEE.Klarios IDA.","Klarios F3S:Petabyte dataretention.Klarios RDC:Combinesaccess to CSPretained datawith real timeintercept foradded context.Klarios SEE:Purpose-builtsearch enginefor KlariosSCP.Klarios IDA:Big Dataanalytics &visualization.","LEAs, Govt. &Intel. agencies,and Military.","Also see ATISUHER in“LawfulInterceptSolutions,”“MobileLocation” and“Military”"
+BAE Systems,,,time data with,,
+Applied,,,“next best,,
+Intelligence,,,action”,,
+"(continued)",,,guidance from,,
+"",,,predictive,,
+"",,,analytics.,,
+BrightPlanet,"Sioux Falls,",Deep Web,Deep Web,"LEAs, Govt. &",Also see
+"","SD, USA.",Harvester.,Harvester:,"Intel. agencies,",BrightPlanet in
+"",,,SaaS or,Military.,“OSINT &
+"",,,enterprise,,Social Media
+"",,,solution for,,Monitoring.”
+"",,,web data,,
+"",,,acquisition.,,
+"",,,Finds data,,
+"",,,sources not,,
+"",,,available in,,
+"",,,Hidden Web.,,
+"",,OpenPlanet,OpenPlanet,,
+"",,Enterprise,Enterprise,,
+"",,Platfform.,Platform: Big,,
+"",,,Data analytics.,,
+"",,DeepWeb,DeepWeb,,
+"",,Monitor.,Monitor:,,
+"",,,"Twitter,",,
+"",,,"Facebook,",,
+"",,,"RSS feeds,",,
+"",,,"blogs, criminal",,
+"",,,records +,,
+"",,,BrightPlanet’s,,
+"",,,Deep Web,,
+"",,,database.,,
+ClearTrail,"Indore, India.",ClearInsight.,ClearInsight:,"CSPs, LEAs,",Also see
+Technologies,,,Provides,Govt. & Intel.,ClearTrail in
+"",,,analytics and,agencies.,“Lawful
+"",,,visualization of,,Intercept
+"",,,intercepts from,,"Solutions,”"
+"",,,all networks,,Packet
+"",,,including,,"Monitoring,”"
+"",,,SATCOM +,,“Mobile
+"",,,social media.,,Location” and
+"",,,,,“Malware.”
+Elbit Systems,"Ra’anana,",WIT.,WIT: Bulk,"LEAs, Govt. &",Also see Elbit
+CYBERBIT,Israel.,,metadata,Intel.agencies.,Systems
+"",,,collection &,,CYBERBIT
+"",,,analytics,,In “Advanced
+"",,,platform for,,"Analytics,”"
+"",,,"HUMINT,",,“Lawful
+"",,,"SIGINT,",,Intercept
+"",,,"OSINT,",,"Solutions,”"
+"",,,GEOINT and,,“Mobile
+"",,,IMINT (image,,"Location,”"
+"",,,intel.),,"“Biometric ID,”"
+"",,,,,"“Malware,”"
+"",,,,,“OSINT and
+"",,,,,Social Media”
+"",,,,,and “Military.”
+Expert,"HQ: Modena,",Cogito,Cogito,"CSPs, LEAs,"
+System,Italy. Offices in,Intelligence.,Intelligence:,Govt. & Intel.
+"","Rockville, MD,",,Semantic,agencies.
+"","Cary, IL & San",,analysis,
+"","Francisco, CA,",,software,
+"",USA.,,identifies,
+"",,,targets by their,
+"",,,writing.,
+"",,,Provides text,
+"",,,"mining,",
+"",,,"categorization,",
+"",,,semantic,
+"",,,"tagging, fact",
+"",,,"mining, and",
+"",,,extraction of,
+"",,,entity and,
+"",,,relationships.,
+Fifth,"Tel Aviv, Israel.",Fifth,Fifth,"LEAs, Govt. &"
+Dimension,,Dimension.,Dimension:,Intel. agencies.
+"",,,Pre-crime.,
+"",,,“Deep,
+"",,,Learning” (AI),
+"",,,approach,
+"",,,implants,
+"",,,complex,
+"",,,algorithms on,
+"",,,GPUs to,
+"",,,accelerate,
+"",,,Intel. gathering,
+"",,,speeds up to,
+"",,,30 percent.,
+"",,,Solution,
+"",,,“thinks and,
+"",,,acts” to assess,
+"",,,threats in real,
+"",,,time.,
+Glimmerglass,"Hayward, CA,",CyberSweep.,CyberSweep:,"CSPs, LEAs,"
+Networks,USA.,,International,Govt. & Intel.
+"",,,"gateway,",agencies.
+"",,,submarine,
+"",,,cable landing,
+"",,,station and,
+"",,,central office,
+"",,,point-of-,
+"",,,presence for,
+"",,,acquisition and,
+"",,,analysis of,
+"",,,content on,
+"",,,"TDM, IP, ATM",
+"",,,and social,
+"",,,media,
+"",,,networks.,
+"",,Insight,Insight,
+"",,Analytics.,Analytics:,
+"",,,Discovers,
+"",,,known or,
+Glimmerglass,,,suspected,,
+Networks,,,targets and,,
+"(continued)",,,depicts the,,
+"",,,communication,,
+"",,,pattern among,,
+"",,,associates.,,
+"",,,Discovers the,,
+"",,,source and,,
+"",,,entity,,
+"",,,relationships,,
+"",,,from raw,,
+"",,,data and,,
+"",,,addresses.,,
+HP Enterprise,"Palo Alto, CA,",HAVEn.,HAVEn: Big,LEAs. Govt. &,Effective March
+"",USA.,,Data Analytics,Intel. agencies.,2017 HP
+"",,,on HP Vertica,,Enterprise
+"",,,platform.,,Services
+"",,HP Vertica,HP Vertica,,Division
+"",,Dragline.,Dragline: Real,,(including ISS)
+"",,,time insights.,,is acquired by
+"",,HP Distributed,HP,,Computer
+"",,R.,Distributed R:,,Sciences Corp.
+"",,,Predictive,,Also see
+"",,,analytics.,,Hewlett-
+"",,,,,Packard in
+"",,,Data,,“Lawful
+"",,,management &,,Intercept
+"",,,analytics by,,Solutions.”
+"",,,database type:,,
+"",,,,,
+"",,HP DRAGON,HP DRAGON,,
+"",,Green.,Green for,,
+"",,,Oracle.,,
+"",,HP DRAGON,HP DRAGON,,
+"",,Orange.,Orange – for,,
+"",,,MySQL.,,
+"",,HP DRAGON,HP DRAGON,,
+"",,Red.,Red – for,,
+"",,,RainStor.,,
+"",,HP DRAGON,HP DRAGON,,
+"",,Purple.,Purple – for,,
+"",,,HP Vertica.,,
+IBM,"Armonk, NY,",IBM i2 Safer,IBM i2 Safer,LEAs.,IBM’s i2 Safer
+"",USA.,Planet.,Planet: Master,,Planet suite is
+"",,,brand for the,,used by more
+"",,,i2Safer Planet,,"than 6,000"
+"",,,portfolio.,,police
+"",,IBM i2,IBM i2,,departments.
+"",,Analyst’s,Analyst’s,,But the suite
+"",,Notebook with,Notebook,,reflects IBM’s
+"",,i2 Analysis.,with i2,,nosedive on R
+"",,,Analysis: Sifts,,& D and strong
+"",,,through target,,dependence on
+"",,,data to,,acquisitions.
+"",,,determine,,IBM acquired i2
+"",,,target ID and,,"(2011), and"
+IBM,,,networks of,,after 25 years i2
+"(continued)",,,"affiliates,",,tech is showing
+"",,,"patterns,",,its age. Real
+"",,,timelines and,,time analytics is
+"",,,imminent,,by Netezza
+"",,,threats – from,,(acquired
+"",,,"SIGINT,",,"2010),"
+"",,,COMINT and,,predictive
+"",,,OSINT.,,analytics from
+"",,,Provides data,,SPSS (acquired
+"",,,visualization.,,2009) and an
+"",,I2 Enterprise,I2 Enterprise,,eclectic mix of
+"",,Insight,Insight,,other analytics
+"",,Analysis –,Analysis –,,products from
+"",,Core and,Core and,,four separate
+"",,Advanced:,Advanced:,,IBM divisions.
+"",,,Identical to i2,,
+"",,,Analyst’s,,
+"",,,Notebook but,,
+"",,,with “3D data”,,
+"",,,and geospatial,,
+"",,,coordinates of,,
+"",,,target. “Core”,,
+"",,,version is for,,
+"",,,users with,,
+"",,,small data,,
+"",,,sets.,,
+"",,,“Advanced” is,,
+"",,,for “Big Data.,,
+"",,COPLINK.,COPLINK:,,
+"",,,IBM’s “pre-,,
+"",,,crime” tool for,,
+"",,,LEAs. Shows,,
+"",,,likely location,,
+"",,,and timing of,,
+"",,,criminal acts,,
+"",,,by profiling,,
+"",,,targets and,,
+"",,,past crimes,,
+"",,,from criminal,,
+"",,,"databases,",,
+"",,,OSINT and,,
+"",,,social media.,,
+iPS,"Aprilia, Italy.",G-WISE.,G-WISE: Big,Govt. & Intel.,Also see iPS in
+"",,,Data analytics,agencies.,“Lawful
+"",,,of metadata,,Intercept
+"",,,and content for,,"Solutions,”"
+"",,,trend analysis,,“Mobile
+"",,,+ predictive,,"Location,”"
+"",,,analytics.,,"Malware,”"
+"",,G-SEARCH.,G-SEARCH:,,"“Biometric ID,”"
+"",,,Semantic text,,and “OSINT
+"",,,analysis for,,and Social
+"",,,precise,,Media.”
+"",,,meaning of,,
+"",,,target’s text.,,
+Kofax,"Irvine, CA,",Kofax,Kofax,Govt. & Intel.,Lexmark
+"",USA.,Capture.,Capture:,agencies.,acquired Kofax
+"",,,Collects and,,(May 2015).
+"",,,provides real,,Kofax acquired
+"",,,time,,Kapow
+"",,,intelligence,,Software
+"",,,from all types,,"(Irvine, CA),"
+"",,,"of text,",,Aug 2013. See
+"",,,including,,Kofax Kapow
+"",,,"machine print,",,in “OSINT and
+"",,,hand print and,,Social Media.”
+"",,,cursive,,
+"",,,"handwriting, in",,
+"",,,more than 140,,
+"",,,languages.,,
+Leidos,"Reston, VA,",Mission,Mission,Govt.& Intel.,Leidos was
+"",USA.,Solutions.,Solutions:,agencies and,created as a
+"",,,Big Data and,"Military: DHS,",defense-
+"",,,real time,the Intelligence,focused spinoff
+"",,,predictive,Community –,of SAIC in Sept
+"",,,analytics for,notably DoD &,2013. Also see
+"",,,SIGINT.,NSA.,Leidos in
+"",,,Delivers,,“OSINT &
+"",,,Content and,,Social Media
+"",,,thematic,,Monitoring.”
+"",,,analysis via,,
+"",,,Natural,,
+"",,,Language,,
+"",,,Processing.,,
+MemSQL,"San Francisco,",MemSQL In-,MemSQL In-,Govt. & Intel.,Backed by CIA
+"","CA, USA.",Memory,Memory,agencies.,VC In-Q-Tel.
+"",,Database.,Database:,,
+"",,,Accelerates,,
+"",,,Big Data,,
+"",,,analytics by,,
+"",,,scaling out,,
+"",,,storage in,,
+"",,,RAM versus,,
+"",,,"disc, and using",,
+"",,,distributing,,
+"",,,processing.,,
+NORSI-,"Moscow,",Vitok-3X.,Vitok-3X:,Govt. & Intel.,Also see
+TRANS,Russia.,,Visualization,agencies.,NORSI-TRANS
+"",,,software for,,under “Lawful
+"",,,Big Data.,,Intercept
+"",,,Presents vivid,,"Solutions,”"
+"",,,graphics,,“Packet
+"",,,showing,,"Monitoring,”"
+"",,,intersection of,,“Mobile
+"",,,target’s,,"Location,” and"
+"",,,communication,,“OSINT and
+"",,,with financial,,Social Media.”
+"",,,info and,,
+"",,,geolocation.,,
+Paladion,Mumbai &,Link Analysis.,Link Analysis:,"LEAs, Govt. &",Also see
+"","Bangalore,",,Analyzes,Intel. agencies.,Paladion in
+"",India.,,target,,“Lawful
+"",,,relationships.,,Intercept
+"",,,,,"Solutions,”"
+"",,,,,“Mobile
+"",,,,,"Location,”"
+"",,,,,“Malware” and
+"",,,,,“Forensics.”
+Palantir,"Palo Alto, CA,",Palantir,Palantir,"CIA, other",Based on Java.
+"",USA.,Intelligence.,Intelligence:,Govt. & Intel.,Received start-
+"",,,Analytical,"agencies,",up funding from
+"",,,reasoning,enterprise,"In-Q-Tel, CIA’s"
+"",,,facilitated by,market,non-profit VC.
+"",,,interactive,including,Also see
+"",,,visual,financial sector,Palantir in
+"",,,interfaces.,and first,“Military.”
+"",,,"Fuses SIGINT,",responders.,
+"",,,"HUMINT,",,
+"",,,"OSINT,",,
+"",,,GEOINT and,,
+"",,,"other sources,",,
+"",,,integrating,,
+"",,,"structured,",,
+"",,,"unstructured,",,
+"",,,"relational,",,
+"",,,geospatial and,,
+"",,,temporal data,,
+"",,,into a single,,
+"",,,model.,,
+"",,,Delivers,,
+"",,,visualization of,,
+"",,,"trends, events,",,
+"",,,relationships.,,
+"",,,For operational,,
+"",,,strategic,,
+"",,,planning &,,
+"",,,tactical,,
+"",,,response.,,
+Raytheon,"Waltham, MA,",Data Clarity.,Data Clarity,LEAs.,Both Raytheon
+"",USA.,,and Raytheon,,products derive
+"",,Raytheon,Sureview:,,from
+"",,Sureview.,identical,,Raytheon’s
+"",,,products sold,,acquisition of
+"",,,by two different,,Visual Analytics
+"",,,divisions –,,(2012). Visual
+"",,,Raytheon,,Analytics was
+"",,,Websense and,,founded in 1998
+"",,,Raytheon,,and predates
+"",,,Cyber,,Palantir by 5
+"",,,Products – in,,years.
+"",,,both cases,,Raytheon does
+"",,,targeting the,,not offer Data
+"",,,"same market,",,Clarity or
+"",,,LEAs. For,,Sureview to
+"",,,visualization of,,U.S. military –
+Raytheon,,,complex data,,the 2 products
+"(continued)",,,"from OSINT,",,compete with
+"",,,evidence and,,the Distributed
+"",,,other sources.,,Common
+"",,,Applies,,Ground System
+"",,,network,,"(DCGS), a joint"
+"",,,"analytics,",,venture of
+"",,,computational,,Raytheon and
+"",,,analytics &,,Lockheed. Also
+"",,,temporal,,see Raytheon
+"",,,analytics of,,in “Military.”
+"",,,events and,,
+"",,,behaviors to,,
+"",,,Big Data.,,
+Roke Manor,"Romsey,",Big Data,Big Data,Govt. & Intel.,Also see Roke
+Research (a,Hampshire UK.,Exploitation.,Exploitation:,"agencies,",Manor
+Chemring,,,Real time,Military and,Research in
+Group,,,analytics.,Enterprises.,“Lawful
+company),,,"Extracts,",,Intercept
+"",,,scores and,,"Solutions,”"
+"",,,applies,,“Forensics”
+"",,,statistical,,and “Military.”
+"",,,analysis to,,
+"",,,heuristic and,,
+"",,,streaming data,,
+"",,,to deliver,,
+"",,,“actionable,,
+"",,,insights.”,,
+RCS Labs,"Milan, Italy.",MITO3,MITO3,"LEAs, Govt. &",Also see RCS
+"",,Analytics.,Analytics:,Intel. agencies.,Labs in
+"",,,Statistical,,“Lawful
+"",,,analysis of,,Intercept
+"",,,targets and,,"Solutions,”"
+"",,,groups for,,“Mobile
+"",,,trends and,,Location”
+"",,,behavior;,,“OSINT and
+"",,,matched to,,Social Media”
+"",,,"maps, dates,",,and
+"",,,times; Palantir-,,“Malware.”
+"",,,like,,
+"",,,visualization.,,
+SciEngines,"Kiel, Germany.",RIVYERA S6-,RIVYERA S6-,Govt. & Intel.,
+"",,LX150.,LX150:,agencies.,
+"",,,Performs brute,,
+"",,,force custom,,
+"",,,hardware,,
+"",,,attack for,,
+"",,,cryptanalysis.,,
+"",,,Massive,,
+"",,,parallel,,
+"",,,processing,,
+"",,,system based,,
+"",,,on FPGAs,,
+"",,,(field,,
+"",,,programmable,,
+"",,,gate arrays),,
+SciEngines,,,made by Xilinx.,,
+"(continued)",,RIVYERA S6-,RIVYERA S6-,,
+"",,LX150 DDS.,LX150 DDS:,,
+"",,,Desktop,,
+"",,,version of the,,
+"",,,S6-LX150.,,
+Septier,"Petach Tikva,",Septier,Septier,"LEAs, Govt. &",Also see
+"",Israel.,Information,Information,"Intel. agencies,",Septier in
+"",,Explorer.,Explorer: Big,Military.,“Lawful
+"",,,Data Analytics,,Intercept
+"",,,system,,"Solutions,”"
+"",,,provides a,,“Mobile
+"",,,data pool like,,Location” and
+"",,,"Hadoop , then",,“Military.”
+"",,,applies,,
+"",,,"scoring,",,
+"",,,statistical,,
+"",,,"analysis,",,
+"",,,heuristic and,,
+"",,,predictive,,
+"",,,analytics to,,
+"",,,determine,,
+"",,,targets of,,
+"",,,"interest, and",,
+"",,,guide,,
+"",,,preemptive,,
+"",,,actions.,,
+Sqrll,"Cambridge,",Sqrll,Sqrll,"NSA, Govt. &",Sqrll Enterprise
+"","MA, USA.",Enterprise.,Enterprise:,Intel. agencies.,is the alleged
+"",,,Real time,,basis of NSA’s
+"",,,predictive,,PRISM. Sqrll
+"",,,analytics,,was founded by
+"",,,"software,",,six former NSA
+"",,,powered by,,employees.
+"",,,Apache,,Company is led
+"",,,Accumulo to,,by former White
+"",,,reveal threat,,House
+"",,,patterns from,,cybersecurity
+"",,,metadata.,,strategy
+"",,,,,director.
+SRI,"Menlo Park,",Angler.,Angler: Web-,Govt. & Intel.,AI2: marketed
+International,"CA, USA.",,based,agencies.,as cognitive or
+"",,,collaboration,,“human like”
+"",,,tool for,,"reasoning, but"
+"",,,consensus and,,involves as
+"",,,ranking. Uses,,much human as
+"",,,SRI’s “AI”,,AI collaboration.
+"",,,programs AI2,,
+"",,,"for clustering,",,
+"",,,consensus and,,
+"",,,ranking.,,
+"",,SEAS.,SEAS:,,
+"",,,“Structured,,
+"",,,Evidential,,
+"",,,Argumentation,,
+"",,,System.”,,
+SRI,,,Designed for,,
+International,,,Intelligence,,
+"(continued)",,,"Community,",,
+"",,,provides,,
+"",,,analytics for,,
+"",,,assessing,,
+"",,,stability and,,
+"",,,terror threats.,,
+SS8,"Milpitas, CA,",Intelligo,Intelligo,"LEAs, Govt. &",Also see SS8
+"",USA.,Investigator.,Investigator:,Intel. agencies,in “Lawful
+"",,,Analytics for,,Intercept
+"",,,visualization of,,"Solutions,”"
+"",,,"intelligence,",,“Packet
+"",,,trends and,,Monitoring”
+"",,,threats,,and
+"",,,revealed by,,“Malware.”
+"",,,"voice, data,",,
+"",,,"social media,",,
+"",,,"CDRs, OSINT",,
+"",,,and Link,,
+"",,,Charting.,,
+"",,Intelligo,Intelligo,,
+"",,iDossier.,iDossier:,,
+"",,,Provides,,
+"",,,storage and,,
+"",,,analysis of,,
+"",,,"CDR, IPDRs,",,
+"",,,OSINT and,,
+"",,,social media,,
+"",,,intelligence.,,
+Trovicor,"Munich,",Intelligence,Intelligence,Govt. & Intel.,Also see
+"",Germany.,Platform.,Platform:,agencies.,Trovicor in
+"",,,Surveillance,,“Lawful
+"",,,system,,Intercept
+"",,,includes,,Solutions”
+"",,,"analytics,",,“Mobile
+"",,,visualization,,"Location,”"
+"",,,and semantics,,“Malware” and
+"",,,analysis.,,“OSINT and
+"",,,,,Social Media.”
+Ultra,"Middlesex, UK.",End-to-End,ECAS: Real,Govt. & Intel.,Also see Ultra
+Electronics,,Communica-,time predictive,"agencies,",Electronics in
+"",,tions Analysis,analytics.Folds,Military.,“Packet
+"",,System,in data from,,"Monitoring,”"
+"",,(ECAS).,"Ultra DPI,",,“Biometric ID”
+"",,,"OSINT, voice",,and “Military.”
+"",,,"biometrics, RF",,
+"",,,monitoring and,,
+"",,,GEOINT,,
+"",,,solutions.,,
+"",,,Analyzes and,,
+"",,,scores data to,,
+"",,,"ID target,",,
+"",,,threat level.,,
+"",,,Recommends,,
+"",,,response.,,
+Ultra,,Signal,SAGE:,,
+Electronics,,Analytics and,Pinpoints,,
+"(continued)",,Geospatial,target location,,
+"",,Exploitation,through RF,,
+"",,(SAGE).,Signal Analysis,,
+"",,,+ highly-,,
+"",,,directional,,
+"",,,"antennas,",,
+"",,,"triangulation,",,
+"",,,"GPS, Angle-of-",,
+"",,,"Arrival (AOA),",,
+"",,,Time,,
+"",,,Difference of,,
+"",,,Arrival (TDOA),,
+"",,,and Received,,
+"",,,Signal,,
+"",,,Strength (RSS),,
+"",,,+ GEOINT and,,
+"",,,satellite,,
+"",,,imagery.,,
+"",,,Collates target,,
+"",,,comms date,,
+"",,,from Ultra’s,,
+"",,,"DPI solution,",,
+"",,,ARIES.,,
+"",,Miderva.,Miderva:,,
+"",,,Unified,,
+"",,,recording and,,
+"",,,storage,,
+"",,,platform for all,,
+"",,,types of data:,,
+"",,,"audio, video",,
+"",,,and screens,,
+"",,,"from IP, mobile",,
+"",,,and wireline,,
+"",,,networks,,
+Verint,"Melville, NY,",Fusion,Fusion,Govt. & Intel.,Also see
+"",USA.,Intelligence,Intelligence,agencies.,Verint in
+"",,Center.,Center: Big,,“Lawful
+"",,,Data Analytics,,Intercept
+"",,,with,,"Solutions,”"
+"",,,visualization.,,“Mobile
+"",,,Uses Verint,,"Location,”"
+"",,,Skylock for,,“Ethical
+"",,,target location.,,"Malware,”"
+"",,,Correlates,,"“Military,”"
+"",,,feeds from,,“OSINT and
+"",,,"Web content,",,Social Media”
+"",,,police field,,and
+"",,,"reports,",,“Malware.”
+"",,,criminal,,
+"",,,"records,",,
+"",,,"vehicle info,",,
+"",,,personal and,,
+"",,,CDRs.,,
+Company,Location,Solution,Function,Market,Of Note
+Cellebrite,"Petah Tikva,",Cellebrite Touch.,Cellebrite,"CSPs,",Used by 50
+"",Israel.,,Touch: Small,"LEAs,Govt.",wireless CSPs
+"",,,standalone,& Intel.,worldwide.
+"",,,touch-screen,"agencies,",
+"",,,unit performs,Military.,
+"",,,"physical, file",,
+"",,,"system, and",,
+"",,,logical,,
+"",,,extractions of,,
+"",,,all data and,,
+"",,,passwords,,
+"",,,"from a device,",,
+"",,,including,,
+"",,,deleted data.,,
+"",,UFED4PC.,UFED4PC:,,
+"",,,Full mobile,,
+"",,,extraction,,
+"",,,capabilities in,,
+"",,,software for,,
+"",,,any PC.,,
+"",,UFEDTK.,UFEDTK: For,,
+"",,,field,,
+"",,,operatives.,,
+"",,,Provides full,,
+"",,,extraction,,
+"",,,capabilities in,,
+"",,,ruggedized,,
+"",,,Panasonic,,
+"",,,laptops/tablets.,,
+"",,UFED InField Kiosk.,UFED InField,,
+"",,,Kiosk: Field,,
+"",,,version,,
+"",,,platform for,,
+"",,,real time,,
+"",,,mobile data,,
+"",,,extraction. Can,,
+"",,,be networked,,
+"",,,to share or,,
+"",,,access data.,,
+"",,,Captures,,
+"",,,screen shots.,,
+"",,,Two systems,,
+"",,,available with,,
+"",,,all products:,,
+"",,,UFED Logical,,
+"",,,(extracts,,
+"",,,mobile data).,,
+"",,,UFED,,
+"",,,Ultimate,,
+"",,,(extraction +,,
+"",,,analytics),,
+Guidance,"Pasadena,",EnCase Forensic.,EnCase,"LEAs, Govt.",
+"","CA, USA.",,Forensic:,& Intel.,
+"",,,Rack-mounted,agencies.,
+"",,,or laptop,,
+"",,,forensics,,
+"",,,system for,,
+"",,,evidence,,
+"",,,gathering.,,
+"",,,Acquires and,,
+"",,,analyzes data,,
+"",,,from multiple,,
+"",,,"devices, both",,
+"",,,fixed & mobile.,,
+MSAB,"Stockholm,",XRY.,XRY:. Mobile,"LEAs, Govt.",Formerly
+"",Sweden.,,forensics.,& Intel.,Micro
+"",,,Attacks at,"agencies,",Systemation
+"",,,three points of,Military.,– re-branded
+"",,,boot-up: (1),,as MSAB in
+"",,,chipsets; (2),,2016.
+"",,,bootloaders,,
+"",,,with generic,,
+"",,,features that,,
+"",,,can be cracked,,
+"",,,by inserting,,
+"",,,code; and (3),,
+"",,,operating,,
+"",,,systems with,,
+"",,,generic,,
+"",,,profiles.,,
+"",,,Penetrates,,
+"",,,over 600 apps.,,
+"",,,Add-on,,
+"",,,modules,,
+"",,,include,,
+"",,,"analytics,",,
+"",,,visualization,,
+"",,,and mapping.,,
+"",,XRY Field Version.,XRY Field,,
+"",,,Version: XRY,,
+"",,,system in,,
+"",,,rugged case.,,
+NEC,"Tokyo,",NeoFace Reveal.,NeoFace,"LEAs, Govt.",Also see NEC
+"",Japan.,,Reveal:,& Intel.,in
+"",Worldwide,,Forensics,"agencies,",“Biometrics.”
+"",offices in,,solution that,commercial,
+"","Asia, the",,matches faces,enterprises.,
+"","Americas,",,captured by,,
+"","Europe,",,NeoFace,,
+"",Africa and,,Watch with,,
+"",the Middle,,criminal or,,
+"",East.,,terrorist,,
+"",,,mugshots.,,
+Ockham,"Paris,",Mercure3.,Mercure3:,"LEAs, Govt.",
+Solutions,France.,,Mobile,& Intel.,
+"",,,forensics with,agencies.,
+"",,,advanced,,
+"",,,analytics.,,
+"",,,Collects all,,
+"",,,data in the,,
+"",,,target device &,,
+"",,,maps against,,
+"",,,Intel. from,,
+"",,,financial and,,
+"",,,criminal,,
+"",,,"records,",,
+"",,,"GEOINT,",,
+"",,,"HUMINT,",,
+"",,,OSINT or,,
+"",,,SIGINT to,,
+"",,,determine,,
+"",,,target,,
+"",,,networks.,,
+"",,,Works with,,
+"",,,structured &,,
+"",,,unstructured,,
+"",,,data. Custom-,,
+"",,,designed input,,
+"",,,engine handles,,
+"",,,any data,,
+"",,,format.,,
+"",,,Sophisticated,,
+"",,,but user,,
+"",,,friendly.,,
+Oxygen,"Moscow,",Oxygen Forensic,Oxygen,"LEAs, Govt.",Also see
+Software,Russia.,Analyst.,Forensic,& Intel.,Oxygen
+"","Alexandria,",,Analyst:,agencies.,Software in
+"","VA, USA.",,Collects data,,“OSINT and
+"",,,"over 15,000",,Social
+"",,,mobile devices,,Media.”
+"",,,"and 340 ,",,
+"",,,capture apps.,,
+"",,,Provides,,
+"",,,analytics and,,
+"",,,visualization of,,
+"",,,all content and,,
+"",,,metadata and,,
+"",,,exports data to,,
+"",,,common file,,
+"",,,formats.,,
+"",,Oxygen Forensic,Oxygen,,
+"",,Detective.,Forensic,,
+"",,,Detective:,,
+"",,,Same,,
+"",,,functionality as,,
+"",,,Analyst + finds,,
+"",,,device,,
+"",,,"passwords,",,
+"",,,disables,,
+Oxygen,,,screen lock on,,
+Software,,,Android,,
+"(continued)",,,"devices,",,
+"",,,extracts data,,
+"",,,"from clouds,",,
+"",,,imports and,,
+"",,,analyzes data,,
+"",,,and provides,,
+"",,,visualization of,,
+"",,,target’s,,
+"",,,common,,
+"",,,routes and,,
+"",,,mobile,,
+"",,,location.,,
+"",,Oxygen Forensic,Oxygen,,
+"",,Cloud Extractor.,Forensic,,
+"",,,Cloud,,
+"",,,Extractor:,,
+"",,,Extracts data,,
+"",,,from 25 cloud,,
+"",,,services,,
+"",,,including,,
+"",,,"Google, Apple",,
+"",,,"iCloud,",,
+"",,,Microsoft Live,,
+"",,,"Dropbox, Box",,
+"",,,and BitCasa.,,
+Paladion,Mumbai &,Computer &,Computer &,"LEAs, Govt.",Also see
+"","Bangalore,",Cellphone,Cellphone,& Intel.,Paladion in
+"",India.,Forensics.,Forensics:,agencies.,“Lawful
+"",,,System,,Intercept
+"",,,actively,,"Solutions,”"
+"",,,deciphers PC,,“Mobile
+"",,,and mobile,,Location”
+"",,,device,,“Advanced
+"",,,encryption for,,Analytics”
+"",,,evidence,,and
+"",,,gathering.,,“Malware.”
+Paraben,"Ashburn, VA,",DS 7.,DS 7.6:,,“Logical
+Mobile,USA.,,“Device,,extraction”
+Forensics,,,Seizure” of,,duplicates
+"",,,“logical”,,data on the
+"",,,evidence,,mobile device
+"",,,extraction from,,itself.
+"",,,any operating,,“Physical
+"",,,system,,extraction”
+"",,,including Apple,,duplicates all
+"",,,iOS 10 and,,data including
+"",,,Android,,deleted files
+"",,,Marshmellow,,held in flash
+"",,,OS.  Limits on,,drives.
+"",,,combined,,
+"",,,logical/physical,,
+"",,,extraction for,,
+"",,,Android and,,
+"",,,Apple.,,
+Paraben,,Mobile Field Kit.,Mobile Field,,
+Mobile,,,Kit: Portable,,
+Forensics,,,DS 7.6.,,
+"(continued)",,Stronghold Faraday,Stronghold,,
+"",,Protection.,Faraday,,
+"",,,Protection:,,
+"",,,Prevents,,
+"",,,interference,,
+"",,,"with,",,
+"",,,contamination,,
+"",,,or deletion of,,
+"",,,evidence on a,,
+"",,,captured,,
+"",,,mobile device.,,
+Phonexia,"Brno, Czech",Phonexia Voice,Phonexia,"LEAs, Govt.",Also see
+"",Republic.,Inspector.,Voice,& Intel.,Phonexia in
+"",,,Inspector:,agencies.,“Biometrics.”
+"",,,Forensics,,
+"",,,software,,
+"",,,solution based,,
+"",,,on voice,,
+"",,,biometrics.,,
+"",,,Creates,,
+"",,,biometric voice,,
+"",,,prints of,,
+"",,,recording of,,
+"",,,unknown,,
+"",,,targets. Maps,,
+"",,,against,,
+"",,,biometric,,
+"",,,database.,,
+Radio Tactics,Southampton,Aceso Kiosk.,Aceso Kiosk,"LEAs, Govt.",Also see
+"",UK.,,v 7.4: Desktop,& Intel.,Radio Tactics
+"",,,data extraction,"agencies,",in “Military.”
+"",,,from mobile,Military.,
+"",,,"phones, GPS",,
+"",,,"devices, SIM",,
+"",,,and media,,
+"",,,cards for,,
+"",,,forensics.,,
+"",,,Includes iOS,,
+"",,,10.,,
+"",,Aceso Field.,Aceso Field:,,
+"",,,Portable,,
+"",,,version of,,
+"",,,Aceso Kiosk.,,
+"",,Handset Access,Handset,,
+"",,Card (HAC).,Access Card:,,
+"",,,(HAC): mobile,,
+"",,,device,,
+"",,,forensics via,,
+"",,,SIM card,,
+"",,,replication.,,
+Radio Tactics,,Integrated Camera,Integrated,,
+"(continued)",,Capability.,Camera,,
+"",,,Capability:,,
+"",,,For Aceso,,
+"",,,Kiosk – high,,
+"",,,resolution,,
+"",,,images of,,
+"",,,captured,,
+"",,,mobile device,,
+"",,,IMEI and SIM,,
+"",,,numbers.,,
+"",,POLUS.,POLUS:,,
+"",,,Automated,,
+"",,,data retention,,
+"",,,of forensics,,
+"",,,evidence in,,
+"",,,encrypted,,
+"",,,“evidential,,
+"",,,container.”,,
+"",,,Can be used,,
+"",,,with 3rd party,,
+"",,,Advanced,,
+"",,,Analytics.,,
+Roke Manor,"Romsey,",Roke Forensics.,Roke,"LEAs, Govt.",Also see
+Research (a,Hampshire,,Forensics:,& Intel.,Roke Manor
+Chemring,UK.,,"Mobile, cloud",agencies.,Research in
+Group,,,and OSINT,,“Lawful
+company),,,forensics.,,Intercept
+"",,,Penetrates,,"Devices,”"
+"",,,target’s mobile,,“Advanced
+"",,,device to,,"Analytics,”"
+"",,,access,,and
+"",,,"content,",,“Military.”
+"",,,websites,,
+"",,,"visited, and",,
+"",,,recent,,
+"",,,activities.,,
+"",,,Works on,,
+"",,,Android,,
+"",,,devices as an,,
+"",,,"app, and on",,
+"",,,OSINT and the,,
+"",,,cloud.,,
+"",,Base Station,Base Station,,
+"",,Survey.,Survey: Smart,,
+"",,,phone app can,,
+"",,,pull all data,,
+"",,,from a mobile,,
+"",,,base station,,
+"",,,for analysis.,,
+Savvius,Walnut,Omnipeek,Omnipeek,"CSPs,",Also see
+"","Creek, CA,",Distributed,Distributed,LEAs.,Savvius in
+"",USA.,Analysis.,Analysis:,,“Lawful
+"",,,Wireless,,Intercept
+"",,,forensics with,,Solutions”
+"",,,real time,,and “Packet
+Savvius,,,analytics.,,Monitoring.”
+"(continued)",,,Captures and,,
+"",,,analyzes all,,
+"",,,WiFi or other,,
+"",,,targeted,,
+"",,,mobile traffic,,
+"",,,including,,
+"",,,"email, IM and",,
+"",,,VoIP.,,
+STC,St.,Ikar Lab.,Ikar Lab: The,LEAs and,STC’s core
+"","Petersburg,",,full package of,Govt. Intel.,product. 360
+"",Russia.,,STC audio,agencies.,deployments
+"",,,forensics,,worldwide.
+"",,,solutions,,Also see STC
+"",,,including SIS II,,in
+"",,,"software,",,“Biometrics.”
+"",,,Sound,,
+"",,,Cleaner II,,
+"",,,noise,,
+"",,,"reduction,",,
+"",,,EdiTracker,,
+"",,,audio,,
+"",,,authenticity,,
+"",,,"analytics,",,
+"",,,Caesar audio,,
+"",,,"transcription,",,
+"",,,STC-H246,,
+"",,,audio,,
+"",,,"hardware,",,
+"",,,ANF II noise,,
+"",,,"filtering,",,
+"",,,VoiceGrid,,
+"",,,Local,,
+"",,,biometrics,,
+"",,,"database, and",,
+"",,,Voice,,
+"",,,Sampling,,
+"",,,workstation.,,
+"",,SIS II.,SIS II: Core,,
+"",,,software,,
+"",,,platform for,,
+"",,,speech signal,,
+"",,,"analysis,",,
+"",,,"visualization,",,
+"",,,segmentation,,
+"",,,and text,,
+"",,,transcript.,,
+"",,Sound Cleaner II.,Sound,,
+"",,,Cleaner II:,,
+"",,,Noise filtering,,
+"",,,and sound,,
+"",,,enhancement.,,
+"",,ANF II.,ANF II:,,
+"",,,Dedicated,,
+"",,,noise filtering,,
+"",,,hardware.,,
+Company,Location,Solution,Function,Market,Of  Note
+BrightPlanet,"Sioux Falls,SD, USA.","Deep WebMonitor.","Deep WebMonitor: harveststweets, blogs, RSSfeeds, surfacesites and DeepWeb sites.","LEAs,Govt. &Intel.agencies,Military.","BrightPlanetabandoned itsBlue JayTwittermonitoringservice (2016),which camewith a uniquefeature:malware thattook over thetarget device’scamera andcoordinatedvisualsurveillancewith streetvideocams.Also seeBrightPlanetin “AdvancedAnalytics.”"
+CrowdControl,"Birmingham,UK.","CrowdControlHQ.BuzzMonitor.","CrowdControlHQ:Tracks keywordsin Google+ publicprofiles, Twitter,Facebook, Googlenews and blogconversations tomonitor “socialmedia risk.”BuzzMonitor:Twitter usergeolocation bypostal code.",LEAs.,
+"DecisionsGroup","Taipei,Taiwan.",E-Detective.,"E-Detective: DPIwith rules engineset to captureTwitter &Facebook user ID,profile andlocation.",LEAs.,"Also seeDecisionsGroup in“PacketMonitoring.”"
+DigitalStakeOut,,,"keyword, phrase,",,
+"(continued)",,,metadata or,,
+"",,,complex rule.,,
+"",,,Sentiment,,
+"",,,algorithms assess,,
+"",,,"threats, security",,
+"",,,algorithms for,,
+"",,,vulnerabilities.,,
+"",,,Statistical signal,,
+"",,,processing,,
+"",,,algorithms alert re:,,
+"",,,dangerous,,
+"",,,anomalies.,,
+"",,,Provides geo-,,
+"",,,"spatial, cluster,",,
+"",,,social graph and,,
+"",,,cloud,,
+"",,,visualizations.,,
+FinFisher,"Munich,",FinFisher,FinFisher,"LEAs,",Also see
+"",Germany.,Crawler.,Crawler: Uses,Govt. &,FinFisher in
+"",,,FinFisher FinSpy,Intel.,“Malware.”
+"",,,to infect and,agencies.,
+"",,,monitor social,,
+"",,,networks.,,
+Geofeedia,"Chicago, IL,",GeoSearch.,GeoSearch: User,Primarily,
+"",USA.,,can create a,commercial,
+"",,,perimeter around,"use, but",
+"",,,any location and,relevant to,
+"",,,monitor social,"LEAs,",
+"",,,posts media from,Govt. &,
+"",,,"Twitter, Facebook,",Intel.,
+"",,,"Instagram,",agencies.,
+"",,,"YouTube, Flickr,",,
+"",,,Picasa and Viddy.,,
+"",,GeoStreamer.,GeoStreamer:,,
+"",,,Monitor multiple,,
+"",,,feeds generated,,
+"",,,from one location,,
+"",,,or targeted area,,
+"",,,simultaneously.,,
+"",,Monitoring &,Monitoring &,,
+"",,Analytics.,Analytics: Applies,,
+"",,,predictive analytics,,
+"",,,to social media for,,
+"",,,breaking trends.,,
+"",,,Integrates with e-,,
+"",,,discovery,,
+"",,,platforms including,,
+"",,,Concordance and,,
+"",,,CaseMap to,,
+"",,,combine location,,
+"",,,data with case-,,
+"",,,related data.,,
+Group 2000,"Almelo,",LIMA Social,LIMA Social,"LEAs,",Also see
+"",Netherlands.,Media Insights.,Media Insights:,Govt. &,Group 2000 in
+"","Oslo,",,"Discovery,",Intel.,“Lawful
+"",Norway.,,collection and,agencies.,Intercept
+"","Freienbach,",,analysis of social,,"Solutions,”"
+"",Switzerland.,,media and other,,“Mobile
+"","Wilmington,",,"OSINT, including",,Location” and
+"","DE, USA.",,"linguistic analysis,",,“Biometric
+"",,,to reveal target,,ID.”
+"",,,"identity, networks,",,
+"",,,trends and threats.,,
+iPS,"Aprilia, Italy.",G- SNAKE.,G-SNAKE:,Govt. &,Also see iPS
+"",,,Intrusion into,Intel.,in “Lawful
+"",,,social networks.,agencies.,Intercept
+"",,GENESI-DATA.,GENISI-DATA:,,"Solutions,”"
+"",,,Provides portal to,,“Mobile
+"",,,target’s Facebook,,"Location,”"
+"",,,account to profile,,“Advanced
+"",,,& build relationship,,"Analytics,”"
+"",,,network for,,“Malware”
+"",,,analysis.,,and
+"",,,,,“Biometric
+"",,,,,ID.”
+Kapow,"Irvine, CA,",Kapow,Kapow Extraction,"LEAs,",Also see
+"",USA.,Extraction,Browser: Real,Govt. &,Kofax Capture
+"",,Browser.,time Deep Web,Intel.,in “Advanced
+"",,,harvesting views,agencies.,Analytics.”
+"",,,and sorts dynamic,,
+"",,,changes in a web,,
+"",,,page. Provides,,
+"",,,analytics for,,
+"",,,context and,,
+"",,,visualization.,,
+Leidos,"Reston, VA,",Digital Echo.,Digital Echo:,Govt. &,Also see
+"",USA.,,“Customizable,Intel.,Leidos in
+"",,,virtual scalpel” for,agencies.,“Advanced
+"",,,OSINT and social,,Analytics.”
+"",,,media. Targets,,
+"",,,and analyzes,,
+"",,,selected or broad,,
+"",,,content fields.,,
+"",,,Assesses regions,,
+"",,,"and populations,",,
+"",,,content and,,
+"",,,sentiment,,
+"",,,"analysis. Locates,",,
+"",,,maps and,,
+"",,,visualizes targets,,
+"",,,on social media,,
+"",,,and their,,
+"",,,connections.,,
+LexisNexis – a,"Dayton, OH,",Accurint Social,Accurint Social,LEAs.,Powered by
+subsidiary of,USA.,Media Monitor.,Media Monitor:,,DigitalStakeout
+Reed-Elsevier,,,"Intercepts,",,See Digital
+"",,,"monitors, locates",,Stakeout and in
+"",,,targets and,,“Military”)
+"",,,“controls social,,
+"",,,"media”: Facebook,",,
+"",,,"Twitter, Google+,",,
+"",,,others.,,
+NetBase,Mountain,NetBase.,NetBase: Delivers,"LEAs,",Re-sold by
+"","View, CA,",,and visualizes real,"ISPs,",SAP NetBase
+"",USA.,,time social media,search,claims that its
+"",,,"data, showing key","engines,",platform
+"",,,influencers,social,processes
+"",,,Leverages Natural,media,posts nine-
+"",,,Language,sites.,times faster
+"",,,Processing (NLP),,and 50 to 70%
+"",,,with text analytics,,more
+"",,,and AI to,,accurately than
+"",,,understand,,other tools.
+"",,,context of social,,
+"",,,media posts and,,
+"",,,streams. Platform,,
+"",,,works in 42,,
+"",,,languages and,,
+"",,,“decodes”,,
+"",,,"colloquialisms,",,
+"",,,abbreviations and,,
+"",,,misspellings.,,
+"",,,Captures trends,,
+"",,,and individual,,
+"",,,conversations.,,
+"",,,Tracks target,,
+"",,,sentiment for any,,
+"",,,"topic or trend,",,
+"",,,showing “share of,,
+"",,,voice” over time..,,
+"",,,Enables Boolean,,
+"",,,(true or false),,
+"",,,queries. Provides,,
+"",,,up to 27 months of,,
+"",,,historical data.,,
+Ntrepid,"Herndon,",Ion.,Ion: Provides,Govt. &,Integrates with
+"","VA, USA.",,secret Deep Web,Intel.,popular Web
+"",,,dispersing Web,"agencies,",harvesting
+"",,,search activities,LEAs.,solutions
+"",,,across thousands,,including Kofax
+"",,,of anonymous IP,,"Kapow,"
+"",,,addresses.,,Connotate and
+"",,,Ion Sessions: For,,eGrabber.
+"",,,session-dependent,,Ntrepid also
+"",,Ion Sessions.,"queries, enables",,produces
+"",,,user-controlled IP,,"“Anonymizer,”"
+"",,,persistence for,,a VPN service
+"",,,Deep Web,,for concealing
+"",,,searches.,,user identity.
+Ntrepid,,Tartan.,Tartan: Leverages,,Ntrepid has
+"(continued)",,,user data,,held contract to
+"",,,information to,,provide “online
+"",,,determine key,,personas” for
+"",,,influencers and,,U.S. Central
+"",,,hidden links in,,Command
+"",,,social networks.,,since 2011.
+"",,,Also reveals IDs,,
+"",,,behind aliases.,,
+"",,Timestream.,Timestream:,,
+"",,,Organizes data,,
+"",,,into case,,
+"",,,evidence.,,
+Elbit Systems,"Ra’anana,",WEBINT.,WEBINT: Deep,Govt. &,Also see Elbit
+CYBERBIT,Israel.,,Web tracking for,Intel.,Systems
+"",,,OSINT. Can be,agencies.,CYBERBIT
+"",,,integrated with,,In “Advanced
+"",,,other data for,,"Analytics,”"
+"",,,analysis.,,“Lawful
+"",,Text Analysis.,Text Analysis:,,Intercept
+"",,,searches for,,"Solutions,”"
+"",,,keywords and,,“Mobile
+"",,,patterns that,,"Location,”"
+"",,,"identify a target,",,“Biometric
+"",,,and trigger alerts.,,"ID,”"
+"",,,,,"“Malware,”"
+"",,,,,and “Military.”
+NORSI-TRANS,"Moscow,",Yakhont-R.,Yakhont-R:,"LEAs,",Also see
+"",Russia.,,Collects and,Govt. &,NORSI-TRANS
+"",,,stores details on,Intel.,in “Lawful
+"",,,Internet and social,agencies.,Intercept
+"",,,media users’,,"Solutions,”"
+"",,,"personal ID, user",,Packet
+"",,,"name, IP address",,"Monitoring,”"
+"",,,registration with,,“Mobile
+"",,,"service, and",,Location” and
+"",,,records of,,“Advanced
+"",,,"reception,",,Analytics.”
+"",,,transmission and,,
+"",,,"processing of data,",,
+"",,,"written text,",,
+"",,,images or sounds.,,
+PredPol,"Santa Cruz,",PredPol.,PredPol:,LEAs,Reported to
+"","CA, USA",,Predictive policing.,,reduce crimes
+"",,,Combines Big,,15% -
+"",,,Data analytics of,,30%.Some
+"",,,heuristic crime,,controversy
+"",,,data with real time,,over validity of
+"",,,social media,,testimonials –
+"",,,analysis to create,,LA Police Dept.
+"",,,patterns that,,denied PredPol
+"",,,determine next,,claim that it
+"",,,likely crime scene,,had used the
+"",,,and perpetrators.,,product.
+RCS Labs,"Milan, Italy.",MITO3 Social,MITO3 Social,"LEAs,",Also see RCS
+"",,Network,Network,Govt. &,Labs in
+"",,Analysis.,Analysis:,Intel.,“Lawful
+"",,,Analytics tools,Agencies.,Intercept
+"",,,applied to Twitter,,"Solutions,”"
+"",,,Facebook to,,“Mobile
+"",,,"identify users,",,"Location,”"
+"",,,"relationships,",,"“Malware,”"
+"",,,sentiments and,,and
+"",,,threats.,,“Advanced
+"",,,,,Analytics.”
+Recorded,"Boston, MA",Temporal,Temporal,Govt. &,Backed by CIA
+Future,and,Analytics Engine,Analytics Engine,Intel.,In-Q-Tel
+"","Arlington,",(TAE).,(TAE): Applies,agencies.,venture capital
+"","VA, USA.",,real time predictive,,and private
+"","London, UK.",,analytics to Deep,,financing. Co-
+"","Göteborg,",,Web and other,,founder and
+"",Sweden.,,OSINT to forecast,,and Chief
+"",,,trends and alert to,,Scientist
+"",,,imminent threats.,,Staffan Truvé
+"",,,TAE produces,,also serves as
+"",,,stream-generated,,CEO of the
+"",,,analysis of events,,Swedish
+"",,,in the real world --,,Institute of
+"",,,extracting the,,Computer
+"",,,targeted entity or,,Science
+"",,,"entities, the",,"(SICS), and is"
+"",,,"attacker, where",,co-founder of
+"",,,and when they will,,Carlstedt
+"",,,strike.Unlike,,Research and
+"",,,competing,,Technology
+"",,,products reliant on,,(CRT).
+"",,,"link analysis, TAE",,
+"",,,uses “implicit”,,
+"",,,analysis revealing,,
+"",,,relationships,,
+"",,,"between events,",,
+"",,,"timing, location,",,
+"",,,"attackers,",,
+"",,,attackers’ urls &,,
+"",,,sentiments and,,
+"",,,who attacked.,,
+SunTech –,"Florianópolis,",FOCAL-INFO.,FOCAL-INFO:,"LEAs,",Also see
+Verint Group,Brazil.,,Deep Web,Govt. &,Suntech in
+"",,,harvesting for,Intel.,“Lawful
+"",,,OSINT.,agencies.,Intercept
+"",,,,,Solutions”
+"",,,,,and “Mobile
+"",,,,,Location.”
+Tencent,"Shanghai,",QQ Circle.,QQ Circle:,Govt. of,China’s largest
+"",China.,,Analytics target,China.,Internet portal.
+"",,,social media,,
+"",,,relationships.,,
+Trackur,"Raleigh, NC,",Trackur.,Trackur: Provides,Primarily,
+"",USA.,,social media,commercial,
+"",,,tracking and,"use, but",
+"",,,sentiment,relevant to,
+"",,,analysis.,"LEAs,",
+"",,Senfluence.,Senfluence:,Govt. &,
+"",,,"Monitors news,",Intel.,
+"",,,"social media,",agencies.,
+"",,,videos & images.,,
+"",,,Extracts sentiment,,
+"",,,of any url and,,
+"",,,understands its,,
+"",,,influence/footprint,,
+"",,,on the Web.,,
+"",,,Extracts relevant,,
+"",,,content.,,
+Trovicor,"Munich,",Intelligence,Intelligence,Govt. &,Also see
+"",Germany.,Platform.,Platform:,Intel.,Trovicor in
+"",,,Surveillance,agencies.,“Lawful
+"",,,system includes,,Intercept
+"",,,"interception, trend",,Solutions”
+"",,,"tracking, analytics",,“Mobile
+"",,,and visualization,,"Location,”"
+"",,,of social media,,“Malware”
+"",,,integrated with,,and
+"",,,other intelligence,,“Advanced
+"",,,collected.,,Analytics.”
+Verint,"Melville, NY,",Web Alert.,Web Alert: Pre-,LEAs.,Also see
+"",USA.,,crime social media,,Verint in
+"",,,monitoring. Crawls,,“Lawful
+"",,,all major sites plus,,Intercept
+"",,,emojis and blogs,,"Solutions,”"
+"",,,in 82 languages.,,Mobile
+"",,,Shows links,,"Location,”"
+"",,,between targets &,,“Advanced
+"",,,affiliates and those,,"Analytics,”"
+"",,,with strongest,,“Military” and
+"",,,connections.,,“Malware.”
+"",,,Some location,,
+"",,,capabilities.,,
+"",,,Customizable to,,
+"",,,specific geozones.,,
+"",,,“Time machine”,,
+"",,,recreates events,,
+"",,,to find suspects,,
+"",,,and possible,,
+"",,,witnesses.,,
+"",,Web Intelligence,Web Intelligence,,
+"",,Center.,Center: Collects,,
+"",,,analyzes content,,
+"",,,"from Open Web,",,
+"",,,"blogs, social",,
+"",,,"media, news sites,",,
+"",,,"hosting services,",,
+"",,,Deep Web and,,
+"",,,Dark Web.,,
+Company,Location,Solution,Function,Market,Of Note
+AECOM,Los,Intelligence and,Intelligence and,"Military,",Manages
+"","Angeles,",Language,Language Support:,Govt. &,cyber
+"",CA.,Support.,Translation and,Intel.,security for
+"",,,interpretation services +,agencies.,U.S. DoD
+"",,,native-speaking linguists.,,CyberCom
+"",,,"Provides research,",,global
+"",,,"development, and testing",,missions.
+"",,,capability in 153 less,,Also a
+"",,,commonly taught,,partner of
+"",,,languages. Provides,,malware
+"",,,analytics and,,"company,"
+"",,,COMINT/HUMINT,,The Hacking
+"",,,support.,,Team.
+ATIS,Bad,Klarios RMS.,Klarios RMS: RF signal,"CSPs, Govt.",Also see
+UHER,"Homberg,",,monitoring. Provides,& Intel.,ATIS UHER
+"",Germany,,direct control of,"agencies,",in “Lawful
+"",,,connected or integrated,"LEAs,",Intercept
+"",,,radio receiver and,Military.,"Solutions,”"
+"",,,antenna systems via a,,“Mobile
+"",,,special interface.,,Location”
+"",,,Focuses on targeted,,and
+"",,,"channels, filtering out",,“Advanced
+"",,,irrelevant signals.,,Analytics.”
+"",,,Results can be fed  into,,
+"",,,Klarios IDA for analytics,,
+"",,,and visualization.,,
+Cintel,Peachtree,Acuity.,Acuity: Web-based,"Military,",
+"","City, GA,",,software platform serves,"LEAs, Govt.",
+"",USA.,,as field sensor,& Intel.,
+"",,,intelligence collection,agencies.,
+"",,,solution. Aggregates,,
+"",,,covert/overt CCTV feeds:,,
+"",,,"logs data, captures still",,
+"",,,"images, integrates",,
+"",,,location data; social,,
+"",,,network analysis; plus,,
+"",,,metadata search.,,
+"",,,Provides interactive,,
+"",,,mapping for GEOINT.,,
+CRFS,"Cambridge,",RFeye Node.,RFeye Node: Four,"Military,",
+"",UK.,,models of frequency,Govt. &,
+"",,,monitoring nodes,Intel.,
+"",,,delivering between 20,"agencies,",
+"",,,Mhz to 100 Mhz of,LEAs.,
+"",,,bandwidth. Provides real,,
+"",,,time monitoring for,,
+"",,,suspicious radio activity.,,
+"",,,Uses GPS to find & time-,,
+"",,,stamp transmissions.,,
+"",,,Recent advance includes,,
+"",,,expansion of frequency,,
+"",,,range 18GHz.,,
+CRFS,RFeye Monitor.,RFeye Monitor: Network
+"(cont.)",,of distributed RFeye
+"",,nodes for 24X7 collecting
+"",,and managing spectrum
+"",,data.
+"",RFeye Roofbox.,RFeye Roofbox:
+"",,Vehicle-based spectrum
+"",,surveillance + GUI
+"",,mapping & analytics
+"",,devices.
+"",RFeye,RFeye Stormcase:
+"",Stormcase.,Portable intelligent RF
+"",,receiver stand-alone
+"",,operation or integrated
+"",,with CRFS wideband
+"",,spectrum monitoring
+"",,network.
+"",RFeye,RFeye Backpack:
+"",Backpack.,Wearable RFeye RF
+"",,monitoring with built-in
+"",,GPS for urban or field
+"",,operations.
+"",Array 50 and,Array 50 and 300: Suite
+"",300.,of 2 fixed or vehicle
+"",,mounted
+"",,antenna/receiver for real
+"",,time RF monitoring z.
+"",,"Intercepts, analyzes,"
+"",,classifies and geolocates
+"",,targets. Measures “Angle
+"",,of Arrival” and
+"",,augmented “Time
+"",,Difference of Arrival” and
+"",,“Power of Arrival” of RF
+"",,signals to pinpoint target
+"",,location.
+"",DRFM Platform.,DRFM Platform: Digital
+"",,Radio Frequency
+"",,Memory combines
+"",,distributed RFeye nodes
+"",,with portable monitoring
+"",,center to monitor wide
+"",,area. Data acceleration
+"",,via Altera or Xilinkc field
+"",,programmable gate
+"",,arrays (FPGAs) for real
+"",,time data feed with zero
+"",,packet loss.
+"",Site.,Site: Desktop app for
+"",,monitoring wide area RF
+"",,monitoring via RFeye
+"",,Nodes.
+CRYPTON-,"Kiev,",Terra-Pro.,Terra-Pro: Digital,"Military,",Also see
+M,Ukraine.,,Network Monitoring,Intel.,CRYPTON-
+"",,,Center for GSM and,agencies.,M in
+"",,,VSAT satellite,,“Lawful
+"",,,"interception. Extracts,",,Intercept
+"",,,"records, retains and",,Solutions”
+"",,,analyzes signal type and,,and “Mobile
+"",,,content including,,Location.”
+"",,,documents. Determines,,
+"",,,mobile location via SS7.,,
+DELTA,"Kiev,",DELTA SPE.,DELTA SPE:,"Military,",
+SPE,Ukraine.,,Interception of satellite,Govt. &,
+"",,,packet data services,Intel.,
+"",,,"(Internet, VoIP, FoIP).",agencies.,
+"",,,Tactical WiFi,,
+"",,,interception.,,
+Digital,"Suwanee,",Digital,Digital Stakeout: People,"Military,",Partners
+Stakeout,"GA, USA.",Stakeout.,Search (250 Million+,Govt. &,with
+"",,,Profiles):  Archive Search,Intel.,LexisNexis.
+"",,,(Billion+ Geo Enabled,agencies.,Also see
+"",,,"Posts); Social Tag,",,“Digital
+"",,,"Track, & Location",,Stakeout”
+"",,,(STTL).Profile & Geo-,,in “OSINT
+"",,,Location Analytics.,,and Social
+"",,,,,Media.”
+Elbit,"Ra’anana,",NA.,SATCOM: Partners with,"Military,",Also see
+Systems,Israel.,,Imagesat Intl. to provide,Govt. &,Elbit
+CYBERBIT,,,persistent wide area,Intel.,Systems
+"",,,IMINT and GEOINT via,agencies.,CYBERBIT
+"",,,low earth orbit satellite.,,in
+"",,,Can be integrated with,,“Advanced
+"",,,CYBERBIT's other,,"Analytics,”"
+"",,,"capabilities in COMINT,",,“Lawful
+"",,,"HUMINT, SIGINT and",,Intercept
+"",,,OSINT including social,,"Solutions,”"
+"",,,media -- plus findings,,“Mobile
+"",,,from the PSS malware.,,"Location,”"
+"",,,,,“Biometric
+"",,,,,"ID,”"
+"",,,,,“OSINT and
+"",,,,,Social
+"",,,,,"Media,” and"
+"",,,,,“Malware.”
+ELTA,Ben Gurion,ELI-6063.,ELI-6063: Integrated,"Military,",ELTA
+"Systems, a","Intl Airport,",,mobile ground-based,Govt. &,Systems is a
+division of,Israel.,,"SIGINT,COMINT, ELINT",Intel.,subsidiary of
+IAI (Israeli,,,and EW (electronic,agencies.,Israel
+Aerospace,,,"warfare) system. Detects,",,Aerospace
+Industry),,,"monitors, analyzes,",,Industries.
+"",,,"locates, records and jams",,Also see
+"",,,enemy radars and,,ELTA
+"",,,communications.Truck-,,Systems in
+"",,,based platform integrates,,“Mobile
+"",,,with multiple fixed,,Location.”
+"",,,"COMINT/DF, ESM (radar",,
+"",,,"intercept), ECM (radar",,
+ELTA,,,jamming) and radio-relay,,
+Systems,,,jamming stations.,,
+"(cont.)",,ELK-7066.,ELK-7066: Airborne,,
+"",,,passive off-the-air GSM,,
+"",,,interception system.,,
+"",,,Filters target calls by,,
+"",,,"identity (IMSI, TMSI,",,
+"",,,"IMEI, MSISDN), area of",,
+"",,,"activity, calling/called",,
+"",,,party and location.,,
+"",,,Intercepts  and retains,,
+"",,,call & IP metadata.,,
+Gita Tech-,"Tel Aviv,",Horizon.,Horizon: Tactical,Military.,
+nologies,Israel.,,"interception of Iridium,",Govt. &,
+"",,,"Thuraya, and the",Intel.,
+"",,,Inmarsat Isatphone. Can,agencies.,
+"",,,intercept full voice/data,,
+"",,,content in the clear plus,,
+"",,,IMSI/TMSI/EMRI,,
+"",,,"numbers, social media",,
+"",,,and web browsing and,,
+"",,,target location. Captures,,
+"",,,uplink to a satellite and,,
+"",,,line-of-sight connection,,
+"",,,to a target’s mobile,,
+"",,,device. Hack-in,,
+"",,,techniques: spoofing to,,
+"",,,exploitation of GPS,,
+"",,,vulnerability and,,
+"",,,scanning. Also does,,
+"",,,man-in-the-middle,,
+"",,,attacks on SATCOM,,
+"",,,signals.,,
+Keysight,Santa,N9041B UXA,N9041B UXA: New top,"Military,","In 2016,"
+"(formerly","Clara, CA,","Signal Analyzer,",of the line signal analyzer,Govt. &,Keysight
+Agilent),USA.,"Multi-touch, 3Hz",characterizes elusive,Intel.,announced
+"",,to 100GHz.,millimeter wave signals:,agencies.,its own 5G
+"",,,"5G, 802.11, satellite and",,“blind mobile
+"",,,radar. Makes continuous,,location”
+"",,,sweeps and captures,,"solution, in"
+"",,,low-level spurious,,competition
+"",,,signals. Simplifies,,with Medav.
+"",,,analysis of new or,,Keysight
+"",,,emerging bandwidth,,offers 54
+"",,,signals.,,signal
+"",,,,,analyzers
+"",,,,,that span
+"",,,,,needs for
+"",,,,,"real time,"
+"",,,,,desktop and
+"",,,,,hand-held
+"",,,,,RF signal
+"",,,,,signal inter-
+"",,,,,ception and
+"",,,,,analysis.
+Medav,"Uttenreuth,",Medav Radio,Medav Radio,"Military,",Acquired by
+GmbH,Germany.,Monitoring and,Monitoring and,Govt. &,defense
+"(Saab)",,Surveillance.,Surveillance: RF,Intel.,contractor
+"",,,"monitoring, direction",agencies.,Saab AB
+"",,,finding & location.,,"(Stockholm,"
+"",,Ultra Wideband,Ultra Wideband MIMO,,"Sweden),"
+"",,MIMO Real Time,Real Time Channel,,Oct. 2012.
+"",,Channel,Sounder: directional,,Operates as
+"",,Sounder.,resolution.,,Medav. Also
+"",,,,,see Medav
+"",,Intelligence,Intelligence Fusion: Big,,in “Mobile
+"",,Fusion.,Data analytics for military,,Location.”
+"",,,SIGINT applications.,,
+Palantir,"Palo Alto,",Gotham.,Gotham: Visualization.,"Military,",Also see
+"","CA, USA.",,Integrates multiple,Govt. &,Palantir in
+"",,,databases to provide,Intel.,“Advanced
+"",,,detailed real time profile,agencies.,Analytics.”
+"",,,"of target, trends &",,
+"",,,potential outcomes. Tags,,
+"",,,and unifies structured &,,
+"",,,unstructured data:,,
+"",,,financial records &,,
+"",,,"transactions, historic &",,
+"",,,"recent travel, SIGINT,",,
+"",,,"COMINT, human",,
+"",,,"networks, DNA samples,",,
+"",,,"biometric voiceprints,",,
+"",,,"video surveillance,",,
+"",,,records of military &,,
+"",,,terrorist actions.,,
+"",,,Visualization reveals off-,,
+"",,,network target contacts.,,
+Panoptech,"Hampshire,",Clarity.,Clarity: Situational,"Military,",
+"",UK.,,awareness tool provides,Govt. &,
+"",,,integrated overview of,Intel.,
+"",,,surveillance.,agencies.,
+"",,Convergent,Convergent Intelligence,,
+"",,Intelligence,Platform: Fast Action,,
+"",,Platform.,Command Tasking,,
+"",,,Software (FACTS),,
+"",,,platform as command,,
+"",,,and control element,,
+"",,,controls logging and,,
+"",,,analysis. Integrates with,,
+"",,,TransVisual Media,,
+"",,,Convergent Intelligence,,
+"",,,Platform (TVM-CIP).,,
+"",,,Tracks GPS inputs of,,
+"",,,mobile vehicle airwave,,
+"",,,radios in real time.,,
+"",,,Integrates with aerial,,
+"",,,photography and,,
+"",,,manages overt/covert,,
+"",,,CCTV surveillance.,,
+"",,,Sends alerts to target,,
+"",,,cameras.,,
+PLATH,"Hamburg, ACOS.",ACOS (Automatic,"Military,",Also see
+Group,Germany.,COMINT System). Uses,Govt. &,PLATH
+"",,machine learning to,Intel.,under Nexa
+"",,automate the bulk of RF,agencies.,Technolo-
+"",,"frequency surveillance,",,gies in
+"",,freeing operators to focus,,“Packet
+"",,on suspicious traffic.,,Monitoring”
+"",ICAS.,ICAS (Intelligence,,
+"",,Control and Analysis,,
+"",,System): Intercepts and,,
+"",,"analyzes RF signals,",,
+"",,serving as command and,,
+"",,control center.,,
+"",JDS.,JDS (Jamming and,,
+"",,Deceiving System):.,,
+"",,Jams HF/VHF/UHF RF,,
+"",,and can adapt to emulate,,
+"",,the opponent’s frequency,,
+"",,"to  intercept and record,",,
+"",,or reproduce the signals,,
+"",,and act as the sender.,,
+"",MACOS.,MACOS: Passive sensor,,
+"",,"for interception of GSM,",,
+"",,hand-held radio and,,
+"",,SATCOM phones.,,
+"",,Primary use is coastal,,
+"",,patrols where smaller,,
+"",,opponent vessels do not,,
+"",,track on radar.,,
+"",NALOS.,NALOS (Narrowband,,
+"",,Location System):,,
+"",,utomated COMINT,,
+"",,system for locating,,
+"",,standard and ”low,,
+"",,probability of intercept”,,
+"",,(LPI) signals in the HF,,
+"",,domain. Uses spectral,,
+"",,data analysis of RF,,
+"",,signals vs. conventional,,
+"",,direction finding.,,
+"",TRACE.,TRACE: “Mobile System,,
+"",,for Electromagnetic,,
+"",,Spectrum Intelligence.”,,
+"",,Modular platform scales,,
+"",,from use for monitoring,,
+"",,conventional mobile,,
+"",,networks to RF.,,
+Providence,"Hereford, NA",Procurement experts:,"Military,",Emphasis on
+Group,UK and,Choose best-in-class,"LEAs,",solutions
+"","Haarlem,",solutions for: Covert,Counter-,customized
+"",per need and Netherlands,"Audio and Video; Tag,","Terrorism,",
+"",,,,hands-on
+"",,Track and Locate; Long,Border,
+"",,,,training.
+"",,Range Video; Tactical,Patrol.,
+"",,Intercept Systems;,,
+"",,Tactical Cyber Solutions;,,
+"",,Store & Forward,,
+Providence,,,Audio/Video Solutions;,,
+Group,,,Covert Method of Entry,,
+"(cont.)",,,(CMOE) Solutions; Alarm,,
+"",,,Defeat; Data Forensics;,,
+"",,,Infrared and Night Vision,,
+"",,,Cameras; RF Jamming;,,
+"",,,Technical Surveillance,,
+"",,,Counter Measures,,
+"",,,(TSCM) – “bug,,
+"",,,"sweeping”; and, Tactical",,
+"",,,and Covert Radio,,
+"",,,Systems.,,
+Radio,Southhamp,ATHENA.,ATHENA: Portable,"Military,",Also see
+Tactics,"-ton, UK.",,"system for GPS location,","LEAs, Govt.",Radio
+"",,,"interception, content &",& Intel.,Tactics in
+"",,,real time social media,agencies.,“Forensics”
+"",,,interception. Matches,,
+"",,,mission data to database,,
+"",,,for matches. Integrates,,
+"",,,with facial and finger print,,
+"",,,biometrics. Can intercept,,
+"",,,"SIM Cards, GPS,",,
+"",,,SATCOM and “gray,,
+"",,,market” phones.,,
+Raytheon,"Waltham,",Blackbird,Blackbird Gotham TTL:,Military.,Blackbird
+"",MA,Gotham TTL.,"Tracking, tagging and",,acquired by
+"",,,locating services (TTL),,Raytheon
+"",,,developed by Blackbird,,(2014). Also
+"",,,Accesses targets on,,see
+"",,,mobile or SATCOM.,,Raytheon in
+"",,,Provides GPS and GSM,,“Advanced
+"",,,mobile location.,,Analytics.”
+Rheinmettal,"Dusseldorf,",Ares.,Ares: For C/L band,Military.,
+Defence,Germany.,,Thuraya satellite,,
+"",,,"interception. Acquires,",,
+"",,,"down-converts,",,
+"",,,"demodulates, decrypts",,
+"",,,and decodes SATCOM,,
+"",,,signals. Analyzes the,,
+"",,,"intercept for content,",,
+"",,,target position and target,,
+"",,,relation. Monitors 34,,
+"",,,channels in either C or L,,
+"",,,"band, and analyzes up to",,
+"",,,68 channels,,
+"",,,simultaneously. Use of,,
+"",,,Digital Signal Processors,,
+"",,,and FPGA hardware,,
+"",,,accelerators brings,,
+"",,,performance to wire,,
+"",,,speed in a compact  unit.,,
+"",,Artemis.,Artemis: Same features,,
+"",,,"and functions as Ares,",,
+"",,,but for L/L Band Thuraya.,,
+Roke,"Romsey,",MILOR.,MILOR: Miniature,"Military,",Also see
+Manor,Hampshire,,eLORAN receiver,Govt. &,Roke in
+Research,UK.,,penetrates any obstacle -,Intel.,“Lawful
+"",,,"- buildings,  foliage, to",agencies.,Intercept
+"",,,find and maintain contact,,"Solutions,”"
+"",,,with the target’s position.,,“Advanced
+"",,RESOLVE.,RESOLVE: compact RF,,Analytics”
+"",,,signal interception for,,and
+"",,,Military field use.,,Forensics.”
+"",,LOCATE.,LOCATE: Roke,,
+"",,,Electronic Warfare,,
+"",,,Manpack - portable,,
+"",,,version of RESOLVE.,,
+"",,,,,
+Shoghi,Himachal,SCL-3412.,"SCL-3412: C, Ku, X and",Military.,Also see
+Communi-,"Pradesh,",,Ka-Band Satellite,,Shoghi in
+cations,India.,,Monitoring System which,,“Lawful
+"",,,can intercept,,Intercept
+"",,,International/national,,Solutions”
+"",,,"telecom carriers, GSM A",,and “Mobile
+"",,,and Abis links and IP,,Location.”
+"",,,Carriers over satellite.,,
+"",,,Intercepts content,,
+"",,,"including Voice, Fax,",,
+"",,,"SMS, EmailBrowsed",,
+"",,,"Webpages, Chat",,
+"",,,Sessions and,,
+"",,,attachments. IDs,,
+"",,,originating point country,,
+"",,,and destination point,,
+"",,,"country,",,
+"",,,outgoing/incoming,,
+"",,,"number and Cell ID,",,
+"",,,"IMSI, TMSI, IMEI",,
+"",,,numbers.,,
+Stratign,"Dubai,",SATCOM,SATCOM Interception:,Military.,Also see
+"",United Arab,Interception.,Separate systems for,,Stratign in
+"",Emirates.,,"Thuraya, Iridium and",,“Mobile
+"",,,ISAT.,,Location”
+"",,,,,and
+"",,,,,“Malware.”
+Thales,Neuilly‐sur‐,PAC-ELSE.,PAC-ELSE: Tactical RF,Military.,Also see
+"","Seine,",,signal analysis.,,Thales in
+"",France.,,,,“Lawful
+"",,,,,Intercept
+"",,,,,Solutions”
+"",,,,,and
+"",,,,,“Packet
+"",,,,,Monitoring”
+Ultra,"Middlesex,",UltraEagle.,UltraEagle: Software,Military.,Also see
+Electronic,UK.,,defined radio interception,,Ultra
+"",,,"to capture, record and",,Electronics
+"",,,analyze enemy radar,,in
+"",,,transmissions.,,“Advanced
+"",,,,,"Analytics,”"
+"",,,,,“Packet
+"",,,,,Monitoring”
+"",,,,,and
+"",,,,,“Biometric
+"",,,,,ID.”
+VASTech,"Stellenbosch,",VASTech Zebra.,VASTech Zebra:,"Military,",
+"",South Africa.,,“Massive passive”,Govt. &,
+"",,,monitoring system for,Intel.,
+"",,,"voice, SMS and fax.","agencies,",
+"",,,"Interfaces with S-1,",LEAs.,
+"",,,Gitabit Ethernet and,,
+"",,,10GB Ethernet. Provides,,
+"",,,"target location, content",,
+"",,,and metadata intercepts.,,
+"",,,Also performs optical,,
+"",,,character recognition of,,
+"",,,"text and images, text",,
+"",,,search and,,
+"",,,speaker/gender ID.,,
+"",,VASTech,VASTech Badger: For,,
+"",,Badger.,monitoring broadband IP,,
+"",,,networks. Captures traffic,,
+"",,,"including email, VoIP and",,
+"",,,multimedia messages on,,
+"",,,multiple 10GB networks.,,
+"",,VASTech,VASTech Satellite,,
+"",,Satellite Signal,Signal Analyzer:,,
+"",,Analyzer.,Automatic analysis of,,
+"",,,satellite signals per the,,
+"",,,appropriate terminal,,
+"",,,configuration – modem of,,
+"",,,DCME – depending on,,
+"",,,the SATCOM operator.,,
+"",,,Decodes protocols and,,
+"",,,extracts content.,,
+"",,Fiber Signal,Fiber Signal Analyzer:,,
+"",,Analyzer.,Classifies and records,,
+"",,,signals on multi-GB,,
+"",,,Ethernet networks.,,
+"",,,Decodes TDM and IP,,
+"",,,signals.,,
+Verint,"Melville,",ENGAGE G12.,ENGAGE G12: Locates,"Military,",Also see
+"","NY, USA.",,"target via homing device,",Govt. &,Verint in
+"",,,extracts target's GPS,Intel.,“Advanced
+"",,,coordinates; can edit and,agencies.,"Analytics,”"
+"",,,re-route inbound and,,“OSINT and
+"",,,outbound calls/texts.,,Social
+"",,,Able to take over device,,"Media,”"
+"",,,microphone.,,“Mobile
+"",,,,,"Location,”"
+Verint,ENGAGE P12.,ENGAGE P12: Collects,“Lawful
+"(cont.)",,mass GSM intel over,Intercept
+"",,wide area. Analysis tools,Solutions”
+"",,"ID target by location,",and
+"",,"speech, link analysis, text",“Malware.”
+"",,matching. Intercepts,
+"",,voice and text calls.,
+"",,Decrypts A5/1 and A5/2,
+"",,encryption with,
+"",,embedded decipher.,
+"",,Selectively downgrades,
+"",,UMTS traffic to GSM.,
+"",,Allows multiple users.,
+"",,Undetectable to target.,
+"",ENGAGE S12.,ENGAGE S12: SATCOM,
+"",,interception.,
+"",SKYLOCK.,SKYLOCK: Global,
+"",,cellular location remotely,
+"",,locates GSM & UMTS,
+"",,targets to nearest cell,
+"",,tower in any locaton.,
+"",ENGAGE WiFi.,ENGAGE WiFi: WiFi,
+"",,interception & tampering.,
+"",ENGAGE TCC.,ENGAGE TCC: locate all,
+"",,targets on geo map.,
+"",,Custom solutions or out,
+"",,of the box.,
+"",VERINT,VERINT TACTICAL: real,
+"",TACTICAL.,time mobile location and,
+"",,satellite tracking for,
+"",,special operations.,
