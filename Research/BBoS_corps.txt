@@ -1,0 +1,178 @@
+### Fed the 5th Ed. (2017) of The Big Black Book of Surveillance [PDF] through Tabula (https://github.com/tabulapdf/tabula) and then grabbed
+### all the corporate surveillance company names from the first column, printed them here. Might be useful for FOIA.
+#
+## perl -F',' -lane 'print $F[0] if $F[0] =~ /\S/' tabula-The\ Big\ Black\ Book\ of\ Electronic\ Surveillance\ 5th\ Edition.csv | sort | uniq
+#
+"(DTT)""(IMS)"
+"(Saab)"
+46 Labs
+AECOM
+ALBEDO
+AQSAQOM
+ATIS
+ATIS UHER
+Ability
+Aculab
+Aerospace
+Agilent
+Aglaya
+Alcatel-
+Altron
+Amdocs
+Apogee
+Applied
+BAE Systems
+Blue Coat
+BrightPlanet
+CRFS
+CRYPTON-
+CRYPTON-M
+CYBERBIT
+Cellebrite
+Chemring
+Cintel
+Cisco
+ClearTrail
+Communi-
+CommuniGate
+Communica-
+Company
+Convergence
+Corporation
+CrowdControl
+DELTA
+Defence
+DigiTask
+DigiVox
+Digital
+DigitalStakeOut
+Dimension
+Discovery
+Division of
+Dreamlab
+ELTA
+Elaman
+Elbit
+Elbit Systems
+Electronic
+Electronics
+Endgame
+Expert
+Expert Team
+Fiberblaze
+Fifth
+FinFisher
+Flowmon
+Forensics
+Future
+GMbH
+Geofeedia
+Gita Tech-
+Glimmerglass
+GmbH
+Group
+Group 2000
+Guidance
+HP Enterprise
+Harris
+IAI (Israeli
+IBM
+INNOVA
+Intelligence
+Intercept
+Interception
+International
+Ixea
+Juniper
+Kapow
+Keysight
+Kofax
+Lawful
+Leidos
+LexisNexis
+Lucent
+MSAB
+Manor
+Mantaro
+Medav
+MemSQL
+Mobile
+Monitoring
+NEC
+NORSI-
+NORSI-TRANS
+NSF Telecom
+NSO Group
+NetBase
+Networks
+Ntrepid
+Ockham
+Oxygen
+PALADION
+PLATH
+Packet
+Paladion
+Palantir
+Panoptech
+Paraben
+Pen-Link
+Phonexia
+Pine Digital
+PredPol
+Providence
+RCS Labs
+Radio
+Radio Tactics
+Raytheon
+Rayzone
+Recorded
+Reed-Elsevier
+Research
+Research (a
+Rheinmettal
+Roke
+Roke Manor
+SIEMENS
+SPE
+SRI
+SS8
+SSI Pacific
+STC
+Savvius
+SciEngines
+Septier
+Shoghi
+Software
+Software Inc.
+Solutions
+Sqrll
+Stakeout
+Stalker
+Stratign
+Subsentio
+SunTech –
+Suntech –
+System
+Systems
+Systems (a
+TRANS
+Tactics
+Team
+Technologies
+Telecom
+Tencent
+Thales
+The Hacking
+TraceSpan
+Trackur
+Trovicor
+UHER
+Ultra
+Utimaco
+VASTech
+Verint
+Verint Group
+Yaana
+Zerodium
+subsidiary of
+tions
