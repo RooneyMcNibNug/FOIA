@@ -12,4 +12,4 @@ Slides created to serve an an introduction to Public Records Requests - What the
 Subfolders of responsive documents respective to public records requests I have made (on the state and federal levels)
 
 ### Python and Shell Scripts
-Some pieces of code in `.py` and `.sh` to handle MuckRock request automation, data wrangling, and other FOIA-related work (see comments within)
+Some pieces of code in `.py`, `.pl`, and `.sh` files to handle MuckRock request automation, data wrangling, and other FOIA-related work (see comments within)
