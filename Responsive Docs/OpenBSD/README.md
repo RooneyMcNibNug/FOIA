@@ -6,7 +6,7 @@ The record I was provided by the FBI was created Sept. 2002, and details a separ
 This record is also labelled To: COUNTERTERRORISM and requests "assistance from Legates Australia and Canada"
 
 ## [2025-03800-F.pdf](https://raw.githubusercontent.com/RooneyMcNibNug/FOIA/83e5e7462036a800eba4eba00975fbda76350394/Responsive%20Docs/OpenBSD/2025-03800-F.pdf)
-Later on, in 2023, I made a seperate request for different OpenBSD-related files to the the Defense Advanced Research Projects Agency (DARPA). I was looking for documents relating to the [Portable Open Source Security Elements (POSSE) project](https://en.wikipedia.org/wiki/POSSE_project) ran in the early 2000s, which recieved funding from DARPA. This request was eventually transferred to the Air Force Research Laboratory (AFRL/RI).
+Later on, in 2023, I made a seperate request for different OpenBSD-related files to the the Defense Advanced Research Projects Agency (DARPA). I was looking for documents relating to the [Portable Open Source Security Elements (POSSE) project](https://en.wikipedia.org/wiki/POSSE_project) ran in the early 2000s, which recieved funding from DARPA. This request was eventually transferred to the Air Force Research Laboratory (AFRL/RI): https://www.muckrock.com/foi/united-states-of-america-10/foia-darpa-openbsd-posse-funding-153048/
 
 There was some skepticism that the project/contract was terminated (more at this [archived news article](https://archive.is/xJWYO) on the subject) after Theo De Raadt made anti-war comments.
 
